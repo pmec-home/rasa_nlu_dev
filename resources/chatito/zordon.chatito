@@ -330,7 +330,7 @@
     ~[it's] ~[here/there]
     ~[we/you] are ~[here/there]
     ~[we/you] are ~[atthe] @[location]
-    ~[we/you] arrived
+    ~[we/you] arrived ~[here/there?]
     ~[we/you] arrived ~[atthe] @[location]
     this is the @[location]
     ~[here/there] is the @[location]
@@ -348,25 +348,20 @@
     course
 
 ~[action]
-    move
-    go
-    walk
+    ~[move]
     follow ~[pronoun?]
     accompany ~[pronoun?]
     track ~[pronoun?]
     pursue ~[pronoun?]
     go after ~[pronoun?]
     move after ~[pronoun?]
-    do it
-    advance
-    roam
-    search
     find ~[it?]
     grab ~[it?]
     take ~[it?]
     pick ~[it?]
     hold ~[it?]
     get ~[it?]
+    do it
 
 ~[actioning]
     following ~[pronoun?]
@@ -416,6 +411,86 @@
     ~[the?] ~[work]
 
 // **************************************************
+//  Intent
+//  move
+// **************************************************
+%[move]('training': '4000', 'testing': '4000')
+    ~[please_?] ~[command_be_move] ~[bot?]
+    ~[command_be_move] ~[bot?] ~[_please:thanks?]
+    ~[iwill/want] ~[command_be] ~[bot?]
+    ~[iwill/want] to ~[command_move] ~[bot?]
+
+@[direction]
+    ~[forward]
+    ~[backward]
+    left
+    right
+
+~[forward]
+    front
+    forward
+    ahead
+    forth
+    onward
+    along
+
+~[backward]
+    rear
+    backward
+    backwards
+    rearward
+    back
+    reverse
+
+~[move]
+    move
+    go
+    walk
+    travel
+    advance
+    roam
+    search
+    navigate
+    drive
+    migrates
+    run
+
+~[be]
+    be
+    stay
+    stand
+    wait
+    wait for me
+
+~[iwill/want]
+    I will be waiting for you
+    ~[im] waiting
+    I'll be waiting for you
+    I want you
+    I would like
+    I would like for you
+
+~[command_move]
+    ~[move]
+    ~[move] to @[pronoun?] //TODO
+    ~[move] ~[on?] @[direction]
+    ~[move] ~[atthe] @[location]
+
+~[command_be]
+    ~[be] ~[atthe] @[location]
+    ~[atthe] @[location]
+
+~[command_be_move]
+    ~[command_be]
+    ~[command_move]    
+
+~[on]
+    on
+    in
+    to the
+
+
+// **************************************************
 //  Utils
 //  Used in multiples intents
 // **************************************************
@@ -439,11 +514,13 @@
 
 ~[atthe]
     ~[to/on/at] the
+    by the
     nearby the
     nearby to the
     nearby at the
     close to the
     close at the
+    close by the
     closely to the
     near the
     next to the
