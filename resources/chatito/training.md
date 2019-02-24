@@ -1,0 +1,10011 @@
+## intent:affirmative
+- sir that sounds good
+- zordon nice
+- if you are kind thank you bud
+- yea Im fine with that
+- thats what i agree on bot thank you
+- yeah dude please
+- mean that pal please
+- thats ok pal thank you
+- valid robot please I would appreciate it
+- that is good roboga please thank you I appreciate it
+- very nice fellow please
+- of course zord please
+- you understood me fellow please
+- that sounds good roboga
+- gladly sir
+- definitely bud please
+- that is good little guy please
+- precise of course
+- that's good guy please
+- that is it machine I appreciate it
+- machine that is fine
+- you got that precise roboga
+- i crave it friend
+- all right sir I appreciate it
+- that's perfect little guy thanks
+- valid dude please thanks I appreciate it
+- valid friend please thanks I appreciate it
+- you are goddamn exact bot thanks I appreciate it
+- that sounds good pal please
+- you got that precise pal
+- exactly pal please
+- yes that is perfect
+- definitely little guy please
+- very nice pal please I appreciate it
+- very nice zord please
+- true buddy thank you I appreciate it
+- perfect dude
+- little guy indeed
+- that's exact bot please
+- of course zord
+- very good bot please thanks
+- nice thank you
+- I'm all right with that buddy please
+- let's go little guy please thank you I appreciate it
+- is it acceptable machine thanks I appreciate it
+- yes to that you're goddamn precise
+- that sounds good sir thanks I appreciate it
+- that's what i mean little guy please I would appreciate it
+- gladly dude please I would appreciate it
+- do it fellow please
+- like that bud
+- you understood me zord
+- let's do it buddy
+- very nice sir please thanks
+- you understood me please
+- bud I am good with this
+- sure fellow thank you
+- go bot please
+- nice very nice
+- definitely fellow please
+- that's what i want guy
+- yes
+- agree on that please thanks I appreciate it
+- exactly friend thank you
+- that's it little guy please
+- of course machine
+- you got that precise sir please
+- sure machine please thank you
+- that sounds good zord please thank you I appreciate it
+- let's go thanks I appreciate it
+- you're goddamn precise fellow
+- let's do it zordon please thanks
+- affirmative exactly
+- bot true
+- of course zordon please
+- please zordon
+- that's perfect machine please thanks I appreciate it
+- that is it bud thank you I appreciate it
+- go zordon please
+- indeed fellow
+- yep pal please I appreciate it
+- definitely machine
+- true little guy
+- do it dude
+- indeed zordon please
+- that sounds good buddy I appreciate it
+- I am ok with this roboga thank you
+- ok you understood me
+- that's right please I would appreciate it
+- that is what i crave robot I appreciate it
+- valid dude I would appreciate it
+- zordon very good
+- of course little guy thanks
+- definitely bot please thanks I appreciate it
+- Im ok with this
+- I'm all right with that bot please I would appreciate it
+- very good sir please
+- you're exact buddy
+- agree on it
+- yes to that zordon
+- do it pal please I would appreciate it
+- fine sounds good
+- do it sir please I would appreciate it
+- definitely pal please
+- that sounds good sir please thank you
+- go robot please I appreciate it
+- friend that sounds good
+- valid zord
+- i crave that bud thanks
+- that sounds good bud please
+- you understood me machine thanks I appreciate it
+- I'm all right with this zord please thank you
+- of course roboga I would appreciate it
+- yea go
+- very good buddy please
+- Im good with this guy please thanks
+- sure zordon thanks I appreciate it
+- precise zordon I appreciate it
+- sure buddy thanks
+- you are correct robot thanks
+- you got that acceptable zordon please
+- that's exact bud please
+- I am all right with that guy thank you I appreciate it
+- friend you got that precise
+- that's good dude please thank you I appreciate it
+- very nice zordon please thanks I appreciate it
+- indeed machine
+- nice you're goddamn acceptable
+- of course
+- you understood me pal
+- I am all right with that bot please I would appreciate it
+- that's it zordon please thanks
+- definitely sir please
+- valid zord thank you I appreciate it
+- true guy thanks
+- that's it zord please
+- yeah dude thanks I appreciate it
+- you understood me pal please
+- i desire it dude please thank you
+- you are precise fellow please
+- guy indeed
+- correcto that is it
+- you got that exact please
+- do it robot
+- need that sir please thank you
+- I love it thanks bot
+- sure robot please thank you I appreciate it
+- that is it zordon please
+- very nice little guy please
+- it is what i desire robot please
+- indeed robot please
+- Im all right with this little guy
+- you understood me zordon please I would appreciate it
+- you got that accurate friend thanks I appreciate it
+- that's it sir please thanks I appreciate it
+- yes to that very nice
+- you're correct friend please thank you
+- yes friend please
+- exactly friend please thanks I appreciate it
+- fellow you understood me
+- you understood me sir
+- true little guy thanks
+- you are goddamn acceptable zordon please I appreciate it
+- thats what i want little guy please thanks I appreciate it
+- let's go pal
+- you got that precise robot please thank you I appreciate it
+- definitely guy please
+- you got that exact thanks I appreciate it
+- yes to that i want that
+- that is it bud
+- you are correct little guy please I appreciate it
+- I am ok with that robot please thanks I appreciate it
+- that's ok bot please
+- all right
+- its what i want friend please I would appreciate it
+- roboga it's accurate
+- that's correct please
+- let's go zord please thanks I appreciate it
+- sure fellow please thanks I appreciate it
+- very nice roboga
+- sounds good sir please I would appreciate it
+- yep what i crave
+- of course robot please
+- that is it guy please thank you
+- I am fine with that please thanks I appreciate it
+- indeed roboga I would appreciate it
+- is it what i want zord please
+- let's go please thank you I appreciate it
+- gladly fellow
+- that's it zordon
+- robot that sounds good
+- that is what i want dude
+- of course guy
+- yea
+- let's do it please thanks I appreciate it
+- yea that sounds good
+- that's it machine thank you
+- like that guy please
+- sounds good dude
+- you're goddamn precise pal please
+- gladly roboga
+- of course friend please
+- sure zordon please
+- go friend please
+- definitely sir
+- very nice friend
+- go roboga thanks I appreciate it
+- affirmative I'm ok with this
+- little guy let's go
+- that is it bot please thanks
+- go fellow please thank you
+- that is it robot please I appreciate it
+- yea guy please I appreciate it
+- you are precise robot
+- if you are kind thanks roboga
+- go sir I appreciate it
+- thats accurate roboga please
+- that is perfect guy I appreciate it
+- let's go buddy please
+- that's it roboga
+- you understood me little guy thank you
+- go
+- right Im fine with this
+- exactly robot please I would appreciate it
+- that is it guy I would appreciate it
+- let's do it machine
+- pal you are precise
+- let's do it zordon thank you I appreciate it
+- i wish it sir I appreciate it
+- sounds good fellow please
+- that's it machine please
+- yes to that buddy please thank you I appreciate it
+- that's it zordon please
+- very good zord please thanks
+- true sir please I appreciate it
+- true guy thanks I appreciate it
+- yea of course
+- sure robot please
+- i agree on that zord please
+- valid sir please
+- right robot
+- you are acceptable robot please thanks
+- you are goddamn correct fellow please
+- pal exactly
+- you got that precise sir I would appreciate it
+- sounds good sir
+- of course roboga
+- that sounds good bud please thanks I appreciate it
+- true zord thank you I appreciate it
+- ok dude
+- si sure
+- go sir I would appreciate it
+- do it dude please thank you I appreciate it
+- you understood me pal thanks I appreciate it
+- let's go little guy please thank you
+- you are correct dude please
+- go bud thank you I appreciate it
+- that sounds good fellow
+- exactly zord thanks I appreciate it
+- go sir please thank you I appreciate it
+- pal Im ok with this
+- that sounds good robot please
+- perfect guy
+- accurate Im fine with that
+- very nice sir I appreciate it
+- it is right robot thank you
+- let's do it roboga please
+- that is what i want pal I appreciate it
+- buddy yeah
+- fine buddy please
+- si guy please thanks
+- definitely machine please
+- i prefer that buddy
+- you are correct bud
+- sounds good zordon please thank you
+- is what i like pal thank you
+- true bud
+- zordon true
+- correcto that is what i meant
+- that is what i wish friend please I appreciate it
+- you're acceptable sir please
+- very nice machine please
+- sounds good dude please I appreciate it
+- I would love it thanks I appreciate it zordon
+- exactly sir please I appreciate it
+- go machine please thank you I appreciate it
+- you understood me bud
+- that sounds good bot thank you
+- yea sir please I appreciate it
+- its fine zordon please
+- very nice roboga please thank you I appreciate it
+- you got that right
+- correcto is what i crave
+- indeed zord please thank you
+- buddy let's do it
+- very good pal
+- exactly guy thank you
+- i like it sir I appreciate it
+- gladly little guy thank you
+- true sir I would appreciate it
+- i prefer that friend thanks
+- that's it friend please I appreciate it
+- accurate precise
+- that is it robot please thanks
+- valid dude please thanks
+- yeah zord please I would appreciate it
+- you're goddamn right dude please
+- indeed please
+- is what i want thanks
+- friend let's do it
+- you're goddamn right zord
+- valid bud please
+- sounds good please
+- very good robot I appreciate it
+- of course dude I would appreciate it
+- affirmative you are correct
+- you understood me roboga
+- that sounds good friend please thank you
+- that's it little guy thanks I appreciate it
+- let's do it friend
+- sure guy please
+- do it friend please thanks I appreciate it
+- yep buddy please
+- gladly guy thanks I appreciate it
+- you understood me sir please thanks I appreciate it
+- buddy i meant it
+- let's go bot
+- very good dude
+- nice of course
+- I'm all right with that bot please thank you
+- you got that acceptable guy please
+- that's what i want bot please
+- go sir
+- i need it bud I appreciate it
+- you got that acceptable little guy please I would appreciate it
+- that is it fellow
+- I am fine with that sir
+- that is it fellow please
+- very nice zordon please thank you I appreciate it
+- yep zordon
+- that's perfect machine
+- bud very good
+- I'm fine with this friend
+- yes sounds good
+- I am ok with this friend please thank you
+- i need it machine please I would appreciate it
+- that is perfect bud
+- that is what i want bud
+- thats good guy thanks
+- would love that thank you I appreciate it machine
+- thats what i want fellow please
+- Im all right with that bud
+- that sounds good fellow thanks
+- gladly little guy thank you I appreciate it
+- let's go zordon please
+- that's it friend
+- go zord please thank you
+- thats what i desire friend thanks I appreciate it
+- machine exactly
+- that is what i want guy
+- ok please
+- of course friend I would appreciate it
+- go bud
+- you got that right pal
+- sure guy thanks
+- its what i want sir please thanks I appreciate it
+- definitely friend
+- thats good bot please
+- yea indeed
+- sure guy I would appreciate it
+- that is what i agree on buddy please
+- I am all right with this friend please I appreciate it
+- let's go buddy
+- go guy please thanks
+- that is acceptable dude please
+- friend you got that accurate
+- crave it zordon please
+- very nice little guy
+- acceptable dude please
+- do it roboga
+- indeed dude please thanks I appreciate it
+- valid fellow please
+- yeah that is perfect
+- you are right dude thank you
+- you understood me sir please
+- that's perfect dude I appreciate it
+- you understood me pal please I would appreciate it
+- do it bot thank you
+- very good robot please
+- that's it roboga please
+- what i agree on bud please
+- bot indeed
+- sure little guy thanks I appreciate it
+- i like it guy please thanks I appreciate it
+- indeed roboga please
+- yea true
+- its correct buddy thank you
+- affirmative machine thank you I appreciate it
+- mean that sir please I appreciate it
+- definitely pal
+- of course robot
+- valid dude please thank you
+- indeed little guy please
+- definitely dude I appreciate it
+- that is it sir thank you
+- what i crave guy
+- you're precise thanks I appreciate it
+- I am good with that guy I appreciate it
+- yes to that you got that accurate
+- do it roboga please thank you I appreciate it
+- gladly friend thanks
+- go friend I would appreciate it
+- I'm good with that sir thanks I appreciate it
+- yeah bud please I appreciate it
+- you understood me zord please thank you I appreciate it
+- if you could thanks little guy
+- that's perfect please
+- sure guy
+- valid pal please I appreciate it
+- that's what i want machine I would appreciate it
+- yeah Im good with that
+- let's do it little guy please
+- definitely little guy I would appreciate it
+- that's it bot
+- buddy valid
+- definitely please
+- of course buddy please
+- thats fine robot thank you I appreciate it
+- thats what i need robot please thanks
+- sounds good buddy
+- yes please I appreciate it
+- that is what i desire sir thanks
+- that is accurate please
+- yep exactly
+- i mean that zordon thank you
+- I am good with this fellow please I would appreciate it
+- definitely zord I appreciate it
+- you are accurate sir thanks
+- you understood me fellow
+- zordon you understood me
+- let's go bud thanks
+- that is it bot I appreciate it
+- that is accurate machine thank you
+- valid sir thank you I appreciate it
+- i need it fellow
+- good very nice
+- let's go fellow please
+- fine robot please
+- that's perfect sir please thank you
+- that is what i desire robot
+- you are right zordon please thank you
+- definitely zordon please
+- very good buddy please thank you I appreciate it
+- that is it guy please
+- that's what i need guy thank you I appreciate it
+- bud that's accurate
+- you got that correct dude
+- what i mean bud I would appreciate it
+- yes to that I am ok with that
+- is it perfect bot
+- that is it zord please
+- exactly machine
+- you got that exact pal thank you
+- it is all right friend thanks I appreciate it
+- acceptable machine I appreciate it
+- gladly fellow thanks
+- very good pal please
+- thats what i want buddy please thank you I appreciate it
+- i wish that fellow thank you I appreciate it
+- that's what i meant robot thank you
+- sounds good
+- ok you are correct
+- let's go roboga please
+- indeed zord thanks
+- valid guy please I appreciate it
+- thats what i want bud please thank you I appreciate it
+- that's perfect buddy
+- do it zord please
+- if you could I would appreciate it pal
+- agree on it thanks I appreciate it
+- do it buddy please thank you I appreciate it
+- gladly machine thanks I appreciate it
+- yes to that roboga thanks I appreciate it
+- you got that correct friend
+- that is precise guy
+- want it please
+- friend that's it
+- indeed guy
+- very nice machine thanks
+- definitely zord please thanks I appreciate it
+- that is it dude
+- valid roboga thank you I appreciate it
+- you're acceptable zord please
+- Im good with that roboga please I would appreciate it
+- sounds good dude I would appreciate it
+- very good bot
+- yes that is what i want
+- you got that acceptable bot please
+- it's acceptable thanks I appreciate it
+- thats what i prefer roboga please
+- that is it little guy
+- yeah friend please
+- Im fine with this bud thank you I appreciate it
+- go pal please thank you
+- guy thats what i crave
+- true fellow please
+- you got that correct machine please
+- i need it pal I would appreciate it
+- mean it zord please
+- very good buddy thank you I appreciate it
+- affirmative do it
+- go guy please
+- I'm ok with that zord thank you
+- that's it robot
+- let's do it buddy please
+- gladly machine thank you I appreciate it
+- I'm ok with this dude please
+- go zordon please thanks
+- you got that right pal please thanks I appreciate it
+- you got that precise bot please thanks I appreciate it
+- yeah roboga I appreciate it
+- fellow ok
+- gladly
+- that's it guy please
+- very good dude please thanks
+- yes what i need
+- let's do it roboga thanks
+- that sounds good robot
+- you understood me bot please I appreciate it
+- thats perfect fellow I appreciate it
+- that sounds good friend
+- very nice pal
+- very good bud I appreciate it
+- all right robot please I appreciate it
+- that is it
+- let's go bud please
+- I am ok with that I appreciate it
+- yep of course
+- bot Im good with that
+- affirmative please I would appreciate it
+- want it friend please
+- true buddy I would appreciate it
+- you got that accurate dude please I appreciate it
+- you understood me buddy please
+- would love that thank you I appreciate it sir
+- let's do it bud please
+- exactly buddy please
+- you are goddamn correct roboga
+- yep very good
+- that is what i want zordon thanks I appreciate it
+- roboga that's it
+- is it fine friend thanks I appreciate it
+- definitely little guy please I would appreciate it
+- let's go please I appreciate it
+- correcto friend please thanks I appreciate it
+- i crave that robot
+- that is it friend
+- that is what i want little guy please
+- you're goddamn exact little guy please
+- of course zordon please thanks
+- that is accurate pal I appreciate it
+- nice desire that
+- exactly fellow please thanks
+- indeed guy please
+- exactly guy I appreciate it
+- go zord please
+- that's it dude
+- bot what i need
+- is what i want roboga I would appreciate it
+- do it dude thanks I appreciate it
+- valid machine thanks I appreciate it
+- you're right robot
+- yea buddy please
+- of course bot please
+- yes you are goddamn exact
+- let's do it pal
+- exactly roboga please
+- you got that exact machine please thank you I appreciate it
+- very good bud please I appreciate it
+- is exact sir please
+- let's do it pal please
+- let's do it friend please thank you
+- you understood me dude please
+- valid bud thanks
+- robot that's it
+- exactly buddy thanks
+- yea i desire it
+- I'm all right with this
+- perfect fellow I appreciate it
+- sure bud
+- nice please thank you I appreciate it
+- valid buddy please thank you I appreciate it
+- sure roboga
+- definitely dude thank you
+- ok friend please
+- you are precise bud please
+- let's go bud
+- you're goddamn acceptable zordon I would appreciate it
+- correcto let's go
+- sure fellow please I would appreciate it
+- fellow do it
+- want it roboga please thank you I appreciate it
+- let's do it fellow
+- prefer it thanks
+- ok dude please thank you
+- I am good with that pal please
+- need that zord please thank you I appreciate it
+- yes to that bot please
+- fine zordon thanks I appreciate it
+- if you are kind thank you little guy
+- of course friend please thank you I appreciate it
+- you got that accurate dude thanks I appreciate it
+- yep i agree on that
+- that's what i prefer zord
+- what i need little guy please
+- friend valid
+- sure buddy please thank you
+- go buddy I appreciate it
+- I am fine with this buddy please thanks I appreciate it
+- go zordon please I would appreciate it
+- i meant it robot I appreciate it
+- like that friend thanks I appreciate it
+- correcto you're accurate
+- ok friend thanks I appreciate it
+- that is it bot please
+- valid roboga please
+- thats right bot I appreciate it
+- I am good with that buddy
+- that's it sir please I would appreciate it
+- buddy perfect
+- gladly bot please
+- let's go machine please
+- meant it fellow thank you
+- Im ok with that friend
+- si I'm ok with this
+- you're right bud please thank you
+- do it sir please thank you I appreciate it
+- let's do it robot please
+- good friend please
+- let's go buddy I would appreciate it
+- sure little guy please
+- do it
+- definitely fellow
+- do it please
+- let's do it dude please thanks I appreciate it
+- yes Im good with that
+- that sounds good little guy please
+- thats what i want buddy
+- fine roboga please I appreciate it
+- that is it machine please
+- valid bot
+- you understood me friend please
+- that is it roboga please I appreciate it
+- of course bud please I would appreciate it
+- you're goddamn right machine
+- yeah do it
+- true please thank you
+- bot sounds good
+- that's it buddy please
+- thats what i like sir
+- let's do it machine please I would appreciate it
+- that is what i want friend
+- you're right machine thank you I appreciate it
+- you understood me little guy
+- do it little guy
+- if you could I appreciate it
+- ok let's do it
+- that's it robot I appreciate it
+- that sounds good roboga thank you
+- yeah pal please
+- you're accurate please I would appreciate it
+- little guy that's what i want
+- sure friend please
+- do it machine
+- that's perfect sir please
+- that is good guy please thanks
+- you are goddamn precise buddy I would appreciate it
+- need that zordon thanks I appreciate it
+- you understood me guy thanks
+- you're correct machine
+- go bot thank you I appreciate it
+- sounds good fellow I appreciate it
+- very good zordon please
+- need that sir please
+- exact pal thank you
+- you understood me machine
+- that is precise bud thanks I appreciate it
+- that's what i meant please
+- I'm good with this bud please
+- that is what i prefer machine thank you I appreciate it
+- ok indeed
+- i mean that zord
+- sounds good zordon thanks
+- valid sir
+- let's do it zordon please
+- you understood me little guy please
+- i like that sir thanks
+- that is what i want buddy please thanks I appreciate it
+- roboga true
+- you're goddamn exact friend please
+- definitely fellow please thanks I appreciate it
+- yeah fellow please
+- ok sounds good
+- definitely guy
+- let's go zord
+- that's it bud please I would appreciate it
+- what i want fellow please
+- valid pal please
+- you understood me dude please thanks
+- that's it dude thank you I appreciate it
+- indeed
+- you got that precise dude please thanks
+- go buddy thank you I appreciate it
+- valid robot
+- nice valid
+- buddy that's precise
+- i crave it bot please thank you I appreciate it
+- I'm fine with this zord please
+- want that robot please thanks I appreciate it
+- accurate pal please
+- you're goddamn accurate zord please thanks
+- yea bud I appreciate it
+- exactly bot I appreciate it
+- gladly sir please
+- I'm fine with that guy please I appreciate it
+- very nice zordon
+- mean that thanks I appreciate it
+- very nice bot please thanks I appreciate it
+- sounds good sir please thank you I appreciate it
+- yes to that that's perfect
+- gladly bud please
+- if you are kind I appreciate it dude
+- indeed dude
+- that's ok friend
+- buddy true
+- prefer it bud
+- you got that accurate thank you I appreciate it
+- you're correct pal thank you I appreciate it
+- yea zord I would appreciate it
+- let's do it guy thank you
+- true friend I would appreciate it
+- indeed robot please I appreciate it
+- nice let's go
+- gladly friend
+- that's what i meant bot please
+- that's it buddy please I appreciate it
+- that sounds good
+- that's it zordon thank you
+- of course thank you
+- friend i mean that
+- sure please thanks I appreciate it
+- you understood me bot
+- Im all right with that robot thanks I appreciate it
+- you got that acceptable fellow
+- you're goddamn correct machine please
+- ok valid
+- prefer that guy thanks I appreciate it
+- that is what i desire guy thank you
+- correcto buddy
+- zordon yea
+- valid zordon
+- of course friend please I appreciate it
+- indeed bud
+- sounds good robot thanks I appreciate it
+- that sounds good please I appreciate it
+- definitely sir thanks I appreciate it
+- i desire it I appreciate it
+- very nice bot please
+- desire it guy thank you
+- yeah you understood me
+- that's perfect dude thank you I appreciate it
+- you are goddamn accurate bud
+- true machine
+- you're goddamn right pal
+- let's do it sir thanks I appreciate it
+- yes guy please thanks
+- you're goddamn accurate bud please I appreciate it
+- you're goddamn acceptable zordon please
+- that sounds good pal
+- i wish it roboga
+- that is perfect friend please thank you
+- yes definitely
+- sure buddy please
+- fellow exactly
+- you are correct guy thank you
+- let's go please
+- you are precise guy please
+- that's perfect bud please thanks I appreciate it
+- you got that acceptable pal please
+- indeed please thanks I appreciate it
+- thats what i want bot please thank you
+- you are goddamn right guy I would appreciate it
+- you understood me friend
+- yeah roboga
+- valid buddy I would appreciate it
+- go dude thanks
+- yes let's go
+- you understood me zordon
+- very nice dude I appreciate it
+- I would love that thank you buddy
+- that's it fellow please thank you I appreciate it
+- robot accurate
+- that's it bud please
+- go friend please thank you
+- that is what i prefer zordon thanks I appreciate it
+- valid little guy please thanks
+- exactly guy
+- Im fine with this zordon
+- very good zordon
+- it is what i want buddy please
+- exact of course
+- you understood me sir please I appreciate it
+- true guy please I would appreciate it
+- Im good with this little guy
+- yea sir please
+- i crave that robot I would appreciate it
+- valid bot I would appreciate it
+- guy wish it
+- of course machine I appreciate it
+- definitely robot
+- let's go zord please
+- you are right robot please thank you I appreciate it
+- of course sir please I would appreciate it
+- yes you are correct
+- sure fellow I would appreciate it
+- let's do it zord please
+- need that dude thank you
+- you got that correct zordon thank you I appreciate it
+- gladly bud please thank you I appreciate it
+- sure zord please
+- Im good with this dude
+- go guy thanks I appreciate it
+- yes to that roboga
+- sir mean it
+- gladly guy
+- all right fellow please
+- affirmative very nice
+- that's it guy please thank you I appreciate it
+- go pal please
+- you got that correct roboga please thanks
+- exactly pal please thank you I appreciate it
+- that is it bot please thank you I appreciate it
+- definitely zord
+- crave it bot please I appreciate it
+- that is what i agree on friend thank you I appreciate it
+- go bud please thanks
+- sounds good guy thank you I appreciate it
+- yes to that sure
+- roboga gladly
+- affirmative zordon
+- want it dude please
+- you got that precise zord please
+- that is perfect dude I appreciate it
+- that's it dude I would appreciate it
+- you are exact robot
+- that is what i mean sir please thanks
+- you're goddamn correct zord I appreciate it
+- you got that correct zordon
+- let's do it robot thanks
+- prefer it sir please
+- you got that correct friend please
+- yea you're goddamn precise
+- valid zordon I appreciate it
+- Im ok with that robot thank you I appreciate it
+- dude let's do it
+- I would love that thank you I appreciate it buddy
+- you're acceptable dude please
+- you are correct fellow
+- that sounds good zordon
+- you got that precise robot please thanks
+- exactly bot I would appreciate it
+- that's what i want pal thank you
+- yeah definitely
+- meant it
+- of course zordon please thank you
+- go zord please thank you I appreciate it
+- gladly machine
+- exactly robot please thank you I appreciate it
+- let's go guy
+- definitely bud thank you I appreciate it
+- crave it fellow please
+- yes to that bud please
+- si do it
+- desire it bot
+- of course zordon
+- sure fellow please
+- is it what i want bud thank you I appreciate it
+- definitely roboga please I appreciate it
+- very good bud
+- let's go thank you I appreciate it
+- machine let's do it
+- perfect please I appreciate it
+- very nice buddy thanks I appreciate it
+- accurate of course
+- you got that correct zord please
+- go zord please thanks I appreciate it
+- you understood me machine please thank you I appreciate it
+- yeah please thank you
+- it is fine guy please
+- is what i want zordon please
+- very nice sir thank you
+- that sounds good fellow please
+- very good bot thank you
+- let's do it zord please thank you
+- gladly sir please thanks I appreciate it
+- prefer that little guy please
+- yeah let's go
+- you're goddamn exact zord
+- pal that is it
+- perfect zordon
+- accurate
+- that is all right zord
+- i meant it buddy thank you I appreciate it
+- that sounds good little guy please I appreciate it
+- accurate machine thank you
+- that sounds good guy
+- that is perfect zord I would appreciate it
+- true please I appreciate it
+- that is fine little guy please
+- nice definitely
+- i mean it little guy please
+- that sounds good machine thank you I appreciate it
+- I'm fine with this pal
+- dude thats what i crave
+- sounds good zordon please thanks
+- if you are kind thank you I appreciate it sir
+- indeed zord
+- thats what i want machine I would appreciate it
+- of course zordon thank you I appreciate it
+- sounds good machine
+- that is good dude please
+- that's fine pal please
+- yep zord please
+- definitely
+- all right perfect
+- you understood me zord please
+- valid little guy please
+- that is what i want dude thanks I appreciate it
+- Im good with this friend I would appreciate it
+- little guy sure
+- you are accurate zordon please
+- that is it buddy please thanks
+- indeed buddy please I appreciate it
+- you understood me bot thank you I appreciate it
+- sure zord please I would appreciate it
+- yep it's good
+- very nice buddy please thank you I appreciate it
+- go roboga
+- let's go machine
+- yes zord
+- Im all right with this zord please thank you I appreciate it
+- gladly roboga please I would appreciate it
+- its fine sir please
+- you got that acceptable friend I would appreciate it
+- very good fellow please I appreciate it
+- machine you understood me
+- let's do it
+- that is it bud please
+- yep true
+- sure robot
+- I'm ok with this roboga I appreciate it
+- valid fellow
+- you are right dude please thank you I appreciate it
+- Im good with this zordon please thank you I appreciate it
+- like it guy
+- you are exact dude thank you
+- right sir please I would appreciate it
+- exactly pal thanks
+- that's acceptable machine please
+- go zord please I appreciate it
+- correcto you're goddamn correct
+- roboga very nice
+- that's it robot thank you
+- that is it zord thank you
+- indeed zordon thank you I appreciate it
+- true roboga thanks I appreciate it
+- I'm ok with that sir please
+- that sounds good friend thanks I appreciate it
+- sure buddy thank you I appreciate it
+- very nice zord I would appreciate it
+- let's do it bot thanks
+- let's go dude please thank you I appreciate it
+- fine gladly
+- that is what i crave roboga please I appreciate it
+- si fellow I would appreciate it
+- exactly dude I appreciate it
+- want that roboga please
+- bud i agree on that
+- definitely roboga please thank you I appreciate it
+- do it zord
+- please thank you I appreciate it zord
+- you are goddamn right pal thanks
+- very nice bud
+- valid guy please
+- valid zordon I would appreciate it
+- that's what i want zord please
+- affirmative let's go
+- exactly sir
+- let's go pal please
+- I am all right with that please
+- like that sir
+- gladly bud please I appreciate it
+- zordon you got that exact
+- little guy correcto
+- nice please thank you
+- that sounds good zord please I appreciate it
+- sure buddy please thank you I appreciate it
+- i meant it dude thanks
+- affirmative i mean that
+- let's do it bot please
+- definitely zord please thanks
+- I'm fine with that machine thanks I appreciate it
+- you're goddamn precise roboga please
+- thats perfect buddy please thanks
+- true guy please
+- perfect guy please
+- definitely machine please thanks I appreciate it
+- buddy you're accurate
+- very good friend please thank you I appreciate it
+- yes zordon please I would appreciate it
+- that's it pal please
+- yeah true
+- definitely bot please thank you I appreciate it
+- sure dude I would appreciate it
+- that's what i want robot please thanks
+- very nice machine I appreciate it
+- you are right machine please
+- do it sir thanks I appreciate it
+- you're accurate bud thank you
+- meant that pal
+- bot sure
+- sure bud I appreciate it
+- I'm good with this sir
+- nice dude please I would appreciate it
+- that's it machine
+- very good zord
+- true robot
+- definitely machine I would appreciate it
+- let's go bud please thank you
+- all right definitely
+- you got that exact fellow thank you
+- that sounds good zordon please
+- definitely friend please I would appreciate it
+- guy very good
+- that's what i want machine please
+- agree on it buddy
+- gladly bot
+- I would love it I appreciate it bud
+- is it perfect dude I would appreciate it
+- correct buddy please thanks
+- what i want bud
+- definitely pal I would appreciate it
+- sure machine please I would appreciate it
+- yeah exactly
+- that is it zord thanks
+- that sounds good bot
+- mean it little guy I would appreciate it
+- of course bud please
+- indeed pal thank you I appreciate it
+- buddy that sounds good
+- sounds good friend
+- that's good friend please
+- that's it fellow thank you I appreciate it
+- precise zordon
+- let's do it zord thank you I appreciate it
+- nice you are accurate
+- good sir
+- exactly thank you I appreciate it
+- of course sir I appreciate it
+- sounds good machine thanks
+- of course machine please I appreciate it
+- valid pal please thanks
+- want that buddy please thanks
+- Im ok with that fellow please thanks
+- correcto thats fine
+- gladly machine please thanks I appreciate it
+- valid buddy
+- indeed friend please
+- exactly fellow please thanks I appreciate it
+- it's what i want friend
+- nice fellow please
+- i crave that please I appreciate it
+- that's it buddy please thanks I appreciate it
+- you understood me zordon please
+- let's go little guy thank you I appreciate it
+- i prefer it friend thanks
+- you're goddamn precise bud
+- buddy i need it
+- that is it zord
+- yea what i mean
+- valid guy I appreciate it
+- let's go pal I appreciate it
+- very good dude I appreciate it
+- definitely bot please thank you
+- you understood me robot thanks I appreciate it
+- of course roboga please
+- that's it guy
+- very nice zordon thanks I appreciate it
+- desire that roboga
+- yeah sir
+- i crave that guy
+- nice I'm all right with this
+- prefer that fellow please I appreciate it
+- it is what i want zord please thanks I appreciate it
+- dude thats fine
+- very nice dude thanks I appreciate it
+- you got that precise buddy please I appreciate it
+- Im fine with that machine please
+- if you could I would appreciate it sir
+- you're accurate sir please thank you
+- that is what i want little guy thanks I appreciate it
+- let's go guy thanks I appreciate it
+- that is right buddy please
+- indeed guy thank you I appreciate it
+- meant it robot please thanks I appreciate it
+- yep little guy I appreciate it
+- gladly guy I appreciate it
+- valid zordon please thanks I appreciate it
+- very good guy please
+- bot do it
+- i agree on that roboga
+- that is what i want bot please
+- valid zord please
+- i mean it sir thanks I appreciate it
+- indeed robot please thank you
+- yes go
+- agree on it sir
+- wish that please I appreciate it
+- that's it zord
+- you're accurate zord
+- let's do it robot
+- you got that accurate guy thanks
+- let's do it bud please I would appreciate it
+- you got that accurate little guy
+- you're accurate buddy
+- dude true
+- very good dude please thanks I appreciate it
+- thats perfect little guy please
+- acceptable it's what i want
+- that's what i agree on pal
+- it's perfect please thank you
+- let's do it bud please thanks
+- exactly please
+- definitely roboga
+- you're goddamn exact sir thank you I appreciate it
+- definitely zordon
+- valid sir thanks I appreciate it
+- thats what i want fellow I appreciate it
+- thats what i want zord
+- correcto fellow thanks
+- that's what i want
+- affirmative that is it
+- you are goddamn precise machine please thank you I appreciate it
+- i mean that bot please
+- i meant that guy please thank you
+- that is it dude thanks I appreciate it
+- it's good friend
+- do it little guy thanks
+- that sounds good zord
+- do it bud
+- let's do it dude I would appreciate it
+- gladly please
+- it is perfect roboga
+- exact exactly
+- true friend please
+- sounds good pal please
+- meant that guy please thank you
+- roboga of course
+- correcto machine I appreciate it
+- meant it roboga
+- you got that acceptable buddy thanks
+- do it machine please thanks
+- let's do it machine please thanks I appreciate it
+- you got that correct bot
+- would love that thank you bud
+- valid dude thank you
+- is accurate pal please thanks I appreciate it
+- affirmative you're right
+- is perfect dude
+- true robot please thanks I appreciate it
+- valid guy
+- friend I am good with that
+- right zordon
+- sure zord please thank you
+- yea pal please
+- its perfect friend please thanks I appreciate it
+- you understood me bot please
+- you got that acceptable guy
+- yea exactly
+- I am all right with that dude please I would appreciate it
+- i agree on that guy
+- do it friend thank you
+- go bud please
+- true machine please thanks
+- let's go dude please thanks I appreciate it
+- sure sir
+- you're exact
+- of course fellow thanks
+- i want that dude please
+- yes exactly
+- true friend thanks
+- right little guy thank you I appreciate it
+- I am fine with this roboga please
+- that sounds good guy thanks
+- gladly friend please I would appreciate it
+- that's it robot please
+- i wish it roboga please thank you
+- do it zordon thanks
+- i like that machine I appreciate it
+- do it fellow please thank you
+- do it dude please thank you
+- yes to that that is it
+- you're correct buddy thank you I appreciate it
+- dude valid
+- sounds good robot I appreciate it
+- that sounds good zordon thank you I appreciate it
+- thats what i want sir
+- you understood me robot I appreciate it
+- desire it robot
+- yes little guy please
+- let's do it dude please thank you I appreciate it
+- that's it zord I appreciate it
+- I'm ok with this friend
+- sure robot please thanks I appreciate it
+- very good roboga
+- correct prefer it
+- I am fine with this bot thank you
+- Im fine with this dude I would appreciate it
+- roboga what i prefer
+- that's it dude please
+- i like that please
+- gladly buddy thanks
+- you are acceptable please
+- thats what i want robot thank you
+- ok zord thank you
+- would love it thank you I appreciate it guy
+- bot yeah
+- i mean it dude
+- that is what i mean guy please
+- yeah very good
+- that is it guy thanks
+- you are goddamn right I would appreciate it
+- you are correct
+- gladly pal please
+- go dude please I appreciate it
+- what i like
+- that is it guy please thanks
+- Im all right with this bot please
+- valid zordon please
+- that is what i want zord I appreciate it
+- you are right bot please
+- correcto very good
+- that is it friend please
+- very nice buddy please
+- yeah
+- is perfect pal please
+- I'm all right with that dude please I appreciate it
+- you got that precise robot thanks
+- indeed please I would appreciate it
+- buddy let's go
+- crave that dude I would appreciate it
+- correct dude thank you
+- you're goddamn right guy please thank you
+- si of course
+- valid fellow thanks I appreciate it
+- sounds good little guy thank you
+- let's do it guy please I would appreciate it
+- very nice guy thanks I appreciate it
+- its perfect machine please
+- sure little guy please thanks I appreciate it
+- correcto roboga please
+- sounds good zord
+- do it bud please I would appreciate it
+- of course zord please thanks I appreciate it
+- zordon gladly
+- yeah sounds good
+- let's do it fellow thanks
+- true friend
+- that is what i prefer roboga
+- very good pal please thank you
+- desire it zord please thanks
+- Im all right with that sir please I would appreciate it
+- I am ok with that bud please thank you I appreciate it
+- true buddy
+- Im fine with that bud
+- yea perfect
+- yeah bud
+- thats right dude please thank you
+- bud definitely
+- let's go dude please
+- exactly machine I appreciate it
+- gladly thanks I appreciate it
+- thats what i need buddy
+- like it roboga please
+- go fellow
+- it is correct bud
+- of course robot please thanks I appreciate it
+- please bot
+- good you got that accurate
+- let's do it machine I would appreciate it
+- definitely robot please
+- sure sir please
+- nice fellow please thanks
+- right friend
+- bud I am ok with that
+- definitely zord please thank you
+- thats good machine I appreciate it
+- that's accurate sir
+- mean it bot please
+- i crave that guy please
+- sure machine please
+- that sounds good machine please
+- exactly buddy
+- you're goddamn precise bud please
+- that's right sir
+- valid
+- that's perfect bud thank you
+- roboga I'm fine with that
+- exact please
+- thats precise robot please
+- let's do it little guy
+- indeed buddy I appreciate it
+- that's it please
+- go friend thank you I appreciate it
+- you got that acceptable sir please I would appreciate it
+- i need it sir thank you
+- you're precise guy
+- indeed dude thanks
+- let's do it buddy thanks I appreciate it
+- exactly bot
+- you're right machine thanks
+- ok of course
+- I'm good with that bud please thanks I appreciate it
+- sir that's it
+- need it bot thanks I appreciate it
+- all right bud I appreciate it
+- you are goddamn correct machine please thanks I appreciate it
+- let's do it dude please thanks
+- I'm all right with that machine I appreciate it
+- thats what i need sir I appreciate it
+- fine dude
+- very good fellow please thanks I appreciate it
+- you are goddamn acceptable bud
+- sure bot
+- roboga it is all right
+- exactly fellow
+- sounds good zordon thank you I appreciate it
+- that sounds good friend I appreciate it
+- yes to that zordon please
+- very good fellow please
+- that is it thank you I appreciate it
+- yes to that I'm fine with this
+- I love that thank you fellow
+- that's what i want friend thank you
+- that's all right pal please I appreciate it
+- that's good buddy please I would appreciate it
+- very nice machine
+- that's it
+- machine fine
+- you are correct friend please
+- Im all right with this friend thank you I appreciate it
+- yes dude please thanks I appreciate it
+- go bud I would appreciate it
+- correcto sure
+- you understood me friend thank you
+- that's it bud
+- exactly
+- Im good with that pal
+- you got that acceptable roboga thanks
+- definitely zord please
+- roboga that sounds good
+- you are acceptable buddy
+- exactly robot please
+- yes to that that's it
+- that sounds good bot please
+- you got that exact zord
+- very good dude please I appreciate it
+- very good pal please thank you I appreciate it
+- nice thank you I appreciate it
+- you got that acceptable robot thank you
+- gladly little guy please
+- you are goddamn accurate machine please I appreciate it
+- go bud please I appreciate it
+- crave that bot please thank you I appreciate it
+- friend thats perfect
+- correcto thats what i want
+- sure buddy please thanks
+- you got that right fellow please I appreciate it
+- that sounds good sir please
+- thats what i crave friend
+- need it zord please thanks
+- i need that guy
+- yes bot
+- definitely roboga thank you I appreciate it
+- that's it little guy please I would appreciate it
+- yea i crave that
+- accurate little guy I appreciate it
+- you understood me sir I would appreciate it
+- buddy that is ok
+- that is correct guy please thank you I appreciate it
+- that is it machine
+- thats accurate friend please
+- you are goddamn accurate sir thank you I appreciate it
+- i wish that sir please thanks
+- like that pal
+- do it sir please thanks I appreciate it
+- yeah of course
+- ok fellow please I appreciate it
+- prefer it dude please thanks I appreciate it
+- I would love it thanks I appreciate it zord
+- that is what i mean bud please thanks
+- sounds good machine I would appreciate it
+- you are goddamn acceptable zordon please
+- sir i meant that
+- sure friend I would appreciate it
+- let's go bot please
+- sounds good sir please
+- definitely zordon please thanks I appreciate it
+- sounds good bud please thank you I appreciate it
+- you are goddamn precise machine
+- yes to that you understood me
+- I'm good with this zord
+- that is fine little guy I appreciate it
+- exactly zordon please thanks I appreciate it
+- yep bot thank you
+- that is what i like zord please thank you
+- do it friend please thank you I appreciate it
+- that's what i like little guy please thank you
+- go I would appreciate it
+- do it zordon please
+- yes valid
+- valid friend please
+- you're goddamn acceptable robot
+- of course sir thanks
+- true please
+- you got that exact zordon please
+- that is it please I appreciate it
+- of course bud
+- gladly bot thanks I appreciate it
+- gladly pal thank you
+- correcto bot thanks I appreciate it
+- gladly zordon I appreciate it
+- fellow you got that precise
+- need it fellow I appreciate it
+- yea do it
+- definitely buddy
+- exactly little guy please
+- of course little guy
+- that is perfect little guy please
+- sounds good roboga please
+- indeed thank you
+- is it what i want dude thanks I appreciate it
+- definitely pal please I appreciate it
+- you got that right dude thank you
+- true friend please thank you I appreciate it
+- nice Im fine with this
+- let's go bot please I appreciate it
+- that's it bot I appreciate it
+- pal that is right
+- si pal I would appreciate it
+- it's what i desire buddy please
+- little guy si
+- thats all right roboga thanks I appreciate it
+- that is what i want buddy
+- do it guy please
+- yea its fine
+- I'm good with this robot thanks I appreciate it
+- indeed friend
+- I'm fine with that pal
+- valid robot please thank you I appreciate it
+- very good sir please I appreciate it
+- sounds good zordon please I appreciate it
+- bud that's what i crave
+- you are goddamn accurate little guy please thanks
+- correcto machine thanks
+- gladly dude please thanks I appreciate it
+- let's go sir please
+- si true
+- thats perfect bot thanks I appreciate it
+- that's good pal
+- that's it dude please I appreciate it
+- sounds good fellow please thank you I appreciate it
+- I am ok with that bud
+- gladly robot please
+- gladly bud thank you
+- thats perfect zordon I appreciate it
+- sure fellow please thank you
+- that's what i want pal thanks I appreciate it
+- you got that correct zordon please I would appreciate it
+- yes bud please thank you
+- like that friend thanks
+- do it zordon please I appreciate it
+- crave that dude
+- I'm ok with this bot I would appreciate it
+- do it bot please
+- need it pal
+- i wish that roboga please
+- fellow you are goddamn precise
+- definitely buddy please thanks
+- sure guy thanks I appreciate it
+- affirmative roboga please
+- I am ok with that fellow I appreciate it
+- valid buddy thank you I appreciate it
+- that's it fellow please
+- nice that sounds good
+- I'm good with that fellow please thank you I appreciate it
+- indeed pal thanks I appreciate it
+- thats what i want robot
+- very nice
+- you are correct bud please thank you
+- I am fine with this bot thank you I appreciate it
+- very good please
+- you are goddamn accurate roboga thanks
+- yeah zordon please
+- let's do it thanks
+- sure thanks
+- you are exact dude please
+- that is what i want robot I would appreciate it
+- let's do it fellow please thanks
+- you understood me roboga please
+- if you please I would appreciate it
+- that is what i want bot
+- guy let's go
+- very nice sir please thanks I appreciate it
+- I am ok with that fellow
+- true dude please thanks I appreciate it
+- I'm fine with that zord please
+- I am ok with that pal
+- of course buddy
+- yea let's do it
+- that is perfect fellow please
+- very good fellow
+- yea bud please I appreciate it
+- you're exact bot please thanks I appreciate it
+- exactly zord
+- gladly bot I appreciate it
+- go fellow please
+- dude you're goddamn precise
+- correct fellow I would appreciate it
+- let's go machine please thank you I appreciate it
+- yes to that let's go
+- do it buddy
+- that is what i want sir please thanks I appreciate it
+- that is it roboga
+- that sounds good dude thanks I appreciate it
+- that's ok roboga
+- that is good machine thanks I appreciate it
+- yeah pal thank you I appreciate it
+- that is it dude please thanks
+- desire it sir
+- valid bot please thanks I appreciate it
+- that is all right please
+- yes what i like
+- sir definitely
+- let's do it dude
+- let's go bot I would appreciate it
+- Im ok with that zordon
+- i prefer it roboga please I would appreciate it
+- gladly pal
+- you understood me please thank you I appreciate it
+- you're acceptable bot
+- I'm ok with this bud please thank you
+- exactly guy thanks
+- definitely dude
+- you got that acceptable robot
+- I am all right with that fellow
+- that is correct machine please
+- Im fine with that sir
+- indeed machine I would appreciate it
+- Im fine with that little guy thanks
+- thats ok little guy
+- correcto definitely
+- that is ok robot please
+- that is it bud I appreciate it
+- yes to that zordon thanks I appreciate it
+- that is it zordon
+- that is all right friend thank you
+- if you could I appreciate it pal
+- you understood me little guy I appreciate it
+- robot let's go
+- go zordon please thanks I appreciate it
+- I'm all right with this machine I would appreciate it
+- you got that exact roboga please
+- go little guy thanks I appreciate it
+- you're goddamn acceptable sir thank you I appreciate it
+- precise that's what i want
+- that sounds good zord please thank you
+- I am fine with that zord please I appreciate it
+- let's go dude thank you I appreciate it
+- i need it zordon thank you I appreciate it
+- go friend thanks
+- yep bot thanks I appreciate it
+- you understood me zordon please thank you
+- valid guy please thank you
+- valid please
+- exactly bud please
+- you're goddamn acceptable fellow please
+- valid robot please
+- you got that precise
+- let's do it bot thank you
+- i wish that zord
+- you got that accurate zordon please thank you
+- it's what i like friend thank you
+- bot let's do it
+- yep valid
+- si pal thank you
+- wish that little guy please thanks I appreciate it
+- sure guy please I appreciate it
+- gladly roboga please
+- that is what i meant fellow please
+- valid bud
+- let's do it little guy please thanks
+- valid bud please thank you I appreciate it
+- that sounds good bud I appreciate it
+- that's it bud please thank you I appreciate it
+- affirmative gladly
+- that is it buddy thanks
+- i want it sir please thanks
+- dude exactly
+- you got that precise zordon thank you I appreciate it
+- yes to that fellow please thank you I appreciate it
+- that sounds good sir
+- indeed fellow please I appreciate it
+- do it guy
+- meant that machine please
+- correcto sounds good
+- very nice little guy thanks
+- i crave it little guy please
+- you got that right sir thank you
+- robot you are goddamn correct
+- exactly zord please thank you I appreciate it
+- if you please I would appreciate it friend
+- that's what i desire pal
+- true zordon
+- yep dude thank you I appreciate it
+- thats what i want bot please
+- I'm good with that guy please thanks I appreciate it
+- thats fine sir please thank you
+- you understood me please thanks
+- exactly bot please
+- i need it machine please thanks I appreciate it
+- robot you got that acceptable
+- very good fellow please thank you
+- accurate thats all right
+- mean that zordon
+- I am all right with that dude
+- exactly robot
+- yep dude
+- indeed buddy thank you I appreciate it
+- true sir thank you I appreciate it
+- you are goddamn exact bot please I appreciate it
+- exactly zordon thanks
+- you are acceptable guy
+- indeed bot please thank you I appreciate it
+- like that
+- yea that's it
+- that is it bud please thanks
+- thats what i want little guy thank you I appreciate it
+- nice bot please
+- that's what i want little guy please
+- friend si
+- indeed zord I would appreciate it
+- very nice zordon I would appreciate it
+- its precise guy thank you I appreciate it
+- ok thats correct
+- do it friend
+- very nice zordon please
+- bud you understood me
+- sounds good roboga please thanks I appreciate it
+- I am ok with that friend please
+- it is perfect guy thank you
+- valid fellow please I appreciate it
+- let's go bot please thank you
+- acceptable that is it
+- yeah bot thank you
+- that is it roboga please
+- that's precise roboga thank you I appreciate it
+- go zord thanks
+- you understood me sir please thank you
+- that's fine zordon please thank you I appreciate it
+- friend that's precise
+- true bud please
+- you understood me buddy I appreciate it
+- would love it thanks zordon
+- you got that acceptable fellow please thanks
+- true sir please
+- do it little guy please
+- go zordon please thank you I appreciate it
+- i prefer it little guy
+- exactly machine please
+- like it fellow
+- you got that right friend please thank you I appreciate it
+- yes to that pal please
+- Im fine with that little guy please
+- mean that guy thank you
+- do it robot please thank you
+- you understood me pal please thank you I appreciate it
+- si correct
+- like that robot please thanks I appreciate it
+- that's it buddy please thanks
+- is it perfect machine please
+- of course robot please thank you I appreciate it
+- go friend thank you
+- of course machine please
+- yep little guy thanks I appreciate it
+- thats exact roboga
+- I'm fine with this bud please I appreciate it
+- bot that's it
+- correct valid
+- let's do it dude thanks I appreciate it
+- is it what i want dude please thank you I appreciate it
+- exactly zordon I would appreciate it
+- perfect zord please thanks
+- you got that precise zord
+- you are goddamn precise robot please I appreciate it
+- do it buddy please I would appreciate it
+- Im all right with this sir
+- that's perfect roboga I appreciate it
+- correcto very nice
+- you understood me little guy thank you I appreciate it
+- yea bot I appreciate it
+- fellow very good
+- gladly little guy
+- like that sir please thank you
+- thats fine please
+- that's it dude please thank you
+- that is perfect machine thank you I appreciate it
+- its acceptable bud thanks
+- thats acceptable machine please thanks I appreciate it
+- do it pal
+- indeed zord please thanks
+- Im fine with this dude
+- let's do it zordon I appreciate it
+- go buddy please I appreciate it
+- pal that sounds good
+- that's ok friend thanks
+- nice guy
+- exactly bot please I would appreciate it
+- I would love that thank you
+- gladly fellow please I appreciate it
+- indeed zord please
+- yes you understood me
+- do it robot I would appreciate it
+- true guy please thanks I appreciate it
+- what i agree on roboga
+- you are acceptable fellow
+- is what i want fellow I would appreciate it
+- it's right sir
+- that is exact fellow thank you I appreciate it
+- pal wish it
+- you understood me bud please thank you
+- nice little guy
+- I'm good with this zordon please
+- accurate bud thanks
+- you got that correct little guy thank you I appreciate it
+- that sounds good zord please I would appreciate it
+- let's do it sir please
+- that is it sir please
+- you got that precise please
+- sure little guy
+- i crave it roboga please
+- that is what i want please thank you I appreciate it
+- fellow you are goddamn exact
+- indeed robot thanks
+- you got that accurate sir please
+- ok zord please
+- that sounds good buddy please
+- gladly machine please
+- you understood me buddy please thank you I appreciate it
+- you got that right buddy thank you I appreciate it
+- thats what i want dude please
+- sounds good roboga
+- that's it please thank you I appreciate it
+- yeah go
+- is it precise robot thanks I appreciate it
+- I am good with that guy please
+- fellow let's go
+- you're acceptable pal
+- indeed buddy please
+- ok zord please I would appreciate it
+- you're goddamn exact friend thanks I appreciate it
+- yeah guy please
+- that sounds good thank you
+- sounds good pal thank you
+- exactly little guy
+- that's it friend please thanks
+- ok true
+- that's it little guy please thanks
+- that is it sir please thanks I appreciate it
+- it is exact machine please I appreciate it
+- let's do it zord thank you
+- machine true
+- sure robot I appreciate it
+- let's go dude
+- very good bud please thanks
+- Im fine with this zord please thanks
+- if you are kind guy
+- prefer that friend please I would appreciate it
+- ok go
+- what i meant sir please
+- yep guy
+- let's do it friend please
+- I'm fine with that pal please
+- of course dude
+- true pal
+- that is it bud please thank you
+- you understood me pal I appreciate it
+- you understood me
+- machine you are goddamn right
+- is right bot please I appreciate it
+- you understood me robot
+- affirmative valid
+- Im fine with that please
+- gladly guy I would appreciate it
+- sure please
+- very good buddy
+- si guy please thank you
+- definitely bot please
+- gladly sir thanks
+- go bud please thank you I appreciate it
+- bud sure
+- definitely little guy thank you
+- nice go
+- you got that exact roboga
+- that sounds good roboga thanks
+- go buddy
+- is ok bot please thank you I appreciate it
+- thats perfect sir thank you
+- it's perfect machine please thanks
+- i prefer that buddy please thanks
+- true bud please I would appreciate it
+- ok buddy please thank you I appreciate it
+- you're exact guy please I appreciate it
+- si very good
+- thats what i want machine please thanks I appreciate it
+- machine you got that correct
+- do it roboga please
+- mean that bud please
+- go sir please
+- let's do it guy please I appreciate it
+- let's go bot please thanks
+- i want that dude please I would appreciate it
+- you got that correct zord please thanks I appreciate it
+- exact you got that correct
+- I am fine with that dude thank you
+- thats perfect guy please
+- yep little guy
+- sure buddy
+- i want it fellow
+- zord of course
+- let's go fellow thanks
+- true dude
+- i need it friend I appreciate it
+- i want that bud please thank you I appreciate it
+- you understood me bud please thank you I appreciate it
+- very nice roboga please
+- I would love it thanks zordon
+- that is it buddy please thank you I appreciate it
+- sounds good bot thank you
+- let's do it dude please
+- thats perfect robot please thank you I appreciate it
+- of course zordon I would appreciate it
+- precise bot please thank you
+- I am fine with that pal please
+- sir thats what i mean
+- wish that little guy please I appreciate it
+- that is fine roboga
+- indeed dude please thank you
+- you're goddamn precise zordon thank you
+- indeed sir please
+- sure bot thanks
+- sounds good robot please thanks I appreciate it
+- need it zordon please thanks I appreciate it
+- that is exact
+- si that is what i want
+- you understood me thank you I appreciate it
+- roboga yea
+- yeah bud I appreciate it
+- I'm all right with this fellow please
+- that is it roboga thanks I appreciate it
+- definitely zord thank you
+- exactly bud
+- true roboga please
+- exact guy
+- gladly robot please thank you
+- go zord I would appreciate it
+- i desire it buddy please thank you I appreciate it
+- fine let's go
+- thats fine fellow I would appreciate it
+- its good roboga
+- that is what i prefer zord please
+- correcto bud please thanks
+- thats good guy
+- you're goddamn accurate roboga please I would appreciate it
+- perfect bud
+- nice that's right
+- that is it zord please thank you
+- zordon it's perfect
+- is it fine bot please
+- that is perfect
+- you are accurate roboga thank you I appreciate it
+- thats what i want dude please thanks
+- that's ok fellow
+- sounds good sir thank you I appreciate it
+- if you are kind thanks I appreciate it dude
+- gladly bud
+- exactly roboga please I appreciate it
+- you are acceptable fellow please
+- thats good roboga please
+- that's right zordon
+- you are goddamn right friend I appreciate it
+- little guy you got that acceptable
+- very nice please
+- good machine
+- i crave it zordon please I would appreciate it
+- yep that's it
+- go zordon
+- ok pal
+- you got that accurate please thanks I appreciate it
+- what i mean pal please
+- I am fine with that roboga please
+- go fellow please thanks
+- that's it sir please I appreciate it
+- thats what i crave dude thanks I appreciate it
+- pal valid
+- you understood me buddy
+- that's right robot please I would appreciate it
+- yeah bot thanks
+- do it zordon
+- I am good with this zord please I appreciate it
+- you are goddamn accurate buddy please
+- thats all right little guy thanks
+- you are right bud
+- very nice please thanks
+- friend definitely
+- you're goddamn precise fellow please
+- I'm fine with this zord please I appreciate it
+- you are goddamn accurate machine thank you
+- let's do it pal please thank you
+- that's precise roboga please
+- let's go friend
+- thats right zordon thank you I appreciate it
+- yep fellow please
+- nice you understood me
+- that is perfect robot thanks I appreciate it
+- valid guy I would appreciate it
+- sir very nice
+- its all right machine please I would appreciate it
+- you are goddamn acceptable dude please
+- that is accurate robot
+- accurate roboga please
+- go buddy please
+- yes to that that sounds good
+- sounds good bot please
+- if you please
+- you got that exact bot thank you
+- si machine please thanks I appreciate it
+- that's it zordon thank you I appreciate it
+- true buddy please
+- of course pal please I would appreciate it
+- let's go thanks
+- that is it zord please thank you I appreciate it
+- machine perfect
+- what i want friend please
+- ok perfect
+- Im all right with this fellow thank you
+- you are exact guy I appreciate it
+- that's it bud I would appreciate it
+- that is acceptable machine I appreciate it
+- you got that acceptable thank you
+- is it good guy please I appreciate it
+- you are correct thank you I appreciate it
+- si zordon thanks
+- definitely friend please
+- agree on that zord please I appreciate it
+- you are goddamn acceptable sir
+- roboga you understood me
+- yes very nice
+- accurate zord thank you I appreciate it
+- it's perfect little guy
+- you're goddamn right robot thanks I appreciate it
+- gladly fellow please thank you I appreciate it
+- you got that acceptable dude thank you
+- gladly robot please I would appreciate it
+- is it what i like roboga please
+- thats what i want buddy thank you I appreciate it
+- accurate definitely
+- yes dude please
+- of course fellow I would appreciate it
+- that's fine buddy please
+- little guy you are acceptable
+- all right sir
+- you got that precise guy please
+- true bot
+- wish it please thanks
+- definitely roboga please I would appreciate it
+- let's do it fellow please
+- very nice bot I appreciate it
+- very good sir please thank you I appreciate it
+- of course zord thank you
+
+## intent:bye
+- later heading out pal
+- adieu sir see you later
+- sir adieu I'm leaving now
+- roboga adieu leaving
+- adieu see you later little guy
+- machine bye i got to go
+- good bye dude have a nice night
+- buddy goodbye i have to go
+- buddy bye bye talk to you later
+- adios got to go now roboga
+- adieu have a nice day
+- roboga tchau Im going out
+- robot bye now Im heading out
+- adios have a nice night bud
+- bud goodbye have a nice night
+- good bye bot i have to go now
+- i have to go machine
+- zordon later I'm leaving
+- good bye guy talk to you later
+- machine adieu i talk to you later
+- adios I am leaving pal
+- roboga adieu i will talk to you soon
+- roboga adieu have a nice night
+- tchau robot heading out
+- chao leaving roboga
+- zord later i will talk to you soon
+- bye now bot have a nice afternoon
+- fellow goodbye got to go
+- buddy see you around
+- tchau have a nice day zord
+- little guy chau heading out
+- farewell machine see you
+- bud chao going out
+- adieu leaving
+- goodbye little guy have to go
+- dude bye bye cu
+- tchau have a nice afternoon robot
+- guy bye now see you around
+- robot tchau
+- adieu little guy i got to go now
+- adios have a nice night
+- adios see you around zord
+- little guy good bye I'm leaving
+- bye now sir see you later
+- dude goodbye see you later
+- bye have to go roboga
+- friend bye now talk to you later
+- bye now machine talk to you soon
+- friend goodbye have to go
+- chao got to go sir
+- pal later I am heading out
+- chau little guy
+- dude bye now I am going out
+- bye i have to go pal
+- buddy farewell have a nice night
+- later bot got to go now
+- goodbye see you around friend
+- friend bye bye have a nice night
+- later dude Im leaving
+- pal bye now Im leaving now
+- tchau i talk to you later sir
+- buddy chao I am heading out
+- adios have a nice day
+- robot later
+- bye bye i got to go guy
+- roboga chau talk to you later
+- robot goodbye Im leaving
+- bye zordon I am leaving now
+- farewell talk to you later dude
+- roboga farewell Im heading out
+- chao buddy
+- pal tchau see you around
+- tchau I'm going out dude
+- fellow tchau have a nice afternoon
+- guy farewell leaving now
+- good bye i got to go
+- bud good bye see you later
+- farewell guy see you later
+- farewell have a nice night zord
+- dude chau have a nice day
+- dude tchau have a nice afternoon
+- bye bye friend have to go now
+- chao I am going out pal
+- buddy see you later
+- fellow chau have a nice day
+- good bye bud see you around
+- tchau cu guy
+- guy good bye got to go now
+- good bye zord I'm leaving
+- guy good bye see you around
+- farewell got to go roboga
+- guy farewell see you later
+- pal tchau going out
+- adios pal heading out
+- bud bye have to go
+- bye bye got to go now fellow
+- goodbye dude see you
+- machine bye now see you later
+- sir adieu Im leaving now
+- good bye got to go friend
+- friend good bye leaving now
+- adios little guy see you
+- adios see you later
+- chao have a nice day buddy
+- good bye robot have a nice day
+- fellow adieu I'm going out
+- chao have a nice afternoon
+- dude farewell have a nice night
+- robot bye see you
+- bye zord I am heading out
+- sir goodbye have to go now
+- chau see you sir
+- later zord see you
+- sir adieu Im going out
+- bye going out zordon
+- pal chao see you around
+- adieu guy i will talk to you soon
+- friend adieu talk to you soon
+- bye now have a nice day pal
+- zordon later Im leaving now
+- bye bye zordon Im leaving now
+- guy farewell I'm heading out
+- bud good bye leaving now
+- adios i have to go now roboga
+- farewell little guy
+- robot goodbye i got to go
+- roboga tchau talk to you soon
+- goodbye cu friend
+- zordon good bye leaving
+- goodbye robot leaving now
+- farewell have a nice afternoon
+- later got to go now
+- roboga good bye leaving now
+- bye bye friend have a nice day
+- tchau I'm heading out zordon
+- pal later i will talk to you soon
+- adieu guy I am leaving
+- fellow adios have a nice night
+- zordon bye now Im leaving
+- adios see you around roboga
+- machine chao talk to you soon
+- later buddy i got to go now
+- chau see you roboga
+- guy tchau see you
+- bot bye bye got to go now
+- goodbye got to go
+- robot tchau i talk to you later
+- i talk to you later fellow
+- chau have a nice afternoon bot
+- pal bye now I'm leaving now
+- farewell bud got to go
+- robot later have a nice day
+- adios have to go bud
+- bot chau see you later
+- adieu roboga i talk to you later
+- buddy bye bye talk to you soon
+- zordon later I am leaving
+- later I'm leaving roboga
+- little guy bye now I'm going out
+- bye bye dude see you later
+- good bye I am leaving now pal
+- zordon adios Im going out
+- good bye zordon have a nice afternoon
+- roboga tchau heading out
+- sir later i got to go
+- adieu I'm going out zord
+- bud farewell got to go now
+- chao pal have a nice night
+- dude good bye heading out
+- bye see you zord
+- bye bye zordon have a nice night
+- zordon goodbye Im going out
+- pal adios I'm heading out
+- bye bye I am heading out roboga
+- little guy later talk to you soon
+- chao fellow see you
+- roboga chau cu
+- chao Im going out friend
+- friend adios have a nice day
+- bye bot I am leaving now
+- tchau heading out friend
+- fellow adieu i got to go now
+- bye bye friend Im leaving
+- zord goodbye Im going out
+- zordon adios have a nice afternoon
+- bye see you around machine
+- friend tchau talk to you soon
+- farewell fellow I'm leaving now
+- bot adios i will talk to you soon
+- bye bye i got to go now guy
+- goodbye I'm heading out
+- tchau have a nice day
+- bye bye i got to go now fellow
+- robot adieu i got to go
+- goodbye machine talk to you soon
+- fellow good bye have a nice night
+- zord tchau got to go now
+- bye now see you zordon
+- good bye guy i will talk to you soon
+- buddy bye now i talk to you later
+- little guy tchau have to go
+- see you friend
+- roboga farewell leaving now
+- good bye little guy got to go now
+- little guy chau have a nice afternoon
+- tchau i have to go pal
+- little guy bye bye i got to go
+- good bye guy i talk to you later
+- little guy have to go
+- bye bye see you later dude
+- fellow adios got to go now
+- bye bye sir
+- robot goodbye i talk to you later
+- good bye see you later robot
+- adieu machine i got to go
+- buddy bye now Im going out
+- chau have a nice night zordon
+- dude adieu i got to go now
+- tchau robot cu
+- robot goodbye I'm going out
+- dude tchau cu
+- later Im leaving now zord
+- machine adios i will talk to you soon
+- have a nice night bud
+- good bye zord cu
+- bot chao see you later
+- zord adios see you around
+- later see you
+- tchau roboga got to go
+- sir bye now cu
+- zordon adieu I'm leaving
+- tchau got to go little guy
+- tchau I'm heading out
+- bye now little guy Im heading out
+- zordon adieu have to go now
+- adios have a nice night little guy
+- later fellow Im leaving now
+- machine farewell have a nice afternoon
+- adios have a nice day pal
+- pal chau see you around
+- goodbye fellow have a nice day
+- bud chau I am going out
+- dude bye i talk to you later
+- chau have a nice night buddy
+- machine bye have a nice day
+- good bye guy have a nice afternoon
+- dude good bye have a nice day
+- adieu I am heading out pal
+- tchau zord
+- buddy adieu have a nice night
+- adieu i have to go fellow
+- friend chau Im leaving now
+- adios roboga have a nice night
+- dude tchau leaving
+- good bye i will talk to you soon
+- bud farewell talk to you later
+- pal bye now see you later
+- chau buddy see you around
+- bye now leaving sir
+- dude adios have a nice day
+- robot farewell i got to go
+- adios bud I'm heading out
+- zord chau have a nice day
+- bye bye have a nice night bud
+- tchau friend got to go
+- buddy chau I'm heading out
+- later see you around
+- adieu leaving now robot
+- sir adios have a nice day
+- good bye buddy talk to you later
+- zord farewell talk to you later
+- adios see you around bud
+- farewell bud have a nice night
+- fellow chao
+- pal adieu i will talk to you soon
+- chao i have to go now machine
+- bye now little guy see you later
+- fellow adios cu
+- adieu i got to go little guy
+- roboga chao i talk to you later
+- pal adieu see you around
+- farewell i got to go now
+- dude bye bye have a nice day
+- fellow later Im going out
+- bye now machine i talk to you later
+- tchau Im leaving guy
+- guy farewell see you
+- roboga chau
+- goodbye zord i have to go now
+- bye bye see you later guy
+- pal I am leaving now
+- adios guy talk to you later
+- robot farewell have to go now
+- guy later Im leaving
+- bye bye see you later bud
+- bye heading out friend
+- robot bye I'm going out
+- chao fellow talk to you later
+- good bye heading out bud
+- buddy chao have to go now
+- farewell sir see you
+- pal chao I'm leaving now
+- goodbye have a nice day guy
+- pal good bye Im leaving now
+- good bye machine i got to go
+- zord goodbye cu
+- friend good bye have a nice day
+- adieu see you bot
+- zord goodbye have a nice day
+- adios bud
+- chau cu little guy
+- little guy adios have a nice day
+- little guy adieu
+- chau little guy have a nice night
+- chau Im going out friend
+- guy later have a nice afternoon
+- chau machine leaving
+- bot adios see you
+- chao see you later zordon
+- dude chao have a nice afternoon
+- friend bye now I'm leaving now
+- bye bye machine see you around
+- i have to go
+- bot bye now i talk to you later
+- adios machine talk to you later
+- little guy tchau have a nice afternoon
+- goodbye have a nice afternoon friend
+- adios robot have a nice afternoon
+- guy adios see you
+- bye now got to go dude
+- buddy chao leaving now
+- friend bye bye
+- bye now robot cu
+- guy bye got to go now
+- bye bye have to go now bud
+- later roboga see you later
+- farewell see you later
+- friend bye now see you later
+- goodbye have a nice day roboga
+- roboga later I'm going out
+- chau guy cu
+- adieu see you around little guy
+- zordon chau leaving now
+- zord farewell Im heading out
+- chau dude have a nice day
+- buddy i talk to you later
+- later see you later friend
+- roboga adieu have a nice day
+- goodbye bud i talk to you later
+- zord later see you around
+- good bye see you around bot
+- pal adieu have to go now
+- chao sir got to go now
+- robot have a nice afternoon
+- farewell have a nice afternoon bud
+- farewell bot see you
+- zord later leaving
+- bud goodbye talk to you later
+- later I am heading out buddy
+- bye roboga i got to go now
+- zordon adieu see you
+- robot tchau see you
+- chau I am going out fellow
+- zord chao have a nice day
+- see you sir
+- pal bye now have a nice night
+- goodbye roboga got to go
+- good bye have a nice day
+- fellow bye now have a nice afternoon
+- zordon bye now talk to you soon
+- adios friend i got to go
+- bye now have a nice night
+- zord cu
+- bye now little guy i got to go now
+- adios see you
+- friend chao have a nice night
+- farewell I am leaving roboga
+- fellow farewell talk to you later
+- farewell zord have a nice day
+- later Im leaving now zordon
+- pal adieu I am going out
+- adios dude Im going out
+- zordon adieu
+- dude bye cu
+- adieu see you around buddy
+- adios zord have a nice night
+- little guy goodbye have a nice day
+- later have a nice day
+- good bye I am going out machine
+- chao friend I am going out
+- fellow chau leaving now
+- bye bye cu little guy
+- dude chau i will talk to you soon
+- bye bye robot got to go now
+- pal bye now see you
+- bot adieu see you around
+- later have a nice afternoon little guy
+- farewell buddy I am leaving now
+- friend adios have to go
+- zord bye bye talk to you later
+- bye bye have a nice day roboga
+- buddy chao have a nice day
+- bye now i will talk to you soon
+- zordon bye now i talk to you later
+- tchau have a nice day zordon
+- buddy adios leaving now
+- adios heading out
+- adieu have a nice night machine
+- machine tchau see you later
+- chao machine cu
+- zordon bye now i got to go now
+- bud tchau have a nice afternoon
+- chao I am leaving now bud
+- later bud i talk to you later
+- little guy later i will talk to you soon
+- tchau I am leaving now zord
+- bye now heading out
+- pal bye see you
+- bud goodbye cu
+- later Im leaving now
+- goodbye buddy
+- friend goodbye have a nice afternoon
+- pal bye have a nice day
+- bye i talk to you later zord
+- zordon good bye I am heading out
+- adios little guy have a nice night
+- machine bye heading out
+- goodbye i will talk to you soon little guy
+- tchau bud I'm leaving now
+- zord goodbye I am heading out
+- bye now see you around buddy
+- zordon chau see you around
+- guy tchau i talk to you later
+- chao zord
+- guy adios talk to you soon
+- bye bye leaving now bot
+- farewell see you roboga
+- machine adios i got to go
+- little guy goodbye see you around
+- bye guy see you
+- guy adios have a nice day
+- have a nice afternoon machine
+- chao machine I'm heading out
+- bot chau have a nice afternoon
+- chau have a nice day guy
+- bot farewell got to go
+- machine good bye see you
+- tchau bot I'm going out
+- bye have a nice afternoon friend
+- friend goodbye talk to you later
+- adios fellow i have to go
+- sir adieu cu
+- chau got to go now little guy
+- fellow goodbye I'm leaving now
+- later zord have to go
+- guy later i got to go
+- chau i got to go little guy
+- tchau pal see you
+- fellow tchau Im leaving
+- talk to you later bot
+- bye see you around
+- chau bot talk to you later
+- robot chao have a nice afternoon
+- later I'm going out machine
+- friend chau see you later
+- chao friend I'm going out
+- fellow adieu have a nice night
+- later see you around machine
+- tchau i will talk to you soon
+- adieu bot got to go
+- friend adieu see you
+- chau Im heading out friend
+- dude bye bye have to go now
+- goodbye pal see you
+- adios talk to you soon fellow
+- zord chau see you
+- pal chau see you
+- tchau fellow I'm going out
+- later see you friend
+- bot later have a nice afternoon
+- little guy adios leaving
+- bye buddy I am leaving now
+- bye now have to go zordon
+- roboga bye bye see you later
+- sir bye now see you around
+- roboga goodbye got to go
+- later have a nice afternoon fellow
+- dude bye Im leaving
+- bye have a nice day
+- bye leaving now guy
+- machine chau see you around
+- friend bye see you
+- bye now zord have a nice night
+- later have a nice afternoon robot
+- guy chau see you around
+- tchau bot I'm leaving now
+- friend chao I'm leaving now
+- later see you later pal
+- little guy adios I am heading out
+- chau zordon I'm leaving
+- zordon bye got to go
+- bot farewell leaving
+- good bye have a nice night zordon
+- tchau zordon have a nice day
+- friend farewell have a nice night
+- zordon good bye have a nice afternoon
+- goodbye leaving buddy
+- good bye talk to you soon bot
+- bot bye have a nice day
+- dude chao talk to you soon
+- adieu bot see you
+- friend adieu have a nice night
+- bye bye going out zord
+- friend bye now leaving now
+- bye bye zord have a nice afternoon
+- sir see you around
+- adios see you machine
+- bye bye robot i have to go
+- bot bye talk to you soon
+- bot bye cu
+- i talk to you later robot
+- little guy later see you later
+- chao robot leaving
+- farewell talk to you later buddy
+- pal bye now have a nice afternoon
+- later zordon i got to go
+- later leaving roboga
+- roboga bye i will talk to you soon
+- adios roboga have a nice afternoon
+- machine adios talk to you later
+- chau i will talk to you soon sir
+- buddy goodbye see you
+- bye friend I'm leaving
+- bud bye now see you around
+- machine goodbye i got to go
+- chau see you robot
+- friend goodbye i will talk to you soon
+- farewell sir talk to you later
+- fellow adieu cu
+- adieu talk to you later little guy
+- adios little guy got to go now
+- good bye I'm leaving now guy
+- farewell robot I'm going out
+- roboga adieu cu
+- tchau talk to you soon zordon
+- roboga good bye i have to go now
+- sir adios Im leaving
+- bye bye roboga leaving
+- fellow goodbye have a nice night
+- good bye i have to go now bud
+- bye now robot
+- robot bye bye i will talk to you soon
+- sir goodbye have a nice night
+- farewell see you little guy
+- later guy have a nice afternoon
+- friend bye I'm going out
+- bye now have a nice day buddy
+- bot later i will talk to you soon
+- fellow bye now
+- later robot i have to go now
+- chau see you later sir
+- little guy bye see you around
+- chau fellow have to go now
+- sir adios I'm heading out
+- bye Im leaving now guy
+- machine farewell i will talk to you soon
+- farewell sir have to go
+- dude farewell
+- goodbye heading out sir
+- buddy later see you
+- zordon bye bye I am leaving
+- good bye have a nice night zord
+- friend later got to go
+- chao robot Im going out
+- good bye i got to go now dude
+- zord goodbye see you around
+- bye now I'm going out machine
+- fellow I am going out
+- adieu zord i got to go now
+- goodbye cu
+- farewell have a nice night pal
+- roboga adieu i have to go
+- chao little guy have to go now
+- machine bye see you around
+- dude farewell i got to go now
+- chau fellow I'm heading out
+- zordon goodbye going out
+- bye I am heading out buddy
+- bud adios see you around
+- adieu bot got to go now
+- bye bye have to go now guy
+- buddy bye leaving
+- friend goodbye cu
+- goodbye bud I'm heading out
+- buddy good bye i will talk to you soon
+- goodbye talk to you soon zord
+- buddy goodbye talk to you soon
+- bye bye machine I am leaving
+- dude bye now cu
+- bye now have a nice afternoon
+- adios robot i will talk to you soon
+- bud tchau got to go
+- goodbye Im heading out dude
+- zord I am going out
+- tchau robot i talk to you later
+- goodbye have a nice afternoon
+- roboga adieu I'm leaving now
+- chau going out pal
+- farewell bot have a nice afternoon
+- guy bye bye i got to go now
+- adieu see you around sir
+- machine bye now i will talk to you soon
+- bye now little guy I am going out
+- pal chau i got to go now
+- bud good bye see you
+- sir adios see you
+- bye now dude talk to you later
+- bot farewell see you
+- adios i will talk to you soon little guy
+- zordon good bye see you
+- good bye robot cu
+- roboga bye now talk to you soon
+- adieu talk to you later zordon
+- later zordon i will talk to you soon
+- sir adieu leaving now
+- pal bye bye see you later
+- farewell i will talk to you soon machine
+- roboga farewell have a nice night
+- adios machine see you later
+- buddy goodbye have a nice night
+- tchau cu bud
+- bye now leaving now
+- chao bot have a nice afternoon
+- farewell have a nice afternoon friend
+- sir adieu have a nice day
+- zordon chau talk to you soon
+- chau buddy have a nice night
+- dude later I'm going out
+- bye now got to go zordon
+- adios friend got to go
+- pal later got to go
+- chao I'm going out roboga
+- fellow tchau i have to go now
+- adios roboga see you
+- robot adieu cu
+- pal goodbye have a nice day
+- adieu have a nice day machine
+- chau got to go pal
+- machine bye now have to go now
+- later machine have a nice afternoon
+- fellow bye bye got to go now
+- good bye have a nice day friend
+- machine bye bye see you later
+- bye bye zord talk to you later
+- tchau leaving pal
+- guy bye bye i talk to you later
+- sir adios see you around
+- bye zordon cu
+- goodbye have a nice afternoon sir
+- zordon bye now see you around
+- sir bye now i have to go now
+- chao friend have to go now
+- farewell have to go pal
+- bot bye now have a nice night
+- goodbye machine i got to go
+- fellow farewell got to go now
+- pal bye now I am going out
+- adios have a nice day fellow
+- bye now zord Im heading out
+- friend bye i got to go now
+- fellow adios I am heading out
+- farewell bud i will talk to you soon
+- roboga good bye have a nice afternoon
+- roboga adios cu
+- farewell talk to you soon fellow
+- buddy good bye I am leaving
+- goodbye bud have a nice afternoon
+- bye now Im leaving now zord
+- bot tchau have to go now
+- bot tchau see you
+- chao zordon got to go now
+- machine goodbye going out
+- goodbye see you later robot
+- buddy farewell heading out
+- bye bye see you later pal
+- bot adieu cu
+- zordon chau i will talk to you soon
+- adieu dude i will talk to you soon
+- later I'm leaving guy
+- little guy chao I am heading out
+- zord chau i talk to you later
+- adios bud I am leaving
+- chau see you little guy
+- machine bye bye see you around
+- bud tchau i talk to you later
+- adieu little guy I'm leaving
+- bot adieu i will talk to you soon
+- bye bye leaving now fellow
+- good bye zordon I am leaving now
+- machine bye talk to you soon
+- zord chao cu
+- goodbye I'm leaving buddy
+- tchau guy got to go now
+- bud later have a nice afternoon
+- friend tchau see you
+- chao Im leaving bot
+- fellow bye i got to go now
+- adieu pal i talk to you later
+- bye talk to you soon zord
+- roboga farewell have to go now
+- bye bye zord talk to you soon
+- dude bye now see you later
+- later I'm leaving machine
+- sir adieu going out
+- chao cu robot
+- machine good bye have a nice night
+- bye bye zord have a nice day
+- adieu see you fellow
+- friend adios see you later
+- chau little guy Im leaving
+- fellow farewell i have to go now
+- roboga I am leaving now
+- tchau cu little guy
+- machine good bye have a nice afternoon
+- adios robot see you around
+- bye have a nice day bot
+- little guy adieu leaving
+- guy chao Im going out
+- tchau bud i have to go now
+- got to go now fellow
+- machine adios I'm going out
+- pal good bye i talk to you later
+- bye little guy see you
+- guy bye I am heading out
+- have a nice day robot
+- sir chau i talk to you later
+- adios buddy have a nice day
+- chau talk to you soon roboga
+- buddy tchau I am going out
+- goodbye buddy see you around
+- farewell have a nice night buddy
+- guy good bye i got to go
+- adieu I'm leaving
+- robot goodbye i got to go now
+- chao have a nice afternoon zordon
+- robot later I'm leaving now
+- adieu zordon have a nice day
+- have a nice day bud
+- dude leaving
+- later guy I am going out
+- buddy good bye see you later
+- bye now have a nice night machine
+- zordon bye talk to you soon
+- good bye guy i got to go now
+- dude chau i got to go
+- tchau i have to go now fellow
+- fellow chao I'm leaving now
+- dude adios see you around
+- adieu zordon talk to you later
+- adios i got to go robot
+- zordon tchau cu
+- bye now fellow
+- robot chau i got to go
+- bye bye cu roboga
+- zordon chao I'm leaving
+- fellow bye now see you
+- bye now friend see you later
+- chau i talk to you later machine
+- sir chau i will talk to you soon
+- friend tchau I'm heading out
+- goodbye bud see you later
+- bye now talk to you later zord
+- chau pal
+- friend chau I am heading out
+- bye bye have a nice afternoon zordon
+- robot see you around
+- pal adieu i talk to you later
+- bye now zordon leaving
+- roboga chao cu
+- tchau machine i got to go
+- pal see you later
+- tchau got to go now guy
+- dude goodbye see you
+- later see you later zord
+- little guy bye now see you around
+- chao sir have a nice afternoon
+- bye have a nice night
+- tchau Im leaving sir
+- tchau fellow have to go
+- roboga goodbye I am leaving
+- goodbye see you around zord
+- fellow bye bye talk to you soon
+- bye now zordon have to go
+- sir bye have a nice day
+- robot later see you later
+- got to go now bud
+- zord bye I am heading out
+- goodbye little guy have a nice afternoon
+- talk to you soon sir
+- robot later Im heading out
+- buddy bye have a nice day
+- later zord have a nice day
+- bye bye i will talk to you soon zord
+- dude tchau see you later
+- adieu zordon
+- sir chao got to go now
+- pal bye talk to you later
+- later have a nice night zordon
+- later fellow i will talk to you soon
+- zord bye have a nice afternoon
+- adios got to go dude
+- sir bye bye have a nice night
+- pal see you around
+- goodbye see you around dude
+- bye bye little guy have to go
+- machine bye now Im going out
+- chau have a nice night fellow
+- little guy goodbye got to go
+- sir goodbye see you
+- tchau buddy have a nice night
+- fellow tchau got to go
+- later see you around zord
+- goodbye fellow cu
+- friend bye bye heading out
+- sir good bye leaving
+- bye I am leaving sir
+- friend later cu
+- bye bud have a nice afternoon
+- tchau have a nice day sir
+- robot adieu I'm heading out
+- farewell friend have a nice afternoon
+- bot farewell have a nice day
+- have a nice afternoon little guy
+- chao bot see you later
+- bot good bye talk to you later
+- adios cu bot
+- goodbye bud I'm leaving
+- dude good bye have a nice afternoon
+- robot bye now cu
+- adieu Im leaving now buddy
+- machine chao cu
+- good bye machine see you
+- friend adieu leaving now
+- bye have a nice night guy
+- dude adieu leaving now
+- goodbye bot
+- adios got to go now sir
+- zordon bye bye have a nice night
+- goodbye bot Im heading out
+- little guy bye cu
+- buddy adios leaving
+- chau got to go guy
+- bot goodbye cu
+- adios see you zord
+- farewell bot see you around
+- goodbye see you around
+- adios see you friend
+- guy goodbye have a nice night
+- tchau machine see you around
+- chao cu bud
+- buddy tchau have a nice afternoon
+- bye now dude Im leaving now
+- bot bye bye i have to go now
+- chao see you later buddy
+- goodbye buddy see you
+- guy bye bye talk to you soon
+- bot tchau have a nice afternoon
+- chau see you later robot
+- roboga bye have a nice afternoon
+- later have a nice afternoon pal
+- robot chau got to go
+- machine adieu
+- friend later see you around
+- farewell cu robot
+- goodbye zord have a nice day
+- tchau have a nice night fellow
+- sir bye now Im heading out
+- robot adios have a nice day
+- adios zordon heading out
+- robot farewell see you
+- chau I'm heading out buddy
+- farewell fellow talk to you soon
+- zord adieu have a nice afternoon
+- bye now i got to go zordon
+- zord later have a nice day
+- good bye friend I'm heading out
+- chau talk to you soon
+- zordon goodbye talk to you later
+- bye bye I'm heading out
+- bye dude I am leaving now
+- machine later have to go
+- zordon goodbye i got to go now
+- chao pal have a nice day
+- buddy bye bye leaving now
+- good bye have a nice afternoon roboga
+- good bye I'm going out roboga
+- roboga bye now I am heading out
+- tchau little guy Im heading out
+- adios see you guy
+- bot good bye have a nice day
+- guy goodbye got to go now
+- chao guy have to go
+- dude farewell I'm leaving now
+- goodbye I'm leaving now roboga
+- friend adieu i talk to you later
+- bye bye zord see you later
+- zord later i have to go now
+- farewell i talk to you later bot
+- good bye roboga talk to you soon
+- pal bye bye got to go now
+- chao see you around
+- little guy bye heading out
+- good bye guy I am going out
+- robot tchau see you later
+- sir good bye have to go
+- I'm going out roboga
+- adieu Im leaving zordon
+- zord adieu I'm going out
+- later machine got to go now
+- guy good bye i got to go now
+- fellow chao Im leaving now
+- adios have to go dude
+- later zord got to go
+- bud adieu see you
+- bud bye now I am heading out
+- adios leaving robot
+- later buddy i will talk to you soon
+- pal farewell i got to go
+- robot farewell I'm leaving
+- goodbye talk to you later guy
+- adios sir see you around
+- sir good bye i have to go now
+- bot bye bye i got to go
+- i got to go roboga
+- chau i will talk to you soon
+- adios buddy see you later
+- little guy chao see you
+- fellow farewell i will talk to you soon
+- later sir Im leaving
+- bot tchau Im leaving now
+- goodbye cu robot
+- fellow adios talk to you later
+- bye friend talk to you soon
+- machine good bye see you around
+- tchau roboga i got to go
+- bud goodbye see you around
+- friend adieu see you later
+- goodbye i have to go now
+- bud bye Im leaving now
+- chau machine i will talk to you soon
+- little guy bye bye leaving
+- chau I am heading out bot
+- chao fellow have a nice day
+- machine good bye talk to you soon
+- little guy adieu see you
+- chao i got to go dude
+- bot tchau talk to you later
+- bye bot have a nice afternoon
+- buddy cu
+- goodbye Im leaving now sir
+- later friend Im leaving
+- guy good bye talk to you soon
+- goodbye see you later roboga
+- fellow goodbye Im going out
+- later sir
+- good bye see you around zordon
+- roboga adieu have a nice afternoon
+- buddy bye talk to you soon
+- good bye bot see you around
+- friend chao see you later
+- farewell got to go now bot
+- fellow chau have a nice afternoon
+- chau roboga I am leaving now
+- later I am leaving now dude
+- buddy chao talk to you later
+- good bye pal have a nice night
+- dude good bye i got to go now
+- tchau I'm heading out buddy
+- adios sir Im heading out
+- little guy adieu I'm leaving
+- chau see you around little guy
+- bot chao Im heading out
+- guy adieu Im leaving now
+- bye now got to go buddy
+- adios friend i got to go now
+- friend good bye i will talk to you soon
+- guy chao have to go
+- later see you around sir
+- little guy farewell talk to you later
+- bye now fellow have a nice afternoon
+- little guy later got to go now
+- bye bye have a nice afternoon sir
+- zordon farewell Im heading out
+- adios buddy talk to you soon
+- zord later cu
+- chao I am going out robot
+- adieu dude cu
+- sir tchau i have to go now
+- sir later i will talk to you soon
+- farewell cu friend
+
+## intent:greet
+- how are things going zord
+- zordon goodafternoon
+- guy hey
+- ola little guy whatsup
+- hi machine whatsup
+- hey buddy greetings and salutations
+- hola zord greetings and salutations
+- hey there robot morning
+- hello bot greetings and salutations
+- ola buddy
+- hi bot are you there
+- hey there zord salutations
+- machine hallo
+- hola again sir
+- hi zord goodday
+- hey there bud what's up
+- hey there guy goodmorning
+- howdy guy morning
+- hi buddy how are you doing
+- hey there fellow ola again
+- hey bud goodnight
+- hello robot are you around
+- zordon good morning
+- morning roboga
+- ola dude how are things going
+- hi buddy are you there
+- hello bud are you around
+- hello guy good morning
+- hola dude morning
+- hello there roboga ola again
+- hello there dude goodday
+- ola dude good afternoon
+- good night dude
+- little guy greetings
+- hola machine good day
+- hola pal greetings and salutations
+- hello there roboga how is it going
+- ola bud greetings
+- hi machine good day
+- hello bud morning
+- hello goodafternoon
+- howdy sir how its going
+- sir goodafternoon
+- goodmorning bud
+- hi machine greetings
+- hey there bud good afternoon
+- hola fellow how are things going
+- hey there guy
+- hi
+- ola pal how are things going
+- hey there robot how are you doing
+- ola bot goodafternoon
+- hello whats up
+- hello machine goodday
+- zord what is up
+- goodnight fellow
+- hello there machine good afternoon
+- howdy sir whats up
+- hey there little guy good day
+- hey there friend greetings and salutations
+- howdy whatsup
+- hi robot how are you doing
+- hi bot greetings
+- ola zord what is up
+- what is up friend
+- zordon hallo
+- hello there bot good afternoon
+- hey there sir hallo
+- hey dude morning
+- hello there guy sup
+- hey how are you
+- hello zordon salutations
+- hello buddy how are things going
+- hi machine whats up
+- morning zordon
+- dude what is up
+- hey there pal good morning
+- hola roboga greetings
+- ola bot are you there
+- hi machine how are things going
+- hello bud good night
+- hey little guy good afternoon
+- hey roboga how are you
+- howdy bud whats up
+- fellow are you there
+- whats up friend
+- hi guy how are you doing
+- hello little guy morning
+- hi friend whats up
+- hey dude good day
+- ola bud how are you
+- hey sir what is up
+- hallo machine
+- bot how are things going
+- bud hello there
+- hola bud how is going
+- hola what is up
+- howdy roboga good afternoon
+- howdy friend greetings
+- hi zordon how are you doing
+- hello bud good afternoon
+- hola bot
+- hello there little guy greetings and salutations
+- machine whats up
+- whats up dude
+- hello pal how are you doing
+- hola buddy whats up
+- hello there fellow goodday
+- hi friend how are you
+- hola friend hello again
+- hola pal good day
+- ola pal greetings
+- hi roboga what's up
+- zord good morning
+- sup sir
+- ola
+- hola bud whats up
+- hola pal what is up
+- hi roboga good morning
+- hey machine greetings and salutations
+- howdy bud hallo
+- ola roboga how are you doing
+- hello friend what's up
+- dude what's up
+- good afternoon pal
+- hello roboga hallo
+- hi pal how are you doing
+- hola buddy are you around
+- hey dude goodafternoon
+- hello there guy
+- hi robot greetings
+- hey bud hallo
+- ola robot greetings and salutations
+- machine how it is going
+- salutations machine
+- hi zord good night
+- hey zordon what's up
+- ola little guy greetings and salutations
+- hi robot goodafternoon
+- hola pal good night
+- hello there friend are you around
+- robot sup
+- what is up little guy
+- hey dude
+- hola bot greetings
+- ola friend are you there
+- hola friend how its going
+- hola little guy good morning
+- ola pal good day
+- ola zordon good afternoon
+- hola bud how are you
+- goodmorning zord
+- hola little guy how are you doing
+- hola bud sup
+- howdy bud good night
+- hey guy greetings and salutations
+- howdy sir whatsup
+- ola bot hallo
+- ola zordon what's up
+- hello there bud goodmorning
+- dude good morning
+- sup little guy
+- hola dude hallo
+- hello little guy what's up
+- hola zordon good afternoon
+- hello there bot good morning
+- ola little guy hello again
+- hi bot what is up
+- howdy fellow good day
+- howdy fellow greetings
+- robot are you around
+- hello there dude good morning
+- hey there guy goodnight
+- hi robot
+- hello bot how its going
+- hola friend are you around
+- hello little guy goodmorning
+- ola fellow how are you doing
+- hi sir hallo
+- salutations zord
+- friend hey there
+- hello pal whats up
+- sir goodnight
+- hey machine goodday
+- hey fellow good day
+- hello there bot are you around
+- hi pal goodafternoon
+- ola roboga good morning
+- hello there sir good afternoon
+- hola zordon
+- ola sir good night
+- hallo little guy
+- guy whats up
+- hey there buddy greetings
+- hey guy hello there again
+- hola friend whats up
+- howdy pal how are you doing
+- ola guy goodmorning
+- hello dude goodnight
+- what is up bud
+- buddy how are you
+- hey pal are you there
+- ola friend how are you
+- hey there bud how are you doing
+- hey there sir salutations
+- hello machine good morning
+- ola robot greetings
+- howdy sir are you there
+- hola sir goodday
+- machine how are you doing
+- how are things going little guy
+- hello sir sup
+- hey zord are you there
+- hey there machine are you around
+- ola buddy good morning
+- hello little guy good day
+- hello zord what is up
+- hello there how are you
+- hi little guy greetings and salutations
+- are you there zord
+- machine good morning
+- ola how are things going
+- hey there dude what's up
+- hey roboga whats up
+- hola fellow good day
+- hello there sir goodmorning
+- hola hallo
+- hi sir good night
+- hey bot how are you
+- morning
+- are you there fellow
+- hello fellow how are you doing
+- hey pal what is up
+- howdy roboga greetings
+- hola dude good day
+- hello friend how are you
+- howdy how are things going
+- hello bud how are you
+- howdy sir good morning
+- whatsup sir
+- hey there buddy how are you doing
+- hello zord good morning
+- hey robot hola again
+- hi roboga good afternoon
+- hello little guy whats up
+- hey there roboga goodmorning
+- howdy robot morning
+- hi buddy goodmorning
+- how are you doing roboga
+- goodnight
+- hola what's up
+- hi little guy hola again
+- hey dude goodmorning
+- hola fellow goodnight
+- hola sir hello again
+- hey robot how are things going
+- ola guy good afternoon
+- hey there dude goodmorning
+- goodafternoon robot
+- zordon goodday
+- hey robot how are you
+- hola sir greetings and salutations
+- hi are you around
+- hello there sir are you there
+- hello there goodafternoon
+- howdy robot goodafternoon
+- hey little guy whatsup
+- sir greetings
+- ola roboga good afternoon
+- goodnight zord
+- friend hello there
+- hi guy what is up
+- hey there robot what is up
+- hey morning
+- hello there bot
+- hi friend what's up
+- hey friend goodnight
+- friend good day
+- howdy bud salutations
+- hola fellow hallo
+- hi machine hey again
+- hi pal what's up
+- hello there robot whats up
+- hi zord greetings and salutations
+- hola dude goodafternoon
+- hey zord are you around
+- bud are you there
+- goodmorning little guy
+- hello morning
+- hello there whatsup
+- hey little guy how are you
+- hey sir hallo
+- hello there bud hallo
+- hey there zord greetings
+- hola buddy morning
+- ola friend greetings
+- guy goodnight
+- what is up zordon
+- hey bot good night
+- hola sir greetings
+- hey guy goodnight
+- hello there roboga how are you doing
+- ola robot how are you
+- hello there friend sup
+- bot good afternoon
+- good night machine
+- hey zordon how are things going
+- hello roboga good afternoon
+- howdy buddy what's up
+- hello there fellow good morning
+- pal ola
+- hey guy goodafternoon
+- ola zord goodday
+- hello there dude how are you doing
+- hello there dude
+- bud goodafternoon
+- are you around machine
+- hey there fellow good morning
+- hello roboga whatsup
+- hey little guy are you around
+- howdy friend what is up
+- hello friend how are things going
+- hi fellow are you around
+- hi friend salutations
+- hello zordon sup
+- zordon goodmorning
+- how are things going roboga
+- hi zordon goodmorning
+- hello there sir how are you doing
+- hello pal good morning
+- hola friend greetings and salutations
+- hello little guy what is up
+- hello there roboga
+- ola bud what is up
+- sup dude
+- bud greetings and salutations
+- ola roboga how are things going
+- hola little guy goodmorning
+- ola good day
+- howdy sup
+- hey robot hey again
+- hello zordon
+- hello machine what's up
+- bot greetings
+- how are things going zordon
+- hola little guy how are you
+- hello there roboga goodday
+- hey little guy good day
+- hola zord sup
+- hello bud whats up
+- hello pal what's up
+- hi roboga how are things going
+- hey there robot good afternoon
+- fellow goodnight
+- sir hello there
+- hello there greetings and salutations
+- what's up bud
+- hola how are you doing
+- hi robot good day
+- howdy bud
+- hi dude sup
+- hola guy sup
+- howdy fellow whats up
+- ola bud greetings and salutations
+- hello there bot what is up
+- bud goodnight
+- goodnight robot
+- howdy roboga ola again
+- howdy machine greetings and salutations
+- ola zordon how are you doing
+- ola buddy greetings
+- hello there friend hallo
+- hey little guy hola again
+- hi bud whats up
+- hi pal are you there
+- how it's going friend
+- zordon good afternoon
+- hey zordon good night
+- hi fellow salutations
+- hi pal greetings and salutations
+- ola friend how are you doing
+- hey machine sup
+- howdy pal good afternoon
+- what is up buddy
+- zordon sup
+- howdy zord good day
+- hello there fellow good day
+- hi sir how are things going
+- hey there fellow are you around
+- hey how are things going
+- hey there dude salutations
+- hello dude goodday
+- greetings bot
+- friend goodafternoon
+- howdy dude hallo
+- hello there friend what is up
+- hola greetings
+- ola bot greetings and salutations
+- ola zordon are you there
+- sir hey
+- hola hello again
+- hey dude good night
+- howdy bot good afternoon
+- morning dude
+- ola pal ola again
+- hello there zord good day
+- hello zordon goodmorning
+- hi buddy morning
+- hey there fellow sup
+- ola sir
+- hola friend hey again
+- hola again zord
+- machine are you there
+- hola guy how are things going
+- hi roboga greetings and salutations
+- howdy sir what is up
+- hello there buddy how are you doing
+- howdy good night
+- howdy bud whatsup
+- hey zord sup
+- how are things going bot
+- friend how are things going
+- hello there zordon whatsup
+- hey there goodafternoon
+- hi pal goodmorning
+- hey bud good day
+- ola greetings and salutations
+- hi zordon good morning
+- ola little guy good morning
+- goodafternoon sir
+- what's up
+- hello sir good night
+- hola friend how are you
+- hello there sir goodnight
+- hello there pal good morning
+- hello there zordon how are you doing
+- hello fellow whatsup
+- hey robot goodday
+- hola pal good morning
+- ola guy how are you doing
+- are you there little guy
+- friend hi
+- buddy sup
+- hola zordon are you there
+- hey zordon good day
+- hola bot good afternoon
+- howdy robot
+- hola buddy what's up
+- hola guy goodnight
+- how it's going robot
+- dude good night
+- hi goodafternoon
+- hola little guy
+- hola dude what's up
+- hey there zord hallo
+- hello there little guy good night
+- hey there sir goodnight
+- hi friend hi again
+- guy what's up
+- goodday fellow
+- ola fellow how is it going
+- hi bud what's up
+- hey there zordon greetings
+- hey guy are you around
+- hello there bot hallo
+- hi zordon whatsup
+- hey fellow how are things going
+- goodmorning zordon
+- fellow goodmorning
+- hi sup
+- howdy bud morning
+- hola fellow goodmorning
+- hey sir goodday
+- hello pal goodday
+- hi what's up
+- hola friend goodday
+- hey there buddy hey again
+- goodday robot
+- robot good night
+- ola machine good day
+- hey there sir what is up
+- hi friend good morning
+- hola roboga are you there
+- hola zordon how are things going
+- roboga hey
+- ola friend sup
+- ola fellow are you there
+- hello bud how it's going
+- howdy guy good day
+- greetings little guy
+- robot good day
+- ola bud sup
+- howdy little guy how are you
+- hello bot
+- hi how is going
+- hola buddy how are you doing
+- hello there pal greetings
+- howdy zordon good night
+- salutations
+- how its going robot
+- hello buddy are you there
+- hello sir hallo
+- hello there fellow what's up
+- hello buddy how are you doing
+- hola pal goodnight
+- hello there friend good night
+- ola bud good afternoon
+- hello dude are you around
+- whatsup
+- greetings and salutations friend
+- hi friend good night
+- ola roboga hallo
+- hello sir how are you
+- ola little guy morning
+- hello buddy good night
+- good afternoon
+- pal goodday
+- hey there roboga what is up
+- hello sir what is up
+- hello bot good night
+- hey there guy good afternoon
+- hey there sir how it is going
+- hi roboga greetings
+- hello guy greetings
+- hola how its going
+- dude ola
+- greetings and salutations
+- hey there sir how it's going
+- hello there roboga are you around
+- ola bud how are things going
+- hola machine hello again
+- hey friend hey there again
+- hi pal whats up
+- howdy roboga what is up
+- hello there fellow morning
+- hey dude whatsup
+- zord sup
+- goodnight machine
+- hola how are you
+- hola friend what is up
+- hello there robot good night
+- hello there roboga good day
+- hi buddy salutations
+- hello there machine whats up
+- hey there buddy salutations
+- bot good day
+- how it's going roboga
+- ola zordon greetings
+- howdy dude sup
+- hey there bud are you around
+- howdy guy good night
+- ola pal are you there
+- hola sir how are you
+- hi buddy what's up
+- hello guy goodafternoon
+- hi little guy goodmorning
+- hello dude hello again
+- howdy robot what is up
+- hey there pal hello again
+- ola pal goodnight
+- hi sir good day
+- hey dude how it's going
+- salutations bud
+- pal good afternoon
+- hola sir are you there
+- hola pal what's up
+- hola bud goodnight
+- ola bot what's up
+- hey zordon whatsup
+- dude hey
+- hey there dude good afternoon
+- hola friend whatsup
+- hello there guy how is going
+- good day sir
+- roboga good morning
+- hello bud whatsup
+- hey dude greetings and salutations
+- hey there fellow hallo
+- ola little guy greetings
+- hey sir good morning
+- hola fellow are you around
+- how are things going friend
+- hey friend goodday
+- ola little guy how is going
+- hello there friend goodnight
+- hi dude how is it going
+- hey there fellow how are you
+- hola guy are you around
+- ola sir how its going
+- good afternoon bud
+- bud are you around
+- hola goodmorning
+- hey roboga goodnight
+- hello there goodday
+- hi guy sup
+- hello zordon how are things going
+- hey there robot goodnight
+- hello roboga goodmorning
+- hello there bot good day
+- friend morning
+- salutations robot
+- howdy fellow are you around
+- hi machine greetings and salutations
+- hey there guy what is up
+- hello there what is up
+- hola friend hallo
+- hey there guy are you around
+- hello roboga how are things going
+- fellow hola
+- good day little guy
+- howdy guy what's up
+- guy whatsup
+- howdy bot what's up
+- hey zordon goodmorning
+- howdy roboga what's up
+- howdy fellow morning
+- hi machine morning
+- hello sir goodmorning
+- hey there friend hallo
+- howdy friend sup
+- zord goodday
+- greetings and salutations roboga
+- hey hallo
+- hey machine goodmorning
+- howdy bud how are things going
+- hola sir sup
+- hi hey again
+- what is up fellow
+- robot whatsup
+- hello there machine greetings and salutations
+- hola friend goodmorning
+- hey friend what is up
+- hey there good night
+- ola fellow goodday
+- ola bud good morning
+- hey bot whatsup
+- hola bot good morning
+- how its going machine
+- sir goodmorning
+- ola dude good day
+- hi sir are you around
+- hey there machine goodday
+- howdy machine goodnight
+- howdy bud sup
+- howdy zordon how its going
+- howdy dude how are you doing
+- zordon how is going
+- how it's going zord
+- hello robot are you there
+- ola dude good morning
+- hello there zordon howdy again
+- hello pal how are things going
+- bud hola
+- hey bot greetings and salutations
+- hey bot are you there
+- ola zordon whatsup
+- little guy how are things going
+- goodmorning buddy
+- hello there good day
+- hola buddy good afternoon
+- hi little guy goodday
+- hola zordon how are you doing
+- howdy fellow are you there
+- hey there roboga what's up
+- roboga hallo
+- salutations pal
+- hey bot hallo
+- hi guy are you there
+- hey there bud morning
+- hello guy hallo
+- hey there fellow whatsup
+- hey there sir good afternoon
+- guy sup
+- are you around bud
+- howdy goodmorning
+- hola guy
+- hi machine are you around
+- hola bud good day
+- ola zordon greetings and salutations
+- hello there friend good morning
+- ola ola again
+- how are you doing fellow
+- roboga how are you doing
+- ola buddy greetings and salutations
+- hola robot greetings
+- ola friend good day
+- hey friend how are things going
+- howdy zordon are you around
+- hello there guy how are things going
+- hello there guy how are you doing
+- goodnight bud
+- roboga hi
+- friend are you around
+- hey there buddy hallo
+- howdy guy whats up
+- hi machine
+- hello how are you
+- howdy sir how are you
+- hello there buddy goodnight
+- hola bud how its going
+- good morning machine
+- hola buddy hello again
+- howdy sir greetings and salutations
+- hey machine how are you
+- hello there pal salutations
+- hey guy whats up
+- hola bot hallo
+- hey fellow how are you
+- are you there dude
+- bud how are you doing
+- hi sir goodmorning
+- hola dude good morning
+- ola friend greetings and salutations
+- hey there how are things going
+- hello zordon how are you
+- good night robot
+- zord how are you
+- hey zordon morning
+- hey how are you doing
+- hey little guy hey there again
+- howdy machine how are things going
+- hello bot goodafternoon
+- hello fellow are you around
+- sir how is it going
+- whatsup roboga
+- howdy friend
+- hello machine how are you
+- howdy machine are you around
+- hi friend are you there
+- hey dude what's up
+- hello little guy good morning
+- hey friend hello there again
+- hello there pal ola again
+- hi machine good afternoon
+- little guy greetings and salutations
+- sup friend
+- hi friend sup
+- hello there goodnight
+- hola dude how are you doing
+- hello there sup
+- hello bot what is up
+- hello friend good afternoon
+- hola machine goodday
+- hello there guy goodnight
+- greetings
+- machine goodafternoon
+- hi zordon morning
+- hola little guy hallo
+- hey there dude sup
+- ola little guy whats up
+- hey bot how it's going
+- hey sir salutations
+- machine how are things going
+- salutations bot
+- howdy pal good night
+- howdy fellow good night
+- howdy little guy how are things going
+- ola pal how are you
+- hey bud how it is going
+- how are things going buddy
+- hola little guy morning
+- hi robot how are you
+- hey there dude are you around
+- ola bud goodday
+- hi roboga good day
+- hey buddy salutations
+- ola sir salutations
+- little guy howdy
+- hello there bud whatsup
+- zordon hola again
+- ola buddy goodmorning
+- hey there bot sup
+- hola little guy hi again
+- ola dude greetings and salutations
+- ola buddy how are you
+- ola dude goodnight
+- hola fellow how are you doing
+- sup roboga
+- guy good day
+- hello there guy whatsup
+- howdy dude greetings
+- howdy sir sup
+- hey there machine good afternoon
+- hola sir morning
+- howdy zord salutations
+- hey sir are you around
+- how are things going fellow
+- zord greetings
+- hi zord are you around
+- hello bud salutations
+- hello there hallo
+- hello there dude morning
+- hey robot good afternoon
+- hello machine goodmorning
+- hi robot how are things going
+- ola friend whatsup
+- good morning
+- salutations dude
+- hola roboga how are things going
+- ola roboga goodafternoon
+- howdy buddy good day
+- howdy machine goodafternoon
+- are you there sir
+- sir hey again
+- hey bud are you there
+- hello there roboga how are you
+- hi friend hey there again
+- bot howdy
+- howdy zordon what's up
+- howdy dude hi again
+- hey fellow hello again
+- howdy friend salutations
+- hello little guy
+- machine goodmorning
+- ola guy
+- hi robot good morning
+- hello guy whats up
+- hello there dude are you around
+- ola robot good night
+- fellow what is up
+- hey dude good morning
+- hello there friend greetings and salutations
+- hello there sir sup
+- ola zordon what is up
+- hola pal salutations
+- hello there robot hello there again
+- hey whatsup
+- howdy pal good day
+- sir hallo
+- hello there bud good night
+- hey there zord sup
+- hello there guy what's up
+- hello sir whatsup
+- hello there bot goodday
+- howdy bot how are things going
+- zord goodmorning
+- ola robot goodnight
+- ola roboga what's up
+- hola robot hola again
+- hi zordon good night
+- hey there zord what's up
+- hey little guy are you there
+- hola dude whats up
+- hello there zord whatsup
+- friend goodnight
+- good day bot
+- roboga hola
+- hey friend greetings
+- hey machine what is up
+- hey there friend sup
+- hello there bud good day
+- hola zord hallo
+- hola pal sup
+- hello there bud what is up
+- whats up sir
+- hello zord greetings and salutations
+- hey little guy
+- hi machine howdy again
+- hello there robot
+- hola robot whatsup
+- hey dude greetings
+- hey there buddy how are you
+- hello there little guy are you around
+- good day machine
+- machine salutations
+- hi zord goodnight
+- hey machine whats up
+- hey there buddy
+- ola zord whats up
+- hello zordon morning
+- hello there friend salutations
+- robot goodmorning
+- goodday friend
+- hey dude goodday
+- hola sir how are you doing
+- hello there zord goodafternoon
+- ola zordon morning
+- hola roboga how its going
+- hey there bud what is up
+- ola robot good morning
+- morning guy
+- bot goodmorning
+- hey bud goodafternoon
+- hello friend whats up
+- hello machine goodnight
+- bot hey
+- ola fellow how are you
+- howdy bud how are you
+- hola guy whats up
+- hey there robot whats up
+- hey little guy how are things going
+- whats up zord
+- zordon whats up
+- hello there bud how it's going
+- hey bot goodday
+- hey little guy what's up
+- hi dude hallo
+- hi bud
+- hey there little guy goodafternoon
+- howdy sir goodafternoon
+- hi zord good afternoon
+- little guy salutations
+- what's up pal
+- hey there pal goodmorning
+- hello guy morning
+- hello there robot whatsup
+- hola dude good afternoon
+- hi buddy goodnight
+- ola roboga
+- hello there robot what is up
+- hey there sir morning
+- friend good morning
+- hi roboga goodday
+- hi guy goodday
+- howdy little guy
+- hello machine how it's going
+- good morning dude
+- hey there machine how is going
+- hello there friend how are things going
+- hello there little guy what's up
+- ola roboga how are you
+- hello buddy morning
+- bot hola
+- are you there pal
+- hello there friend how its going
+- hola machine whatsup
+- hey there zordon goodday
+- hi fellow are you there
+- hello there friend what's up
+- hello there zordon hallo
+- hey there guy morning
+- good morning buddy
+- buddy goodnight
+- hello zordon whats up
+- hello there how are things going
+- hello goodnight
+- hola pal goodafternoon
+- hello there buddy whats up
+- hola zord how are you
+- how is it going fellow
+- hola robot how are you
+- hi buddy greetings and salutations
+- hola zordon are you around
+- how are you bot
+- pal good day
+- howdy zord hallo
+- hi robot good afternoon
+- hola robot sup
+- howdy little guy good afternoon
+- hello guy are you around
+- hey greetings
+- hello dude goodmorning
+- roboga how are things going
+- morning friend
+- hola pal hallo
+- ola guy how are you
+- sir ola
+- hola little guy goodafternoon
+- hello zord are you there
+- dude how is going
+- good morning zord
+- hi dude how are things going
+- hi buddy how is going
+- hey there buddy good morning
+- hi pal what is up
+- hey friend whats up
+- ola guy good morning
+- hello there buddy goodafternoon
+- what is up guy
+- dude whatsup
+- hey fellow good morning
+- howdy robot good morning
+- hey zord goodday
+- howdy buddy good afternoon
+- hello roboga goodnight
+- hey robot good day
+- are you around zord
+- little guy good afternoon
+- hello there buddy good day
+- ola pal
+- howdy roboga
+- howdy robot greetings and salutations
+- hi roboga are you there
+- howdy bot morning
+- robot how are you doing
+- greetings and salutations zord
+- hey zordon goodday
+- ola machine good morning
+- hello greetings
+- hi how are you
+- hello roboga how are you
+- hi friend goodmorning
+- zordon hey there
+- robot are you there
+- hola pal are you around
+- howdy buddy how it's going
+- howdy zord how it's going
+- hey sir goodmorning
+- hello there robot good afternoon
+- hey there bot how it's going
+
+## intent:negative
+- nope thanks
+- no
+- don't not what i crave fellow
+- incorrect for me sir
+- thank you I appreciate it but faulty
+- affirmative thats not good
+- I would appreciate it but Im not all right with that
+- little guy not what i want
+- no to that there is no need
+- do not mistaken for me bud
+- no to that thats untrue pal
+- do not your'e not right dude
+- negative mistaken for me
+- do not that's untrue sir
+- negative no need machine
+- no to that definitely dont little guy
+- no to that your'e not ok little guy
+- do not is not correct machine
+- untrue no need guy
+- no to that not quite guy
+- falty there is no need guy
+- negative not quite zord
+- negative dont agree on that sir
+- don't almost little guy
+- nope there is no need robot
+- negative not what i wish little guy
+- erroneous no way roboga
+- no to that there is no need machine
+- negative inaccurate for me machine
+- no to that not crave that robot
+- negative is not good dude
+- don't there is no need buddy
+- negative not at all zord
+- yep definitely don't
+- no to that I'm not ok with that roboga
+- nope not ok for me friend
+- don't that is not accurate fellow
+- don't is not acceptable robot
+- nope not agree on that little guy
+- no to that almost robot
+- zord not quite
+- there is no need machine
+- nope didn't crave that little guy
+- nope not quite sir
+- do not imprecise for me fellow
+- false dont agree on that fellow
+- do not there is no need sir
+- negative not what i agree on sir
+- negative I'm not fine with that dude
+- negative fellow please I appreciate it
+- do not definitely no fellow
+- negative mistaken for me roboga
+- negative not quite bot
+- faulty not at all dude
+- dont there is no need zordon
+- nope no way little guy
+- negative not agree on that machine
+- faulty dont want that pal
+- nope not good with that sir
+- dont not ok with that bot
+- negative not what i desire dude
+- negative almost little guy
+- si not what i want
+- no to that there is no need dude
+- dont dont agree on that sir
+- no not agree on that zordon
+- no to that not agree on that dude
+- do not didnt like that bud
+- negative not what i wish bot
+- no not quite robot
+- falty not what i need little guy
+- nope didn't agree on that zord
+- no is not ok sir
+- no no way
+- nope not quite
+- do not not at all machine
+- machine no way
+- there is no need buddy
+- do not your'e imprecise sir
+- nope I am not good with that roboga
+- defective do not need that robot
+- dont did not mean that
+- no to that that is erroneous machine
+- nope didnt need that zord
+- negative not what i crave pal
+- no to that no way bud
+- don't your'e wrong robot
+- no to that almost buddy
+- false no need zordon
+- dont isn't precise
+- nice there is no need
+- no not at all bot
+- no not ok with that
+- dont zord please
+- do not not at all guy
+- false your'e mistaken machine
+- no to that not at all sir
+- nope almost zordon
+- no to that definitely no zordon
+- dont not what i want
+- defective didnt need it friend
+- thanks but isn't ok
+- missing dont like it fellow
+- negative almost sir
+- no is not precise bud
+- nope isn't accurate friend
+- no there is no need buddy
+- negative no need robot
+- nope not quite bot
+- no to that that is not correct little guy
+- nope it is not acceptable pal
+- nope is not acceptable bot
+- guy don't agree on that
+- no need robot
+- do not incomplete for me buddy
+- no to that no way dude
+- defective definitely missing zordon
+- negative not meant that roboga
+- negative your'e not acceptable pal
+- negative not what i mean zordon
+- dont not good with that machine
+- yes isn't accurate
+- no to that no way guy
+- negative it's falty pal
+- nope don't agree on that
+- negative your'e incomplete roboga
+- nope imprecise for me little guy
+- nope isn't fine little guy
+- nope your'e wrong zord
+- no there is no need guy
+- no no need little guy
+- don't no way friend
+- no to that no need machine
+- faulty Im not good with that bud
+- nope didnt agree on that buddy
+- no thats not precise sir
+- dont not prefer it
+- no pal please
+- no to that definitely do not guy
+- do not incomplete for me guy
+- dont there is no need pal
+- no that is not precise fellow
+- wrong not what i wish bud
+- wrong not quite dude
+- untrue not what i crave dude
+- no to that don't agree on that fellow
+- nope I'm not ok with that robot
+- nope definitely no friend
+- dont not agree on it fellow
+- fellow not what i agree on
+- yea no need
+- didnt want that pal
+- erroneous thats defective guy
+- no there is no need bot
+- no definitely don't bot
+- nope isn't acceptable machine
+- mistaken not at all little guy
+- nope thats not fine bot
+- missing not quite friend
+- no there is no need little guy
+- no to that not at all zord
+- no to that no way machine
+- no no way zord
+- no to that not ok with that little guy
+- no isn't all right little guy
+- negative no need roboga
+- dont there is no need zord
+- negative definitely nope zord
+- false not need that bud
+- dont isn't acceptable little guy
+- do not not good for me guy
+- no to that not quite friend
+- don't not quite machine
+- negative not quite buddy
+- good did not crave it
+- no to that no way robot
+- no not like it zord
+- no to that that is erroneous guy
+- dont dude thanks
+- erroneous is not all right machine
+- negative Im not good with that sir
+- no to that not quite robot
+- no need dude
+- dude not ok for me
+- no to that I am not fine with that bud
+- no didnt desire it roboga
+- nope not what i wish buddy
+- erroneous not at all guy
+- no not precise for me dude
+- nope is not good zord
+- false definitely negative friend
+- no to that is falty little guy
+- no no need roboga
+- negative is not acceptable sir
+- thanks I appreciate it but almost
+- no definitely no bot
+- no there is no need
+- negative did not agree on that dude
+- negative Im not ok with that robot
+- negative did not desire that sir
+- negative not what i need machine
+- untrue almost fellow
+- defective not quite zordon
+- no to that there is no need pal
+- correcto incorrect for me
+- negative not prefer it zordon
+- false wrong for me friend
+- dont there is no need little guy
+- nope mistaken for me zordon
+- no definitely faulty dude
+- no to that your'e not all right machine
+- negative there is no need sir
+- nope no need little guy
+- no to that didn't wish that bud
+- no definitely negative pal
+- no not at all roboga
+- don't agree on that machine
+- friend thats false
+- erroneous definitely negative bud
+- no Im not ok with that
+- no to that your'e incomplete guy
+- negative pal thank you
+- false not what i need friend
+- negative there is no need bot
+- negative there is no need guy
+- no to that that is falty robot
+- do not not at all zordon
+- do not I'm not ok with that zord
+- no that's not precise friend
+- no to that incorrect for me bot
+- right is not fine
+- dont not what i prefer friend
+- no not wish it dude
+- nope there is no need sir
+- negative not quite dude
+- nope isn't good dude
+- do not not what i desire pal
+- dont mistaken for me fellow
+- no almost zordon
+- nope there is no need roboga
+- bad no way fellow
+- false no need roboga
+- no not good for me friend
+- defective not at all little guy
+- faulty didn't wish it bot
+- nope that's missing bot
+- no no way zordon
+- negative no need friend
+- not at all zord
+- friend no way
+- no not quite
+- do not do not want that little guy
+- false not quite robot
+- don't no need zord
+- no to that didn't meant that bot
+- no not quite fellow
+- no to that no need fellow
+- yes to that that's false
+- nope not quite machine
+- negative your'e mistaken zordon
+- negative did not like that zord
+- nope it is untrue zordon
+- nope fellow
+- no to that didn't agree on that pal
+- no there is no need roboga
+- no to that not at all dude
+- defective there is no need machine
+- no almost roboga
+- do not definitely no bot
+- no to that I'm not fine with that
+- nope your'e mistaken
+- nope your'e not exact robot
+- no to that isn't acceptable guy
+- negative your'e bad dude
+- do not not what i need sir
+- negative not quite sir
+- negative thats faulty fellow
+- dont that's missing roboga
+- do not definitely negative machine
+- erroneous I'm not ok with that machine
+- nope no need sir
+- not all right with that friend
+- yes definitely false
+- machine almost
+- thank you but not like that
+- no I am not good with that friend
+- negative not at all bud
+- no not good for me robot
+- negative I'm not all right with that bot
+- negative there is no need dude
+- no to that not want that bud
+- no that is untrue roboga
+- negative not quite robot
+- don't do not agree on that pal
+- untrue not ok with that bot
+- nope not what i wish robot
+- no to that definitely incomplete robot
+- false definitely nope guy
+- don't definitely no bot
+- falty definitely no robot
+- no not at all fellow
+- no dude please I appreciate it
+- false almost zord
+- not exact no need sir
+- don't not what i agree on robot
+- erroneous not what i like roboga
+- no not quite buddy
+- no incomplete for me bud
+- false that's wrong little guy
+- nope bad for me fellow
+- affirmative not ok for me
+- no to that not quite little guy
+- falty not at all bot
+- negative is not fine roboga
+- nope your'e incorrect roboga
+- no thats falty bot
+- nope no need dude
+- bad your'e incomplete pal
+- zord not all right with that
+- not crave that
+- negative not at all roboga
+- negative not at all
+- no to that don't agree on that zordon
+- imprecise not what i agree on dude
+- no to that your'e imprecise bud
+- faulty is untrue
+- no not like that machine
+- negative not agree on that sir
+- negative your'e bad
+- no to that not agree on that roboga
+- no to that not what i like friend
+- no definitely nope guy
+- dont not agree on that bud
+- falty no need dude
+- nope not quite zordon
+- nope almost zord
+- negative almost fellow
+- no to that definitely negative pal
+- nope not what i wish bud
+- yea not what i need
+- don't not what i crave pal
+- do not no way friend
+- false machine I would appreciate it
+- negative no way zord
+- no to that there is no need fellow
+- no did not agree on that machine
+- dont it's not ok roboga
+- no to that do not agree on that bot
+- nope didnt crave it sir
+- no to that that is defective friend
+- defective not quite sir
+- roboga did not agree on that
+- incorrect for me dude
+- no almost machine
+- no not fine with that roboga
+- falty not at all friend
+- negative not quite pal
+- erroneous not at all zordon
+- negative definitely negative guy
+- no to that there is no need roboga
+- nope your'e incorrect fellow
+- do not wrong for me fellow
+- no not correct for me roboga
+- no thats erroneous roboga
+- precise do not wish it
+- nope isn't accurate dude
+- negative not what i wish robot
+- negative not at all pal
+- dont is not good pal
+- negative no need
+- false I am not fine with that bot
+- negative there is no need pal
+- no to that your'e imprecise dude
+- I appreciate it but that is defective
+- don't no way zord
+- do not that's faulty sir
+- falty dont meant that
+- no to that definitely no robot
+- no not quite sir
+- negative is not all right sir
+- negative not at all bot
+- no to that is not exact sir
+- nope not quite dude
+- false is not correct zord
+- faulty pal thank you
+- your'e incorrect sir
+- negative no need fellow
+- little guy your'e incomplete
+- untrue not quite zordon
+- no to that not at all bud
+- no didn't agree on that dude
+- no no way sir
+- nope that's false dude
+- nope no way zord
+- precise thats not fine
+- no to that no need little guy
+- negative I am not ok with that fellow
+- don't I'm not all right with that robot
+- erroneous no way
+- no to that is not fine zord
+- no to that almost guy
+- no to that no need
+- dont thats not acceptable
+- faulty that's defective
+- negative didnt mean that friend
+- no to that is not fine buddy
+- no to that almost dude
+- erroneous didnt mean it
+- do not not at all bud
+- don't not at all pal
+- nope no way bot
+- negative its untrue bud
+- nope no way sir
+- negative definitely negative roboga
+- defective inaccurate for me friend
+- dont not what i want fellow
+- negative didnt mean that dude
+- no to that incomplete for me guy
+- don't definitely no
+- falty thats untrue sir
+- don't agree on that friend
+- zordon definitely no
+- correcto your'e incorrect
+- nope no need zord
+- no to that no way sir
+- negative is not precise roboga
+- dont not quite roboga
+- dont not agree on that zord
+- nope not quite robot
+- don't sir please I would appreciate it
+- dont no way buddy
+- no to that thats not all right buddy
+- negative don't desire that zordon
+- negative your'e not exact bot
+- no to that not quite machine
+- don't didnt agree on that sir
+- nope there is no need
+- false that is untrue roboga
+- false not at all zordon
+- no no need
+- don't not at all sir
+- negative is not acceptable fellow
+- nope didn't agree on that robot
+- no to that not mean that little guy
+- false not mean that zordon
+- negative is not all right bud
+- don't not at all robot
+- fine not quite
+- missing didn't agree on that pal
+- no is not correct zordon
+- do not almost robot
+- mistaken isn't all right friend
+- no not what i meant bot
+- falty that is incorrect buddy
+- there is no need bud
+- zord didnt agree on that
+- no to that not ok with that guy
+- no to that isn't accurate
+- no definitely negative machine
+- false not what i agree on roboga
+- dont no way bot
+- erroneous your'e bad
+- no no way roboga
+- imprecise no way machine
+- do not there is no need little guy
+- thanks but thats not precise
+- falty not quite little guy
+- faulty almost little guy
+- do not definitely don't dude
+- no zord please
+- no to that no way bot
+- do not no need zord
+- faulty that's not acceptable machine
+- untrue isn't acceptable roboga
+- no to that dont agree on that robot
+- nope not what i desire machine
+- yeah bad for me
+- nope not quite friend
+- nope your'e incorrect friend
+- missing not all right with that guy
+- no that's false buddy
+- no no way fellow
+- no to that no way little guy
+- nope no need robot
+- negative isn't correct roboga
+- don't definitely dont buddy
+- nope almost
+- nope thats faulty roboga
+- friend not what i wish
+- Im not all right with that
+- no no need machine
+- no there is no need machine
+- defective almost
+- no is not acceptable
+- negative not at all sir
+- don't do not agree on that little guy
+- do not not at all zord
+- do not is not accurate bud
+- false no way roboga
+- nope Im not good with that bud
+- falty didnt agree on that bot
+- no that is not exact sir
+- yes not what i like
+- negative almost bot
+- not ok dont agree on that machine
+- defective thats erroneous little guy
+- negative is not accurate sir
+- nope is not ok fellow
+- no to that wrong for me fellow
+- faulty bud
+- no to that mistaken for me zordon
+- do not incorrect for me guy
+- no to that not what i wish robot
+- no that is defective friend
+- untrue no need sir
+- untrue isn't precise roboga
+- negative isn't acceptable bot
+- dont no way sir
+- don't no way sir
+- nope not quite pal
+- dude definitely no
+- no way pal
+- nope is not right roboga
+- no to that definitely no zord
+- negative almost zordon
+- don't not quite dude
+- no to that imprecise for me friend
+- don't Im not ok with that little guy
+- falty your'e bad zord
+- affirmative isn't ok
+- no your'e inaccurate bot
+- no to that there is no need bud
+- nope do not want it zord
+- nope no need machine
+- missing not what i desire zord
+- no it is not fine pal
+- defective that's not precise bud
+- defective there is no need robot
+- nope isn't correct zord
+- negative not ok for me bot
+- negative inaccurate for me fellow
+- don't almost machine
+- missing no need friend
+- negative that's false sir
+- negative imprecise for me
+- falty is not all right bot
+- no to that not agree on that bud
+- no isn't correct little guy
+- nope not fine with that bot
+- untrue robot please I would appreciate it
+- no not quite roboga
+- no to that your'e not correct robot
+- no definitely false guy
+- dont I am not all right with that pal
+- no need buddy
+- little guy no need
+- thank you but no need
+- ok don't meant that
+- no not at all zordon
+- no to that definitely no dude
+- nope not at all friend
+- untrue your'e bad robot
+- dont your'e inaccurate pal
+- no to that your'e incorrect bot
+- negative your'e incorrect fellow
+- negative isn't all right roboga
+- no to that that's not fine roboga
+- don't I am not all right with that zord
+- negative not quite fellow
+- dont no way roboga
+- untrue not at all buddy
+- inaccurate definitely faulty roboga
+- no your'e inaccurate little guy
+- negative your'e wrong zord
+- negative didnt agree on that zord
+- mistaken that's not fine
+- no to that there is no need sir
+- negative there is no need buddy
+- nope not agree on it friend
+- nice your'e not correct
+- falty is it not all right little guy
+- negative definitely no to that bud
+- no to that not what i wish dude
+- no to that Im not all right with that roboga
+- no to that not at all
+- dont no way zordon
+- that's faulty fellow
+- do not almost zord
+- bud there is no need
+- nope robot I would appreciate it
+- zordon no to that
+- do not not quite fellow
+- don't thats not fine bud
+- no isn't precise buddy
+- no isn't ok roboga
+- no to that not what i need fellow
+- dont Im not ok with that friend
+- negative no way machine
+- negative there is no need bud
+- no didnt agree on that bot
+- no not at all buddy
+- no to that no way pal
+- nope almost little guy
+- nope no way buddy
+- dont incomplete for me bud
+- no isn't acceptable sir
+- do not that is missing pal
+- si incorrect for me
+- nope not fine for me little guy
+- negative definitely no to that fellow
+- erroneous not agree on that pal
+- missing definitely no to that
+- faulty your'e wrong machine
+- no to that definitely negative sir
+- no to that almost machine
+- no is not all right
+- dont no way pal
+- negative didnt agree on that zordon
+- faulty not quite fellow
+- isn't all right buddy
+- dude did not prefer it
+- do not not quite friend
+- don't definitely negative
+- falty incorrect for me zordon
+- false almost friend
+- no your'e not fine fellow
+- don't Im not fine with that robot
+- no wrong for me fellow
+- nope did not agree on that bot
+- no to that not at all zordon
+- negative bot please
+- nope no way fellow
+- nice that's not good
+- missing no need robot
+- nope your'e not correct zordon
+- missing almost dude
+- dont no way bud
+- nope isn't good little guy
+- no almost friend
+- nope not quite buddy
+- negative that's missing bud
+- I would appreciate it but I am not good with that
+- no to that not what i agree on bud
+- no to that isn't exact bot
+- faulty there is no need roboga
+- no to that I am not fine with that roboga
+- dont no way little guy
+- no your'e not correct little guy
+- don't that is erroneous zord
+- not at all friend
+- negative not what i wish pal
+- robot it's defective
+- no to that thats faulty guy
+- no that is not fine zordon
+- negative no way bud
+- don't no way
+- affirmative incorrect for me
+- no to that definitely negative fellow
+- negative no need dude
+- untrue no way fellow
+- no to that isn't fine little guy
+- no to that not quite roboga
+- negative not at all friend
+- nope it is not acceptable bud
+- false not quite sir
+- untrue did not meant that friend
+- nope robot please I appreciate it
+- nope almost bud
+- no definitely negative bud
+- no to that is missing fellow
+- nope your'e incorrect guy
+- no not quite dude
+- no thats missing robot
+- no to that not at all fellow
+- don't isn't ok zordon
+- do not not what i like zord
+- do not that's not fine fellow
+- don't don't want that machine
+- roboga almost
+- nope almost machine
+- si bad for me
+- it is inaccurate
+- negative isn't precise bud
+- erroneous isn't ok guy
+- not acceptable incorrect for me friend
+- no to that not at all machine
+- no your'e wrong robot
+- negative is not fine little guy
+- negative that's faulty machine
+- no to that almost zordon
+- do not imprecise for me sir
+- no to that didn't need it machine
+- no not all right with that bot
+- nope not quite little guy
+- inaccurate is not fine roboga
+- no to that Im not ok with that bud
+- negative no need zordon
+- no not what i prefer robot
+- mistaken no way robot
+- false incorrect for me machine
+- nope no need buddy
+- nope incomplete for me machine
+- dont not at all friend
+- do not not at all buddy
+- no zord please thanks I appreciate it
+- no to that didnt need it buddy
+- ok inaccurate for me
+- nope not prefer that sir
+- negative not need that little guy
+- nope incorrect for me zord
+- nope is not correct friend
+- not correct not at all zord
+- no to that that's not all right zord
+- it's not all right friend
+- dude that is not acceptable
+- falty it is faulty buddy
+- no to that bad for me roboga
+- no not at all
+- no to that not quite pal
+- nope isn't precise
+- false no way dude
+- negative didnt agree on that fellow
+- bad not agree on that bud
+- I appreciate it but no way
+- dont not at all dude
+- no to that it is not fine pal
+- do not no need zordon
+- nope no way roboga
+- no it is not correct zordon
+- no definitely dont fellow
+- dont isn't exact roboga
+- correcto imprecise for me
+- faulty not what i agree on robot
+- false is incorrect buddy
+- nope not what i want roboga
+- negative not quite bud
+- don't I am not good with that fellow
+- no not meant that bot
+- negative is not acceptable pal
+- negative not wish it
+- negative Im not ok with that pal
+- do not thats false roboga
+- nope I'm not fine with that
+- faulty that's defective roboga
+- nope thats faulty dude
+- machine isn't acceptable
+- do not thats not accurate little guy
+- defective definitely negative bud
+- no no need robot
+- no to that not meant it fellow
+- no to that isn't ok guy
+- no to that definitely negative bud
+- do not do not agree on that
+- no its not all right guy
+- erroneous your'e not fine dude
+- don't not quite friend
+- ok no way
+- negative not agree on that roboga
+- do not wrong for me bud
+- false not what i want zordon
+- no isn't all right bot
+- negative is not accurate guy
+- negative not agree on that bot
+- falty is not ok bud
+- negative inaccurate for me
+- dont not quite zord
+- no not at all friend
+- missing it is not ok
+- no to that your'e imprecise bot
+- no don't agree on that pal
+- no to that not quite zordon
+- negative that's untrue sir
+- negative didnt desire it machine
+- negative isn't fine friend
+- untrue no way buddy
+- is false
+- don't it is not acceptable guy
+- I'm not ok with that pal
+- negative your'e wrong little guy
+- missing almost fellow
+- no to that not what i crave bot
+- no is not ok friend
+- no sir please I would appreciate it
+- exact no need
+- negative thats not good sir
+- negative no need pal
+- no almost zord
+- false thats false friend
+- dont not quite little guy
+- not all right not quite little guy
+- do not there is no need pal
+- nope definitely no zordon
+- no no way buddy
+- no not what i like roboga
+- nope I am not ok with that fellow
+- negative is not good sir
+- no almost little guy
+- no I am not fine with that buddy
+- mistaken isn't good machine
+- nope no need roboga
+- no did not agree on that fellow
+- no your'e imprecise fellow
+- negative almost buddy
+- incorrect no need bud
+- yes to that not quite
+- thanks but it's defective
+- zord not at all
+- do not mean that buddy
+- inaccurate no way dude
+- nope not agree on that fellow
+- nope definitely not correct roboga
+- dont there is no need guy
+- do not no way sir
+- no to that not at all pal
+- false almost sir
+- don't it's faulty zordon
+- no to that definitely no to that pal
+- missing thats defective sir
+- dont dont agree on that machine
+- no to that definitely don't fellow
+- false bud please
+- erroneous dont agree on it sir
+- nope not at all dude
+- untrue that is incorrect zordon
+- negative definitely no sir
+- do not not at all little guy
+- do not not all right for me pal
+- no didn't agree on that buddy
+- negative not what i meant sir
+- nope inaccurate for me pal
+- mistaken is not good fellow
+- no no way bot
+- negative not at all buddy
+- yea there is no need
+- defective not at all buddy
+- no to that not quite sir
+- negative not at all little guy
+- no definitely negative bot
+- negative not at all guy
+- not at all bud
+- false isn't precise pal
+- guy isn't ok
+- nope is not good machine
+- no to that your'e wrong friend
+- no almost robot
+- nope thats not precise
+- untrue didnt agree on that pal
+- no not quite bud
+- no it's falty fellow
+- falty thats faulty pal
+- nope thats erroneous zord
+- faulty not at all bot
+- no I am not fine with that zordon
+- no to that not quite fellow
+- nope is not right bot
+- negative your'e bad machine
+- no to that not agree on that guy
+- do not definitely do not guy
+- nope didn't desire it robot
+- yep dont agree on that
+- no is not fine bud
+- negative zord please thanks
+- no to that your'e incorrect zord
+- defective no way bot
+- nope don't agree on that pal
+- missing bad for me buddy
+- no thats false buddy
+- defective not at all fellow
+- dont I am not all right with that
+- don't wrong for me machine
+- no to that there is no need zord
+- negative not what i like zord
+- no to that not crave it friend
+- that's false machine
+- negative not what i crave bud
+- no to that not agree on that buddy
+- no not fine with that sir
+- no to that not wish that guy
+- dont not fine with that buddy
+- no not quite zord
+- untrue there is no need robot
+- no to that not what i wish bud
+- negative don't agree on that zordon
+- no to that inaccurate for me fellow
+- negative wrong for me bud
+- no to that no need dude
+- fine that is missing
+- no not quite zordon
+- negative definitely do not little guy
+- negative no way dude
+- negative Im not fine with that little guy
+- dont not quite sir
+- incomplete your'e not correct robot
+- no to that your'e incorrect sir
+- no there is no need dude
+- thank you I appreciate it but not at all
+- don't your'e inaccurate fellow
+- nope definitely missing
+- no to that thats false little guy
+- no to that no need robot
+- nope not what i like machine
+- no don't mean that friend
+- no to that bud thanks I appreciate it
+- no there is no need zordon
+- negative not fine with that zordon
+- no Im not all right with that fellow
+- no need pal
+- robot not exact for me
+- erroneous your'e not correct machine
+- nope don't agree on that robot
+- no thats missing roboga
+- negative no need zord
+- nope not all right with that zordon
+- no to that dont want it robot
+- yes to that isn't ok
+- faulty thats not precise pal
+- no not what i mean little guy
+- no thats defective dude
+- dont Im not good with that little guy
+- untrue isn't all right roboga
+- negative there is no need friend
+- no Im not ok with that zord
+- do not incomplete for me sir
+- defective is not exact bot
+- no not ok for me zord
+- nope no way pal
+- dont not what i need bud
+- no do not crave that pal
+- do not not at all sir
+- untrue there is no need zordon
+- falty imprecise for me guy
+- dont definitely no to that
+- no to that no way fellow
+- negative I'm not all right with that robot
+- negative do not agree on that bud
+- wrong do not agree on it bot
+- no need fellow
+- bud no way
+- ok incorrect for me
+- no thats faulty bud
+- no to that don't mean it
+- no to that not agree on it bot
+- nope zord please thanks
+- dont did not agree on that little guy
+- falty not all right with that sir
+- untrue isn't ok zord
+- untrue thats not all right bot
+- faulty is not ok little guy
+- no bad for me fellow
+- erroneous isn't ok
+- no to that there is no need buddy
+- negative is not accurate bud
+- nope there is no need zordon
+- faulty thats not good buddy
+- negative did not agree on that guy
+- no to that I am not all right with that zord
+- negative not fine for me zord
+- no to that no way zord
+- no definitely negative dude
+- no to that did not agree on that dude
+- no to that don't agree on that dude
+- negative not accurate for me
+- correcto not at all
+- no to that there is no need guy
+- nope almost roboga
+- thats untrue zord
+- do not do not agree on that fellow
+- little guy almost
+- nope thats falty zordon
+- no to that no need bud
+- don't there is no need bot
+- do not no way little guy
+- no mistaken for me guy
+- negative definitely negative robot
+- no to that isn't all right
+- dont not at all buddy
+- do not almost sir
+- falty little guy please
+- thanks I appreciate it but not what i desire
+- erroneous almost sir
+- nope definitely no bud
+- nope not at all sir
+- no to that not what i mean bot
+- missing there is no need friend
+- do not it is defective machine
+- no incorrect for me sir
+- si did not agree on that
+- no not ok with that zordon
+- no don't agree on that
+- no not quite bot
+- negative almost zord
+- negative I am not fine with that zordon
+- negative isn't exact dude
+- no to that definitely missing friend
+- negative your'e not all right fellow
+- faulty there is no need machine
+- no thats not all right bud
+- untrue not what i need guy
+- nope don't wish it bud
+- bot is not accurate
+- no way
+- no to that not at all robot
+- nope is not precise friend
+- no to that not at all guy
+- dont not quite
+- bad I am not fine with that bot
+- untrue not prefer it machine
+- no your'e not good friend
+- no I am not ok with that friend
+- negative that's not ok dude
+- dont no need zord
+- no incorrect for me little guy
+- nope definitely no to that buddy
+- yep no way
+- no there is no need robot
+- no to that definitely nope bud
+- wrong did not want it zordon
+- no to that imprecise for me roboga
+- dont friend please
+- false there is no need roboga
+- nope there is no need dude
+- nope didn't meant it buddy
+- nope not crave it sir
+- missing is not ok dude
+- don't not quite bud
+- negative not what i want pal
+- no to that thats untrue zord
+- do not not at all bot
+- no not what i mean dude
+- nope isn't accurate zord
+- no to that not ok with that friend
+- no thats not fine
+- no isn't right friend
+- buddy not at all
+- missing no need buddy
+- do not mean that robot
+- erroneous dont agree on that
+- don't not at all zord
+- falty is not all right guy
+- affirmative definitely dont
+- no did not agree on it sir
+- dont definitely no to that fellow
+- negative definitely no to that sir
+- no not what i desire sir
+- no not what i need little guy
+- don't definitely nope fellow
+- nope no need pal
+- negative isn't ok pal
+- nope Im not all right with that little guy
+- no to that not at all friend
+- do not not quite roboga
+- bad thats defective zord
+- nope not at all buddy
+- no roboga thank you
+- nope definitely erroneous guy
+- incomplete there is no need friend
+- no no need pal
+- dont thats not acceptable little guy
+- negative that's faulty roboga
+- no to that isn't good fellow
+- missing not acceptable for me fellow
+- thank you but no way
+- correcto not quite
+- negative definitely no to that bot
+- no way bot
+- zordon definitely no to that
+- nope there is no need bot
+- dont almost dude
+- nope that is not all right zordon
+- dont didnt crave that zord
+- faulty is not exact pal
+- nope no need bud
+- negative it's faulty machine
+- no to that no need roboga
+- nope not quite roboga
+- no to that not what i meant friend
+- negative didn't agree on that bud
+- no to that no need buddy
+- don't not at all buddy
+- negative not like that machine
+- negative your'e incorrect guy
+- negative almost machine
+- negative almost roboga
+- negative definitely faulty roboga
+- dont isn't accurate roboga
+- dont almost sir
+- nope did not crave it friend
+- fine not at all
+- no not at all dude
+- erroneous almost zord
+- falty not what i need sir
+- no thats false machine
+- no thats falty zordon
+- negative dude please
+- untrue do not agree on that buddy
+- not quite dude
+- dude there is no need
+- no no need friend
+- erroneous not at all friend
+- do not not what i meant zord
+- dont there is no need
+- defective no way buddy
+- nope dont agree on that little guy
+- dont there is no need dude
+- no to that incorrect for me guy
+- no to that didn't meant that dude
+- no to that not ok for me roboga
+- don't its false fellow
+- don't not quite zord
+- nope not crave that
+- no to that isn't all right machine
+- erroneous not acceptable for me dude
+- dont definitely do not dude
+- no to that dont like that guy
+- nice is not correct
+- nope did not crave that bud
+- don't there is no need sir
+- no to that your'e incomplete zordon
+- untrue not at all bot
+- dont is not ok bud
+- dont almost buddy
+- nope almost pal
+- erroneous definitely no buddy
+- defective your'e not correct dude
+- incomplete for me dude
+- dude no need
+- negative no way roboga
+- no is not accurate sir
+- nope not what i want robot
+- negative thats not right little guy
+- dont definitely defective fellow
+- bad your'e not all right roboga
+- negative no way little guy
+- no bot please thanks
+- dude no
+- untrue not good with that zordon
+- dont not fine with that bud
+- no to that there is no need little guy
+- no almost pal
+- nope not what i need dude
+- no is it not correct dude
+- correcto your'e inaccurate
+- no is not all right roboga
+- nope not what i meant roboga
+- faulty dont agree on that pal
+- negative definitely no dude
+- nope not accurate for me buddy
+- no no way little guy
+- do not I am not all right with that robot
+- I would appreciate it but isn't accurate
+- no to that not what i like robot
+- no to that not what i like bud
+- no to that not quite bot
+- don't no need sir
+- nope your'e wrong little guy
+- no to that your'e not precise
+- no to that not good with that bud
+- dont didn't agree on that fellow
+- machine isn't right
+- almost little guy
+- erroneous no need
+- negative is not exact sir
+- no to that that's not all right guy
+- nope bad for me little guy
+- faulty I'm not good with that zordon
+- nope not at all guy
+- nice not at all
+- negative your'e inaccurate bot
+- dont no way dude
+- no that's falty robot
+- negative definitely false zord
+- do not machine please
+- negative thats missing sir
+- nope I am not ok with that zord
+- falty definitely nope roboga
+- negative is not acceptable robot
+- imprecise thats not ok pal
+- no to that there is no need bot
+- no to that not what i desire pal
+- don't is it faulty pal
+- no that's not precise guy
+- dont isn't ok fellow
+- nope your'e mistaken machine
+- nope is not precise fellow
+- falty not fine with that robot
+- nope no way guy
+- I'm not ok with that fellow
+- correcto almost
+- zord no need
+- negative your'e incomplete machine
+- negative there is no need little guy
+- no its defective sir
+- no definitely no to that pal
+- missing that's not acceptable machine
+- no to that thats wrong little guy
+- nope definitely do not machine
+- no not what i wish pal
+- untrue didnt agree on that bot
+- no I am not ok with that dude
+- faulty that's defective machine
+- falty not what i prefer bot
+- do not definitely nope robot
+- dont buddy thanks I appreciate it
+- no not fine with that zordon
+- false dont desire it machine
+- affirmative not ok with that
+- falty not fine with that roboga
+- missing thats untrue bud
+- nope your'e incorrect dude
+- wrong no way bud
+- no definitely dont buddy
+- nope your'e incorrect zordon
+- no not quite machine
+- robot not what i want
+- do not not quite bud
+- no to that no way roboga
+- faulty I'm not all right with that
+- bad your'e bad sir
+- negative don't agree on that machine
+- false is not good guy
+- no to that not what i meant machine
+- missing definitely false bud
+- no to that is not good fellow
+- thanks I appreciate it but I am not good with that
+- nope thats not good
+- negative your'e incorrect sir
+- no to that do not agree on that robot
+- negative there is no need roboga
+- no incomplete for me little guy
+- no to that its erroneous guy
+- falty your'e wrong pal
+- no isn't right zordon
+- yeah not quite
+- nope dont desire it guy
+- faulty is not right roboga
+- no don't agree on that dude
+- don't almost fellow
+- no to that definitely nope zordon
+- no to that didn't prefer it pal
+- nope thats erroneous pal
+- don't no need pal
+- nope buddy please
+- don't no need machine
+- no that is falty machine
+- dont not what i prefer
+- no thats false guy
+- not what i mean
+- no isn't all right zord
+- robot incorrect for me
+- no to that not agree on that friend
+- don't no way robot
+- nope not agree on that
+- do not not quite guy
+- untrue is it not precise little guy
+- false no way robot
+- no your'e incorrect bot
+- no isn't exact pal
+- no to that no need sir
+- falty Im not ok with that bud
+- affirmative isn't good
+- missing definitely no to that buddy
+- no not what i prefer sir
+- untrue not quite robot
+- no there is no need sir
+- defective not at all bud
+- not acceptable it's not right buddy
+- nope almost sir
+- nope no way robot
+- nope didnt prefer it machine
+- no not agree on that bot
+- negative not want it dude
+- no to that don't meant it zord
+- no is not all right zordon
+- negative your'e incorrect zordon
+- dont your'e mistaken guy
+- untrue not good with that bud
+- is not precise bot
+- fellow no need
+- no to that no need guy
+- nope definitely no to that
+- false zordon
+- negative no way pal
+- nope dont agree on that robot
+- not good isn't fine guy
+- no not at all bud
+- no don't need that roboga
+- defective definitely no
+- do not thats missing
+- nope do not mean that robot
+- nope not good with that pal
+- no almost bud
+- nope that's inaccurate bot
+- no to that Im not ok with that sir
+- false not crave it friend
+- nope thats false friend
+- no almost guy
+- untrue not at all sir
+- no to that almost zord
+- faulty I'm not good with that machine
+- false almost pal
+- missing not what i wish zord
+- no to that dont desire it robot
+- nope not quite zord
+- no no need sir
+- negative I'm not all right with that roboga
+- no to that that is defective pal
+- incomplete not what i crave bud
+- yes I'm not all right with that
+- no not what i prefer buddy
+- not quite
+- thank you I appreciate it but there is no need
+- almost guy
+- no to that your'e bad dude
+- don't incorrect for me buddy
+- no to that didn't like it friend
+- no Im not fine with that bud
+- negative isn't accurate bud
+- missing there is no need dude
+- don't definitely no guy
+- no to that zord please thank you
+- no its not acceptable zordon
+- mistaken Im not all right with that bud
+- nope not what i need fellow
+- no is not precise zordon
+- dont Im not good with that robot
+- untrue not at all machine
+- nope not what i desire little guy
+- falty not agree on that robot
+- missing not all right with that zord
+- negative not ok with that robot
+- defective not at all zord
+- incorrect don't agree on that roboga
+- dont that's bad dude
+- nice not what i meant
+- negative is not right zord
+- falty don't agree on that zord
+- do not not all right for me bud
+- mistaken almost robot
+- nope is not accurate pal
+- no is defective robot
+- faulty your'e inaccurate guy
+- didnt agree on that robot
+- zord no way
+- defective is not acceptable guy
+- no to that do not agree on that machine
+- dont almost bot
+- falty do not agree on that machine
+- nope no need bot
+- dont isn't right pal
+- no to that I'm not all right with that sir
+- negative I am not good with that
+- dont definitely missing
+- no to that almost fellow
+- untrue definitely don't machine
+- negative not what i crave roboga
+- negative Im not ok with that sir
+- negative that is not right guy
+- do not buddy I would appreciate it
+- untrue isn't correct zord
+- negative not meant that machine
+- ok definitely missing
+- no to that not crave that zord
+- no Im not ok with that bud
+- nope is not good buddy
+- do not not quite zord
+- nope bad for me guy
+- nope is not exact fellow
+- negative I'm not good with that fellow
+- defective did not agree on that robot
+- don't not prefer that friend
+- dont no need machine
+- not what i want sir
+- zordon not agree on that
+- no to that is not exact bot
+- missing there is no need zord
+- nope thats not all right dude
+- don't do not prefer that fellow
+- no imprecise for me roboga
+- untrue not ok for me little guy
+- missing no need roboga
+- not good did not agree on that machine
+- no not all right with that sir
+- no not quite friend
+- faulty not what i like machine
+- si I am not all right with that
+- nope is not accurate robot
+- wrong incomplete for me fellow
+- defective no way dude
+- dont there is no need bot
+- dont isn't fine zordon
+- I would appreciate it but your'e not accurate
+- erroneous almost friend
+- negative definitely nope bud
+- no not right for me bud
+- no no way dude
+- falty your'e mistaken zordon
+- no to that is not ok zordon
+- no is not acceptable buddy
+- nope that is defective roboga
+- defective no way bud
+- negative it is not good little guy
+- no to that is not accurate bud
+- guy definitely no
+- not what i prefer friend
+- no not fine with that guy
+- negative Im not good with that roboga
+- missing mistaken for me machine
+- no to that not what i crave roboga
+- negative that is defective fellow
+- defective not what i wish robot
+- si I'm not fine with that
+- negative definitely negative buddy
+- nope incorrect for me buddy
+- dont is not acceptable guy
+- nope didnt desire it buddy
+- don't not at all zordon
+- no your'e inaccurate roboga
+- do not not acceptable for me
+- no to that your'e mistaken friend
+- erroneous not agree on that
+- false your'e not all right dude
+- negative is not good pal
+- nope your'e wrong pal
+- negative is not precise bud
+- no not all right for me zordon
+- do not is not good friend
+- nope that is not acceptable guy
+- no definitely no to that roboga
+- nope Im not ok with that fellow
+- nope I am not good with that fellow
+- no not fine with that dude
+- do not isn't fine zordon
+- negative friend please
+- negative your'e incorrect
+- not agree on that pal
+- nope not what i meant dude
+- yep Im not good with that
+- sir didnt need it
+- no to that thats not precise dude
+- no to that Im not fine with that friend
+- nope there is no need bud
+- don't not agree on that buddy
+- defective Im not fine with that buddy
+- nope that's imprecise little guy
+- negative not quite guy
+- false that's false guy
+- missing did not agree on that roboga
+- don't almost bud
+- do not not what i prefer roboga
+- dont isn't ok bud
+- no to that no need bot
+- dont definitely no to that zord
+- falty no way friend
+- nope isn't acceptable roboga
+- no isn't right
+- no no need dude
+- not correct I'm not ok with that friend
+- si almost
+- negative your'e wrong zordon
+- nope not what i agree on bot
+- nope not what i mean guy
+- no to that thats defective dude
+- definitely do not robot
+- pal not all right with that
+- dont no need
+- nope incomplete for me zord
+- negative not at all dude
+- negative that is not correct dude
+- no bud please I appreciate it
+- no definitely nope
+- no your'e bad zordon
+- no your'e bad roboga
+- falty not agree on that guy
+- I would appreciate it but almost
+- negative did not like it roboga
+- negative not quite
+- not all right not meant it fellow
+- negative Im not good with that dude
+- no to that is not accurate
+- negative didnt agree on that buddy
+- thank you but no to that
+- no to that is it incorrect little guy
+- affirmative I am not all right with that
+- dont almost zord
+- erroneous mistaken for me bud
+- no to that not quite dude
+- no not what i like guy
+- do not there is no need bud
+- no to that that is not precise dude
+- negative incorrect for me bot
+- no not what i want roboga
+- nope I am not fine with that zordon
+- no not what i meant roboga
+- did not like it bud
+- zord not what i prefer
+- no to that I'm not ok with that
+- dont don't agree on that friend
+- no not want that guy
+- no I'm not ok with that friend
+- do not not what i meant machine
+- no didnt agree on that little guy
+- defective is not acceptable pal
+- no Im not fine with that friend
+- negative not agree on that pal
+- nope your'e bad machine
+- dont definitely negative zordon
+- nope friend please thank you I appreciate it
+- nice not quite
+- negative imprecise for me friend
+- no didn't crave that zordon
+- no definitely no robot
+- nope not what i like zordon
+- don't not at all bot
+- nope isn't exact bud
+- nope not what i want bot
+- falty definitely faulty buddy
+- no to that inaccurate for me friend
+- untrue your'e not precise
+- nope no way
+- not fine not ok with that
+- no to that not fine for me
+- almost machine
+- little guy definitely negative
+- don't thats falty roboga
+- no your'e not correct machine
+- negative that's untrue robot
+- do not not agree on that machine
+- no to that your'e incorrect pal
+- untrue almost guy
+- nope thats not acceptable dude
+- yeah not what i wish
+- negative almost dude
+- negative not what i wish zord
+- no to that definitely no bud
+- negative thats not exact roboga
+- untrue your'e inaccurate dude
+- dont not quite zordon
+- nope its not good zord
+- nope your'e incomplete buddy
+- no definitely no dude
+- no do not wish that buddy
+- negative robot please
+- nope not agree on that bot
+- erroneous not all right with that guy
+- do not no way pal
+- no your'e incomplete sir
+- no to that there is no need zordon
+- negative not fine with that bot
+- no thats false little guy
+- negative is not fine zordon
+- nope your'e inaccurate friend
+- negative is not right roboga
+- little guy I'm not ok with that
+- thanks I appreciate it but definitely no
+- defective not quite fellow
+- false its false friend
+- nope dont crave that
+- no to that almost bud
+- no to that isn't good bot
+- don't no need little guy
+- no mistaken for me pal
+- do not is missing zord
+- do not thats inaccurate buddy
+- negative is not right little guy
+- negative definitely no fellow
+- do not not what i like dude
+- do not don't agree on that roboga
+- nope not at all little guy
+- no didn't want it guy
+- nope is not accurate machine
+- negative isn't precise pal
+- no not meant that buddy
+- yea not quite
+- nope I'm not all right with that friend
+- no to that dude please
+- no is not ok pal
+- no to that your'e mistaken bud
+- no to that I am not good with that roboga
+- no isn't right fellow
+- isn't ok bud
+- pal no way
+- nope not fine for me roboga
+- missing its defective
+- negative imprecise for me buddy
+- no to that Im not fine with that sir
+- untrue there is no need sir
+- no to that inaccurate for me roboga
+- erroneous I am not fine with that bot
+- falty no way roboga
+- nope not all right with that
+- negative its faulty guy
+- no to that that is erroneous zordon
+- do not thats erroneous sir
+- do not is not all right pal
+- no thats defective zord
+- defective not quite bud
+- negative did not like it friend
+- negative no need buddy
+- do not not quite buddy
+- nope did not agree on that
+- no there is no need bud
+- si didn't agree on that
+- faulty not agree on that zordon
+- do not your'e bad roboga
+- no to that not what i wish machine
+- negative your'e not exact fellow
+- do not not at all fellow
+- nope isn't all right robot
+- dont definitely do not roboga
+- nope not like it zord
+- defective bad for me friend
+- zordon dont want it
+- mistaken for me robot
+- defective your'e wrong guy
+- inaccurate inaccurate for me dude
+- negative roboga please
+- negative not agree on that bud
+- nope didn't agree on that friend
+- negative not mean it bot
+- no to that not acceptable for me fellow
+- negative didn't desire it robot
+- no to that mistaken for me robot
+- no don't agree on that roboga
+- nope is not right zordon
+- no to that is not ok dude
+- correcto no way
+- falty did not agree on that zord
+- no isn't acceptable
+- no to that definitely nope guy
+- erroneous your'e bad sir
+- no mistaken for me bot
+- nope there is no need buddy
+- no almost
+- no to that didnt agree on that little guy
+- thank you but is not fine
+- no incomplete for me fellow
+- erroneous not at all little guy
+- don't not what i desire little guy
+- negative didnt desire that buddy
+- untrue not at all robot
+- do not no way zord
+- dont is not fine fellow
+- no not quite pal
+- little guy not exact for me
+- negative definitely no to that machine
+- no need zord
+- no to that that's faulty little guy
+- no to that inaccurate for me zordon
+- nope no need fellow
+- defective your'e imprecise roboga
+- negative there is no need zordon
+- yeah do not prefer it
+- defective thats falty sir
+- no to that Im not ok with that
+- pal no
+- nope
+- negative isn't acceptable little guy
+- do not definitely nope
+- nope that's faulty bot
+- no no need fellow
+- nope I am not all right with that fellow
+- nope almost friend
+- nope definitely negative dude
+- falty not agree on that little guy
+- negative definitely nope friend
+- do not not ok with that friend
+- negative not good for me
+- faulty is not precise sir
+- no to that thats defective sir
+- no your'e wrong buddy
+- no definitely defective
+- no definitely nope machine
+- erroneous I'm not good with that dude
+- acceptable no way
+- your'e bad friend
+- dude not at all
+- falty definitely do not bud
+- no not what i prefer guy
+- defective no need fellow
+- no to that definitely dont friend
+- no to that I am not fine with that dude
+- erroneous your'e wrong zordon
+- no not at all guy
+- no I'm not ok with that dude
+- nope is not precise
+- no isn't all right fellow
+- don't that is not good bud
+- no that's not exact friend
+- falty isn't good friend
+- do not not what i crave guy
+- dont bud
+- no to that almost little guy
+- no I'm not fine with that zord
+- erroneous definitely dont dude
+- false not agree on that fellow
+- falty not at all fellow
+- falty I'm not fine with that little guy
+- no there is no need friend
+- do not didnt agree on that bot
+- exact not agree on that
+- no not agree on that fellow
+- missing almost zordon
+- no to that your'e bad fellow
+- don't not desire it pal
+- erroneous that is erroneous guy
+- no that is false pal
+- bot definitely untrue
+- no it's not all right fellow
+- its not accurate sir
+- do not not what i mean buddy
+- no bad for me sir
+- no not agree on that zord
+- falty there is no need machine
+- no to that didnt like it machine
+- no not what i need pal
+- negative definitely faulty fellow
+- do not is not good machine
+- negative your'e not ok friend
+- do not no need
+- thanks I appreciate it but no way
+- dont almost bud
+- negative no need bot
+- negative that is falty zord
+- no is not fine
+- falty no need zordon
+- dont not at all little guy
+- yes to that didnt agree on that
+- no to that I am not all right with that robot
+- nope not at all bud
+- negative bot
+- defective your'e not accurate fellow
+- no almost buddy
+- false almost roboga
+- do not no need guy
+- do not that's not precise zordon
+- negative not what i agree on little guy
+- don't your'e bad sir
+- pal not what i meant
+- not quite roboga
+- no your'e not all right buddy
+- do not not mean it little guy
+- no to that no need zord
+- don't no need zordon
+- do not definitely no to that fellow
+- don't not quite guy
+- negative dont agree on that dude
+- yes do not crave it
+- nope that is erroneous sir
+- negative not agree on that robot
+- no not at all sir
+- negative do not agree on that roboga
+- don't no way roboga
+- erroneous not at all sir
+- negative is not fine pal
+- negative not what i like little guy
+- nope thats not fine pal
+- don't incorrect for me robot
+- falty it's not fine roboga
+- dont dont need that bud
+- negative your'e incomplete pal
+- no to that your'e not exact guy
+- no to that little guy
+- no need bud
+- do not not agree on that zord
+- don't need that
+- negative your'e bad bud
+- nope your'e not good bot
+- no not at all robot
+- negative thats untrue bot
+- missing no way robot
+- don't no way buddy
+- correcto is not right
+- untrue not quite friend
+- nope not what i desire zord
+- no to that didn't agree on that little guy
+- no thats falty machine
+- no your'e not right pal
+- false definitely no to that little guy
+- do not not ok with that zordon
+- do not there is no need zord
+- no to that isn't correct guy
+- dont not what i prefer fellow
+- nope mistaken for me roboga
+- no to that not prefer that dude
+- dont is it bad buddy
+- no to that no way buddy
+- falty isn't accurate fellow
+- false your'e not exact dude
+- nope is not correct buddy
+- nope is not good bud
+- negative is not good guy
+- negative that is not acceptable zord
+- do not its defective bud
+- missing not at all bud
+- affirmative not right for me
+- no mistaken for me robot
+- thanks I appreciate it but didn't crave that
+- dude not quite
+- inaccurate for me sir
+- dont your'e mistaken roboga
+- don't your'e incomplete machine
+- negative is missing pal
+- no to that zord please thanks I appreciate it
+- no that is bad friend
+- dont no need bot
+- no to that it is falty guy
+- don't incorrect for me dude
+- no to that is it defective bud
+- dont no way
+- no to that mistaken for me friend
+- no to that your'e mistaken zordon
+- negative did not need it fellow
+- no thats not good zord
+- negative no need bud
+- no not at all machine
+- do not no need robot
+- negative incorrect for me roboga
+- nope incomplete for me
+- do not no need machine
+- don't that's falty roboga
+- exact no way
+- nope definitely falty sir
+- negative it's not all right dude
+- do not is not all right sir
+- no your'e not accurate little guy
+- nope no way zordon
+- isn't ok
+- falty not at all zord
+- false isn't fine fellow
+- no that's falty bot
+- falty isn't accurate
+- false Im not all right with that guy
+- no your'e incorrect little guy
+- defective that is not exact zordon
+- no to that isn't fine dude
+- negative not all right for me sir
+- false not at all pal
+- no no need bot
+- don't zordon I appreciate it
+- negative not precise for me zord
+- no to that I'm not good with that
+- negative no need sir
+- do not no way robot
+- don't your'e incomplete bud
+- yeah not at all
+- no isn't accurate zord
+- nope there is no need friend
+- no to that don't desire it robot
+- dont almost zordon
+- negative Im not good with that guy
+- no not ok with that fellow
+- negative not wish it buddy
+- no to that is not correct zordon
+- nope definitely no to that dude
+- no to that not agree on that pal
+- faulty is not precise zord
+- do not not quite little guy
+- not what i agree on dude
+- roboga is not ok
+- negative your'e inaccurate buddy
+- do not that is faulty pal
+- false is missing friend
+- no didnt prefer it robot
+- falty didnt agree on that buddy
+- no definitely faulty sir
+- nope almost guy
+- nope not what i crave roboga
+- yep no need
+- no not agree on that roboga
+- no don't agree on it pal
+- don't that is not right robot
+- do not zordon
+- no that is missing little guy
+- defective no way
+- thanks but no way
+- missing Im not all right with that little guy
+- negative is not right bot
+- nope almost robot
+- faulty that's bad pal
+- no to that Im not good with that buddy
+- no to that there is no need robot
+- negative not at all zordon
+- negative there is no need zord
+- don't wish it zord
+- friend no need
+- no to that not what i prefer roboga
+- nope thats falty zord
+- no to that isn't fine buddy
+- no to that Im not ok with that friend
+- wrong is untrue little guy
+- don't not what i mean friend
+- negative I am not fine with that dude
+- negative that's untrue zordon
+- dont that is not good bot
+- nope that is untrue little guy
+- no not what i meant sir
+- nope isn't fine
+- nope no way dude
+- faulty not ok with that robot
+- untrue incorrect for me buddy
+- untrue definitely no to that robot
+- do not dont like that buddy
+- negative not good with that roboga
+- no is it not acceptable pal
+- no to that friend
+- no to that not ok with that bot
+- nope is not good friend
+- nope not what i agree on
+- faulty not quite pal
+- yep is not fine
+- almost
+- definitely negative buddy
+- untrue almost little guy
+- no to that do not mean it machine
+- negative incomplete for me machine
+- no definitely nope pal
+- negative your'e not all right
+- nope is falty friend
+- don't isn't fine friend
+- nope isn't ok guy
+- bad bad for me bot
+- no definitely not acceptable sir
+- untrue there is no need bot
+- no to that is not all right guy
+- dont is not fine zordon
+- erroneous not what i want pal
+- nope not what i mean little guy
+- negative your'e imprecise
+- nope there is no need pal
+- don't not all right for me bot
+- ok not what i want
+- dont definitely no guy
+- negative isn't correct bud
+- don't almost zordon
+- negative didn't agree on that machine
+- no to that not what i like sir
+- no way friend
+- friend your'e not fine
+- no to that no need pal
+- do not bud please
+- nope imprecise for me zord
+- negative not what i mean pal
+- no wrong for me robot
+- no not what i wish machine
+- no no way machine
+- negative not like that buddy
+- thank you but did not agree on that
+- dont there is no need friend
+- no not what i mean bot
+- imprecise not what i mean machine
+- nope it is faulty little guy
+- faulty not what i meant buddy
+- faulty no way robot
+- dont not at all robot
+- si no way
+- no to that didn't agree on that zord
+- not exact is not precise robot
+- do not is not correct friend
+- no to that almost
+- nope that's not all right machine
+- no inaccurate for me robot
+- erroneous almost little guy
+- untrue dont agree on that
+- untrue dont agree on that buddy
+- negative not like it bud
+- nope not at all pal
+- no not ok for me robot
+- fellow not quite
+- definitely nope little guy
+- mistaken almost pal
+- nope that is false pal
+- faulty I'm not fine with that zord
+- no to that not quite zord
+- negative is erroneous machine
+- no zordon thanks
+- negative definitely no roboga
+- no no need bud
+- don't not at all fellow
+- don't I'm not all right with that pal
+- yeah incorrect for me
+- no to that definitely incorrect zordon
+- don't isn't correct pal
+- no almost fellow
+- untrue almost bot
+- nope no way friend
+- no to that not crave that zordon
+- do not almost fellow
+- false is it not all right machine
+- negative isn't acceptable fellow
+- nope almost dude
+- missing definitely nope
+- dont Im not ok with that roboga
+- missing not what i agree on pal
+- negative incorrect for me machine
+- negative definitely no zordon
+- defective that is falty zordon
+- no to that your'e imprecise guy
+- no is not good zordon
+- no didn't desire that buddy
+- no to that isn't acceptable
+
+## intent:start
+- bot you may commence thank you
+- go ahead friend
+- you may begin zord
+- zord listen
+- zord you should commence please
+- you may commence sir please
+- would you kindly on friend please
+- little guy you may start up please I would appreciate it
+- on roboga please I would appreciate it
+- you should begin please I would appreciate it
+- little guy you should begin please thank you I appreciate it
+- would you kindly on sir please
+- you may commence zord please
+- machine you may begin please
+- sir you may initiate thank you
+- you should commence machine
+- zordon you may begin please I would appreciate it
+- begin friend please
+- could you on machine
+- sir go ahead
+- zord you can turn on please I would appreciate it
+- you should wake up zord please I would appreciate it
+- could you please on thanks I appreciate it
+- zordon you may listen please I appreciate it
+- fellow you can light up please I would appreciate it
+- listen robot
+- please initiate sir please thank you I appreciate it
+- sir you may commence I appreciate it
+- zordon please wake please I appreciate it
+- you should initiate friend
+- you can on dude please
+- buddy could you please initiate thanks
+- you should listen friend please I would appreciate it
+- buddy you should wake up please
+- excuse me initiate pal
+- friend you may wake up please
+- little guy you should commence thanks I appreciate it
+- you can commence roboga
+- you should start up little guy please
+- machine begin please thanks I appreciate it
+- sir listen please thanks I appreciate it
+- start up bot
+- could you on please
+- you may initiate little guy thank you I appreciate it
+- please initiate zord please I would appreciate it
+- machine you should commence please thank you
+- could you please turn on machine
+- machine you should begin please
+- buddy light up please thank you
+- you may begin thanks I appreciate it
+- commence robot
+- sir you can start up please thank you I appreciate it
+- dude you can go ahead please thank you
+- wake friend
+- you should listen thanks I appreciate it
+- begin pal please I would appreciate it
+- you should turn on dude
+- roboga you can on
+- you can start please
+- robot you should listen thanks I appreciate it
+- you should on machine please thank you
+- roboga you may initiate please thank you I appreciate it
+- you can turn on pal please thank you I appreciate it
+- robot you may turn on please I appreciate it
+- you can wake up zord please thank you
+- pal you can initiate
+- buddy you should wake up thanks
+- you can initiate robot
+- you may wake bot I would appreciate it
+- fellow you should listen
+- you can turn on zordon
+- zordon would you kindly begin
+- roboga you may commence thank you I appreciate it
+- could you begin robot please thank you I appreciate it
+- you should turn on little guy thanks I appreciate it
+- zordon you can start please
+- start up fellow thank you
+- little guy you can start please thanks I appreciate it
+- you can wake up zordon
+- buddy you can on I appreciate it
+- excuse me begin robot
+- pal could you please on please
+- on bud please
+- bot you should light up
+- you can turn on I would appreciate it
+- you may begin dude thank you
+- you can turn on bot thank you
+- buddy you may go ahead
+- you can initiate little guy
+- zordon you can commence I appreciate it
+- friend you may wake up please I would appreciate it
+- you may light up zordon please I would appreciate it
+- you can commence sir thank you
+- roboga on
+- you may turn on bud
+- bud you should wake up please thanks
+- start sir please I appreciate it
+- roboga would you be kind to light up I would appreciate it
+- sir turn on please thanks
+- you should start up bud thank you I appreciate it
+- on zord
+- buddy you may turn on
+- you should start I appreciate it
+- you can begin zordon thanks
+- robot you can go ahead thanks
+- you should turn on bot please I appreciate it
+- fellow please on please thanks I appreciate it
+- you should light up guy please
+- you should listen buddy
+- you can on thank you
+- you should light up bot
+- you can listen pal thanks I appreciate it
+- dude you may wake
+- you may turn on dude please
+- sir listen
+- you may begin roboga please
+- robot would you kindly begin
+- bot would you be kind to light up please I would appreciate it
+- you may commence zord please I appreciate it
+- guy excuse me initiate please
+- you can commence machine please
+- robot listen please
+- you can begin pal thank you
+- would you be kind to turn on friend thanks I appreciate it
+- dude you can begin I would appreciate it
+- friend you can wake up I would appreciate it
+- would you be kind to initiate machine please
+- buddy you can commence please
+- go ahead pal please thank you
+- start up little guy thank you I appreciate it
+- buddy you may go ahead please thank you I appreciate it
+- bud you can on please
+- could you turn on sir please I appreciate it
+- you can on zord please thank you I appreciate it
+- robot you should initiate please thanks I appreciate it
+- you may begin robot
+- pal go ahead
+- machine you can start please thanks I appreciate it
+- please light up zord
+- machine you can begin please thanks
+- you can wake friend
+- zordon you may begin please thank you
+- you can on bud thank you I appreciate it
+- bot excuse me could you please begin please
+- please commence roboga please
+- you should commence pal
+- sir you should light up please
+- sir excuse me could you please turn on
+- please on pal please
+- turn on bot
+- bot commence please
+- zord would you kindly initiate I appreciate it
+- you should go ahead friend please
+- go ahead fellow thank you
+- roboga excuse me could you please on please
+- roboga you may turn on please
+- excuse me could you please on guy I appreciate it
+- pal please turn on thank you I appreciate it
+- you can start up fellow please I appreciate it
+- excuse me listen bot please thanks I appreciate it
+- zord excuse me go ahead please
+- dude you may wake please
+- would you be kind to listen buddy please I appreciate it
+- could you please on fellow thanks I appreciate it
+- bud you may start up please thank you I appreciate it
+- robot you may initiate
+- would you be kind to turn on little guy
+- bud you should go ahead I appreciate it
+- you can light up friend I appreciate it
+- you can turn on machine please
+- fellow excuse me could you please begin please
+- you can on robot please
+- you may wake up little guy thanks
+- robot turn on please I would appreciate it
+- guy you should on please
+- would you kindly start please
+- machine you can light up please
+- excuse me could you please listen zordon I appreciate it
+- dude you can go ahead thanks
+- you can turn on pal please thanks I appreciate it
+- excuse me could you please listen sir
+- zordon you can turn on
+- buddy wake please I would appreciate it
+- you may initiate bud please
+- robot excuse me listen
+- would you be kind to begin fellow I would appreciate it
+- you should on fellow please thanks I appreciate it
+- machine you should light up please
+- you should wake up please
+- you may listen guy
+- pal you should listen
+- listen bot please thank you
+- you may on bot please thanks
+- pal you can begin
+- friend you may initiate please I would appreciate it
+- you can go ahead robot I appreciate it
+- machine on
+- you can wake little guy
+- you can listen bot please thank you I appreciate it
+- guy you should commence please thank you I appreciate it
+- you may on zord please
+- little guy please wake up please thank you I appreciate it
+- commence pal please I would appreciate it
+- you can start thank you I appreciate it
+- go ahead fellow please
+- sir you can light up please
+- you can turn on pal
+- bot you may initiate please thanks I appreciate it
+- you may light up fellow please
+- zord you should turn on
+- on dude thank you
+- sir excuse me could you please start up thanks
+- you should light up fellow
+- fellow excuse me could you please begin thanks I appreciate it
+- you may wake up little guy thanks I appreciate it
+- friend on
+- please go ahead friend
+- friend you may wake up I would appreciate it
+- excuse me listen sir please thank you I appreciate it
+- you may wake machine
+- bud you can commence
+- on little guy
+- bot you should wake please
+- little guy wake up
+- you should light up buddy please thanks
+- you should listen machine please thanks
+- dude would you be kind to go ahead thank you I appreciate it
+- friend excuse me go ahead please I would appreciate it
+- you can begin pal thanks I appreciate it
+- zord you should initiate please
+- you should wake up roboga please thanks
+- robot excuse me could you please commence please thank you
+- you may turn on
+- bud you should on thank you
+- please initiate thank you I appreciate it
+- roboga you should begin please thanks
+- would you kindly wake up robot please I would appreciate it
+- sir begin thank you
+- you may initiate machine
+- could you please start buddy please
+- machine you can go ahead please thanks I appreciate it
+- guy could you please go ahead
+- you can light up fellow
+- guy you should light up
+- excuse me commence roboga please
+- you should wake bud please thanks I appreciate it
+- bud you can turn on
+- sir you may turn on please
+- you should go ahead friend please I would appreciate it
+- bot light up please
+- begin machine please
+- guy you should light up please
+- turn on roboga I appreciate it
+- you may start up pal thank you I appreciate it
+- sir turn on
+- machine could you go ahead please thank you
+- you can light up little guy thank you I appreciate it
+- you may commence buddy please thank you I appreciate it
+- roboga you should begin
+- fellow could you please begin please
+- you should start bot thanks
+- could you begin
+- you should wake up thank you
+- go ahead buddy please
+- pal please commence I would appreciate it
+- sir begin please
+- you should start zord
+- zordon you can go ahead please
+- initiate robot please thanks I appreciate it
+- you should go ahead bot thank you I appreciate it
+- zord initiate please
+- you should turn on pal I would appreciate it
+- guy you can commence
+- bot you may commence thank you I appreciate it
+- you should go ahead pal please thanks
+- turn on roboga thank you I appreciate it
+- pal begin please
+- you can light up bot please I would appreciate it
+- bud you may light up thank you I appreciate it
+- you can commence pal thank you
+- you may go ahead
+- you should initiate zordon please thanks
+- guy you should on please thanks
+- robot excuse me could you please wake up thanks I appreciate it
+- begin zordon
+- you should light up machine thank you
+- guy you may listen please thanks I appreciate it
+- you should begin bot thanks
+- you can listen sir
+- buddy you should go ahead please thank you I appreciate it
+- guy you may on please
+- excuse me initiate buddy
+- machine wake please thank you I appreciate it
+- turn on dude please
+- you should go ahead fellow please thank you I appreciate it
+- zord you should listen
+- buddy you may wake up
+- excuse me on little guy
+- listen please
+- go ahead sir
+- you may commence buddy
+- roboga you can turn on I would appreciate it
+- could you please begin buddy please I would appreciate it
+- you should start please I appreciate it
+- you should turn on roboga thank you
+- zord would you kindly go ahead please thanks I appreciate it
+- guy you should start please thank you
+- you may turn on bud please thanks
+- would you be kind to go ahead zord please
+- buddy you may go ahead please thanks I appreciate it
+- you should commence bot I would appreciate it
+- friend excuse me wake up please
+- robot you should go ahead I appreciate it
+- you may begin robot please
+- pal light up I would appreciate it
+- you should start roboga please thank you
+- little guy you can listen please thanks
+- you may listen bud please I would appreciate it
+- fellow you can wake up thank you
+- wake up
+- friend turn on
+- you can on machine please
+- robot would you kindly light up please thank you
+- you may commence dude please thanks I appreciate it
+- zordon excuse me wake up please thanks
+- commence fellow
+- you should go ahead zord please thanks
+- robot you can listen please thank you I appreciate it
+- machine you may commence please
+- commence zordon please
+- you should start up pal please thank you
+- guy excuse me could you please go ahead thanks I appreciate it
+- go ahead robot thank you
+- little guy excuse me could you please start I appreciate it
+- commence machine
+- bot please turn on I appreciate it
+- bot you can commence please thank you
+- you should go ahead zordon please thanks
+- guy you may commence
+- commence zordon thanks I appreciate it
+- friend you can listen
+- zordon you may go ahead please thank you I appreciate it
+- you should commence please thank you I appreciate it
+- you may turn on buddy
+- bot you should listen thank you
+- turn on fellow please thank you
+- roboga would you be kind to commence please
+- roboga listen please
+- wake machine please
+- sir you should turn on thanks
+- you may listen zord please thank you I appreciate it
+- you can begin little guy please thank you
+- bud you may wake thanks
+- wake up robot please
+- robot you should begin
+- you may start up zordon please thanks
+- you may commence thank you
+- you should initiate guy please
+- bot you should go ahead please thank you
+- bot wake up please thanks I appreciate it
+- you should wake guy please
+- commence buddy please
+- bot you should wake up
+- you may light up bud please thank you I appreciate it
+- zordon you can commence please thank you
+- would you kindly light up roboga please thank you
+- guy you may wake up thank you I appreciate it
+- you may listen pal please I would appreciate it
+- listen sir
+- dude you should initiate
+- you can on zord I appreciate it
+- roboga you can commence please
+- little guy you can listen I would appreciate it
+- would you be kind to go ahead zordon please thank you
+- buddy you may commence thanks
+- friend you can light up please
+- you should wake fellow
+- excuse me could you please start robot please
+- light up thanks
+- you may listen fellow
+- bot please light up I appreciate it
+- commence bud
+- zord light up please thanks
+- you can initiate roboga please thanks
+- fellow you should start up I would appreciate it
+- dude you should initiate please
+- could you listen zordon thanks
+- zordon you may on please
+- you should turn on please
+- sir you can initiate I appreciate it
+- wake zordon
+- little guy would you be kind to go ahead please
+- would you be kind to go ahead
+- you can light up please
+- zordon you may wake please
+- you should on zordon please I would appreciate it
+- friend you may listen
+- pal you can light up please thanks
+- light up bud please thank you I appreciate it
+- you can start up robot please
+- friend you should listen
+- zordon turn on please thank you I appreciate it
+- you may go ahead machine please
+- zordon wake
+- you should wake up zordon please thank you
+- wake up thanks I appreciate it
+- you may commence guy thanks
+- little guy you may begin I appreciate it
+- you may begin bot thank you
+- robot you may listen please
+- you can go ahead buddy please thank you
+- fellow light up please
+- turn on roboga please
+- buddy you may commence please
+- you can listen buddy I appreciate it
+- you can commence robot I would appreciate it
+- bud begin I would appreciate it
+- you may wake up dude I would appreciate it
+- fellow excuse me could you please turn on
+- pal you may go ahead
+- you may wake up guy thank you I appreciate it
+- zord you may commence
+- you can initiate pal please thank you I appreciate it
+- could you please listen machine
+- pal initiate please I would appreciate it
+- guy you should start up I appreciate it
+- please begin friend I would appreciate it
+- commence robot please
+- machine you should turn on please thank you I appreciate it
+- commence dude I would appreciate it
+- dude you can go ahead thank you I appreciate it
+- you can wake up
+- you may commence dude please I appreciate it
+- zordon you may initiate
+- you should on roboga thanks I appreciate it
+- guy on
+- could you please wake roboga
+- you should commence zord thank you
+- roboga begin
+- you can light up zordon thanks I appreciate it
+- fellow you should on please
+- you may start bud thank you I appreciate it
+- buddy you can begin please thank you
+- you can turn on robot please
+- roboga excuse me could you please on
+- start guy thanks I appreciate it
+- zordon you should initiate thanks I appreciate it
+- bud you should light up thanks I appreciate it
+- listen guy
+- you can initiate zordon
+- zord you can wake thanks I appreciate it
+- buddy light up please I would appreciate it
+- you can start up robot I would appreciate it
+- bud you may listen please
+- would you kindly initiate roboga please
+- pal could you light up please
+- you can initiate robot thank you I appreciate it
+- turn on please
+- would you kindly listen friend please thanks
+- buddy would you kindly light up
+- excuse me commence zord please
+- zordon excuse me begin please thank you I appreciate it
+- machine would you be kind to commence
+- you can go ahead bot thank you I appreciate it
+- sir you may start I would appreciate it
+- you can commence sir please
+- could you please light up zordon please thanks I appreciate it
+- little guy please on thank you
+- could you please commence little guy thanks
+- dude you can initiate thanks
+- robot you may on
+- turn on
+- robot begin please
+- start little guy
+- could you please commence sir please thanks I appreciate it
+- fellow you can turn on thanks I appreciate it
+- pal you should start up please
+- excuse me initiate zord please
+- little guy would you kindly start up please
+- you should go ahead robot please thank you I appreciate it
+- dude wake
+- start bud
+- turn on machine thanks
+- guy please initiate please thank you I appreciate it
+- you can on zord thank you
+- pal wake up
+- you should begin bot please thank you
+- bot go ahead please thank you
+- wake pal please
+- buddy you can initiate
+- you may on roboga please I would appreciate it
+- little guy you can begin thank you
+- on fellow please
+- sir you may go ahead I appreciate it
+- fellow you may wake up please thanks I appreciate it
+- listen sir please
+- bot you should on
+- you can listen guy please
+- could you please go ahead fellow I would appreciate it
+- zord could you please commence please thank you I appreciate it
+- you should light up zordon please
+- little guy could you please on thanks I appreciate it
+- little guy you may on
+- you can initiate friend please thank you
+- you can turn on guy
+- guy you can go ahead thanks
+- you can initiate machine
+- roboga you should begin thank you I appreciate it
+- pal you may initiate thanks
+- you may light up guy
+- you may start up machine please
+- guy you should commence please
+- you may wake guy please
+- sir you can go ahead I would appreciate it
+- buddy you can go ahead please thanks I appreciate it
+- you may listen bud
+- you should begin pal
+- fellow would you kindly light up
+- zord you should turn on please thank you
+- wake up zordon thank you I appreciate it
+- you should initiate please
+- sir you should commence please thank you I appreciate it
+- you should begin machine please thank you I appreciate it
+- friend you may start up please thanks I appreciate it
+- you should initiate zord please
+- guy you can listen please thanks I appreciate it
+- you may turn on dude please thank you I appreciate it
+- you may start up please
+- you can light up fellow please
+- bot excuse me could you please initiate thank you
+- you should start machine please
+- you can initiate buddy please thank you I appreciate it
+- friend you can commence please I appreciate it
+- little guy you may on please
+- you should listen robot I appreciate it
+- would you be kind to on pal thanks I appreciate it
+- friend you can turn on
+- bud you may turn on please
+- listen pal
+- bud you can turn on please
+- would you be kind to on machine please
+- zordon you may go ahead
+- friend go ahead
+- you can initiate zord
+- go ahead roboga please thanks I appreciate it
+- robot would you kindly light up please
+- dude you can commence thank you
+- bot would you be kind to on
+- you can on bot please
+- dude you should begin I appreciate it
+- on bud please thank you
+- robot you should start up please
+- would you be kind to on little guy I appreciate it
+- little guy you can commence please thank you
+- you can light up dude please I appreciate it
+- robot would you kindly turn on
+- you should wake friend please
+- you may on friend please
+- roboga on I appreciate it
+- you can listen little guy please I would appreciate it
+- robot initiate
+- zord you should turn on please thanks I appreciate it
+- excuse me go ahead zord
+- you should listen machine thank you
+- zordon go ahead please thanks I appreciate it
+- sir you may initiate thanks
+- you can light up friend please thank you I appreciate it
+- fellow on please
+- initiate bot
+- you may start guy please
+- bud you may on please I appreciate it
+- you can begin
+- excuse me listen friend please thank you I appreciate it
+- sir you should commence please
+- initiate fellow please
+- fellow listen thanks I appreciate it
+- wake bot please
+- you should begin machine thank you
+- fellow you may on please thank you I appreciate it
+- you may go ahead zordon please thank you
+- zordon excuse me could you please go ahead please
+- would you kindly on pal please
+- robot you should begin thanks I appreciate it
+- zordon turn on thanks
+- would you be kind to light up friend
+- you should initiate guy
+- roboga you should go ahead I would appreciate it
+- pal you should listen please thanks
+- you should start buddy
+- bud you should go ahead
+- excuse me on robot please thanks I appreciate it
+- dude you should start up please thank you
+- you may initiate roboga thank you
+- turn on sir thanks
+- you may initiate friend please thanks I appreciate it
+- zord you can turn on I would appreciate it
+- you can wake up bud I would appreciate it
+- machine turn on please thanks I appreciate it
+- bud you should begin
+- would you be kind to begin pal I would appreciate it
+- excuse me could you please listen fellow thank you I appreciate it
+- bud you should begin thank you
+- commence bot I appreciate it
+- sir you may initiate thank you I appreciate it
+- pal could you listen
+- excuse me commence machine please I would appreciate it
+- dude you may start up
+- turn on zordon I would appreciate it
+- buddy listen please thanks
+- you may go ahead sir please thank you I appreciate it
+- you should on sir please
+- little guy excuse me could you please begin please thanks
+- machine excuse me could you please start up please
+- you may go ahead dude thank you I appreciate it
+- turn on zord
+- you can commence please
+- on bot thanks
+- buddy light up please thanks
+- excuse me could you please go ahead buddy
+- you may listen dude
+- friend please listen please thanks
+- pal listen thank you
+- you may wake up bud
+- pal you can wake up please
+- you should wake up fellow please
+- go ahead zord please thanks I appreciate it
+- dude you should wake up please
+- fellow you should commence please I appreciate it
+- excuse me begin zord please
+- you can commence fellow
+- roboga light up
+- buddy you should on please
+- on zord thanks
+- could you turn on dude please
+- bot you should turn on I appreciate it
+- you may go ahead roboga please
+- buddy excuse me could you please begin
+- you can initiate robot please
+- fellow you should begin please
+- robot you may start
+- you can wake roboga please I appreciate it
+- little guy you should on please
+- you can listen bud please
+- little guy you can go ahead please
+- on roboga please
+- guy commence thanks I appreciate it
+- light up bot thanks I appreciate it
+- robot turn on please
+- would you be kind to start up dude I would appreciate it
+- fellow you may wake up thank you I appreciate it
+- on sir please
+- you should go ahead buddy please thank you
+- fellow initiate please I appreciate it
+- on buddy
+- pal you should on thank you I appreciate it
+- begin sir I would appreciate it
+- excuse me begin friend please thanks I appreciate it
+- friend you may go ahead I would appreciate it
+- you should listen thank you
+- bud you should commence please thanks
+- could you please go ahead robot thanks I appreciate it
+- pal could you please wake up please
+- machine you can on thanks
+- you may commence dude
+- pal you should turn on
+- you may go ahead machine thanks I appreciate it
+- robot could you light up please
+- you may go ahead bud thanks
+- friend go ahead please
+- zordon begin thank you I appreciate it
+- excuse me wake up buddy thank you I appreciate it
+- bud begin
+- you can on machine
+- robot you can turn on
+- you can on zordon
+- robot you may listen please thanks
+- could you please initiate guy thanks
+- please begin bot please
+- excuse me go ahead sir
+- zord you can listen please thanks I appreciate it
+- robot you should commence thanks
+- on machine please
+- start
+- you can on sir
+- zordon go ahead I appreciate it
+- you can initiate pal thanks
+- little guy you may go ahead please thank you I appreciate it
+- please wake up guy
+- you may go ahead pal please I appreciate it
+- guy wake
+- sir you can initiate
+- you should commence please I appreciate it
+- you should commence guy please I would appreciate it
+- bud you should turn on
+- you can on
+- zordon wake up please
+- buddy you can begin please I appreciate it
+- you can on fellow please thanks
+- would you kindly listen friend
+- you may light up roboga
+- guy you should begin I appreciate it
+- you may light up guy thank you
+- zord you may begin please
+- you can wake robot please I appreciate it
+- dude excuse me could you please initiate I appreciate it
+- dude you can go ahead please thanks I appreciate it
+- you may go ahead machine thank you I appreciate it
+- excuse me turn on please I appreciate it
+- light up sir thank you I appreciate it
+- zord would you be kind to begin thank you
+- you can commence pal please
+- robot excuse me could you please listen thanks
+- go ahead little guy please I appreciate it
+- zordon on thanks I appreciate it
+- you should light up friend please
+- fellow you can go ahead
+- you should turn on little guy thanks
+- could you please start thank you I appreciate it
+- pal turn on I appreciate it
+- friend excuse me could you please listen I would appreciate it
+- would you be kind to turn on machine please I appreciate it
+- dude you should begin thank you I appreciate it
+- you may start roboga
+- robot you can wake thanks
+- bot please light up please
+- you may go ahead bud please
+- you can begin thank you
+- buddy you can initiate please I appreciate it
+- you can start bud
+- little guy you should begin please thanks I appreciate it
+- little guy you can initiate please thank you
+- begin bot please I appreciate it
+- guy you can listen please
+- excuse me could you please wake pal
+- go ahead machine please
+- zord you should light up please thanks
+- excuse me go ahead dude please thanks I appreciate it
+- guy you may on
+- machine could you please on please I appreciate it
+- you can go ahead bud please thanks I appreciate it
+- buddy you can wake up
+- turn on buddy please
+- bud you may initiate thank you
+- turn on dude please thanks I appreciate it
+- you may commence thanks
+- zordon you should light up I would appreciate it
+- sir you can begin please
+- begin dude
+- fellow wake up please
+- you can begin please
+- on friend please I appreciate it
+- bud wake please thanks I appreciate it
+- you can wake sir
+- sir you may light up please thank you I appreciate it
+- sir could you please commence
+- you should on buddy please
+- little guy please begin please
+- you can wake
+- you may turn on fellow thank you I appreciate it
+- zord you may commence please thanks I appreciate it
+- you can commence fellow please thanks I appreciate it
+- pal you may commence
+- you may wake fellow
+- roboga you can listen
+- you can turn on thanks I appreciate it
+- you should turn on bud thanks I appreciate it
+- fellow light up thanks
+- you can turn on bot I would appreciate it
+- you can commence robot please
+- machine light up please
+- on bud please thanks I appreciate it
+- excuse me could you please go ahead dude thanks
+- pal would you be kind to initiate thank you
+- friend you should turn on thank you I appreciate it
+- could you please start little guy thanks
+- robot you should begin please
+- you may go ahead sir
+- bot you should wake please thanks
+- you should turn on buddy please
+- wake sir I would appreciate it
+- zordon you may go ahead please
+- zord you should initiate please thank you I appreciate it
+- you should light up bot thank you
+- go ahead bot please thank you
+- commence
+- you may go ahead sir please
+- please start up buddy please thank you I appreciate it
+- buddy you may initiate thank you
+- you can begin guy
+- machine you can light up
+- you may light up little guy please
+- friend you can commence please
+- dude would you kindly initiate please
+- you can go ahead roboga
+- guy you should turn on
+- you may initiate please thank you
+- you may on roboga please thank you
+- zordon you should commence thanks I appreciate it
+- you may start pal please
+- you should listen please
+- you can go ahead sir please I appreciate it
+- little guy go ahead
+- you should begin fellow please
+- dude you can wake thank you
+- you may initiate guy I appreciate it
+- robot on I would appreciate it
+- you may listen buddy please
+- pal would you kindly go ahead please
+- you should start zord please I would appreciate it
+- zordon you may commence please
+- begin zordon please
+- little guy would you kindly commence thanks
+- would you be kind to turn on pal please thank you
+- dude you may start up thank you
+- you should commence zordon please
+- zordon turn on please
+- you should go ahead buddy thanks
+- robot wake up please
+- friend turn on thanks
+- you should light up zord please thanks I appreciate it
+- start dude
+- dude you can commence please I appreciate it
+- you can initiate fellow thanks
+- friend you should turn on please
+- would you kindly initiate zord please thank you I appreciate it
+- robot you should turn on thanks I appreciate it
+- you may start machine please
+- buddy go ahead
+- sir you may start up
+- you should listen little guy please
+- you should light up machine I would appreciate it
+- light up thank you
+- you may commence machine I would appreciate it
+- dude would you be kind to turn on thank you
+- pal you can turn on thank you
+- you should wake up zord I appreciate it
+- bot you may start up
+- could you please on friend
+- buddy wake please
+- you should wake roboga please thank you I appreciate it
+- you may commence friend thank you I appreciate it
+- robot please go ahead please
+- dude could you on
+- you should on bot I would appreciate it
+- little guy you should commence please
+- you should start friend please
+- friend you may listen please
+- you can turn on robot please thanks
+- you can turn on sir thank you I appreciate it
+- little guy begin please
+- bud you should wake thank you
+- you should start dude thank you I appreciate it
+- you can listen bot thanks I appreciate it
+- dude you may turn on
+- could you start up robot please thank you I appreciate it
+- sir you can wake please
+- excuse me could you please wake friend thanks I appreciate it
+- zord please turn on please
+- friend you can listen please
+- zordon you should listen please
+- you should initiate roboga
+- you may commence pal
+- sir you may turn on I appreciate it
+- start up roboga
+- buddy could you turn on please thank you I appreciate it
+- bot you should commence
+- machine turn on
+- would you be kind to initiate please thank you I appreciate it
+- excuse me could you please turn on robot please I appreciate it
+- you can listen bot please thanks I appreciate it
+- sir you may go ahead I would appreciate it
+- robot you can light up
+- you may commence guy
+- you should wake up buddy I appreciate it
+- buddy you can start thank you
+- you may light up bud thank you
+- fellow could you please initiate please
+- you may go ahead bot please I appreciate it
+- robot you should go ahead please thank you I appreciate it
+- initiate sir
+- you may on buddy please thank you I appreciate it
+- bud you may initiate please
+- you should light up pal
+- could you start thank you
+- little guy you may listen please
+- you can turn on
+- zord listen please
+- buddy you may wake thank you
+- would you kindly listen machine
+- guy you may begin
+- you should commence buddy
+- you may turn on bot
+- bot you should start please
+- bot you can initiate
+- you should start up fellow please
+- you may wake up bud please
+- dude begin I appreciate it
+- little guy you can on please I appreciate it
+- commence zordon thank you
+- pal listen please
+- please wake up little guy
+- would you kindly wake up machine please thank you I appreciate it
+- bot excuse me start up
+- you may commence sir please I appreciate it
+- machine you can start please thanks
+- roboga would you be kind to wake please thanks
+- you can begin fellow thanks
+- pal you can light up please
+- you can light up zord thanks
+- sir you may listen please
+- sir start please thanks I appreciate it
+- light up friend please
+- bot you can light up
+- you should turn on sir
+- you may turn on guy thanks I appreciate it
+- zord you may go ahead please
+- you should go ahead little guy please
+- roboga you may start please thanks I appreciate it
+- bot you may listen
+- you can start machine
+- you may on sir thanks I appreciate it
+- roboga you can go ahead
+- zord could you commence
+- you may listen bot please thank you I appreciate it
+- zordon you should wake please
+- you can start up buddy
+- bud you should initiate thank you
+- you can light up guy please thank you I appreciate it
+- roboga excuse me could you please turn on please I would appreciate it
+- sir could you please on thank you I appreciate it
+- excuse me could you please listen sir I would appreciate it
+- you may turn on machine
+- buddy would you kindly listen thank you
+- machine you can wake please
+- zord you may on
+- you may turn on machine please
+- excuse me could you please turn on please thank you I appreciate it
+- you can begin zordon please thanks I appreciate it
+- pal you can commence thanks I appreciate it
+- wake sir please thanks I appreciate it
+- robot you can on please I appreciate it
+- little guy would you be kind to turn on I appreciate it
+- could you go ahead bot please
+- bud you should on
+- would you kindly listen guy I would appreciate it
+- listen roboga I appreciate it
+- pal would you be kind to turn on
+- listen bot
+- robot you should light up
+- fellow you should turn on thank you
+- start dude please
+- you can start up sir please
+- robot light up please
+- you should start sir please thank you
+- you can wake up machine please I appreciate it
+- buddy you may commence please thanks
+- buddy you can wake up thank you
+- begin pal please
+- you can listen friend thank you
+- zordon would you kindly go ahead thank you
+- guy you can start up please
+- you may light up zordon please
+- go ahead machine I would appreciate it
+- robot commence please
+- you can turn on machine please thanks
+- you should go ahead
+- dude listen please thanks I appreciate it
+- you can initiate zord please
+- you should commence pal please
+- roboga you may begin please thanks I appreciate it
+- robot you should commence please I appreciate it
+- you may wake bot thank you
+- you may on guy please
+- sir you should turn on please I would appreciate it
+- listen fellow thanks
+- zord you may listen please thanks
+- you can on guy please thank you
+- robot would you kindly turn on thanks
+- you should initiate zordon please
+- friend excuse me listen please
+- you may initiate guy
+- bud light up please thanks
+- please light up bud please I would appreciate it
+- pal would you be kind to turn on please thank you I appreciate it
+- zordon you can begin thanks
+- you can turn on please thank you I appreciate it
+- roboga could you please go ahead I appreciate it
+- you should begin buddy please thanks
+- friend you can on
+- you can listen dude please
+- you should listen zord please thanks
+- pal could you begin please
+- please listen friend please thanks I appreciate it
+- friend you can go ahead please
+- would you be kind to light up roboga thanks I appreciate it
+- pal you should turn on I would appreciate it
+- would you kindly start up zordon thanks
+- bud you can listen please
+- you should start up sir please thank you I appreciate it
+- pal you can wake up thanks
+- fellow you should commence
+- you may listen friend thank you I appreciate it
+- you should listen little guy
+- machine initiate please
+- you may on robot
+- friend you can begin please
+- you should commence friend
+- bot you should begin I would appreciate it
+- you can go ahead robot please I appreciate it
+- zordon would you kindly commence thank you
+- please begin dude please
+- excuse me listen
+- machine please listen thanks I appreciate it
+- light up bot please thank you
+- pal would you kindly light up thank you
+- you can turn on robot please I appreciate it
+- roboga you can commence I would appreciate it
+- would you kindly turn on
+- could you please listen dude I would appreciate it
+- bud you should initiate
+- robot you should wake I would appreciate it
+- turn on fellow
+- robot you can start up I would appreciate it
+- excuse me go ahead please
+- please commence pal
+- you may initiate please
+- you may start up machine thank you I appreciate it
+- little guy you may go ahead I would appreciate it
+- would you be kind to initiate machine
+- could you please turn on roboga thanks I appreciate it
+- sir light up please
+- roboga excuse me commence
+- start zordon please
+- you may go ahead bot thanks I appreciate it
+- fellow you may start up please I appreciate it
+- sir you should start up please thanks
+- you may commence sir please thanks
+- zord you can on please I appreciate it
+- friend you may listen please thank you
+- initiate robot thank you I appreciate it
+- bot please turn on thank you
+- begin roboga please thank you
+- robot you should commence thank you I appreciate it
+- initiate pal
+- you can light up bud thanks I appreciate it
+- bot you should listen
+- you should wake up buddy please I appreciate it
+- listen buddy
+- robot excuse me listen please thank you I appreciate it
+- bud excuse me could you please on please
+- excuse me begin guy thank you
+- zord you may initiate please
+- you can listen buddy please thank you
+- excuse me could you please go ahead bot please
+- zord you can light up
+- bud you may listen please thank you
+- bud excuse me turn on thanks
+- you may listen zord please
+- would you be kind to wake dude please thanks I appreciate it
+- roboga could you wake thank you I appreciate it
+- sir excuse me could you please begin please
+- would you be kind to wake up bud please thanks I appreciate it
+- little guy you should go ahead
+- on sir
+- you may begin bot thanks
+- friend you should wake thank you
+- you may turn on bot thank you I appreciate it
+- sir you can go ahead thanks I appreciate it
+- you may on fellow I appreciate it
+- you should begin machine please
+- you can go ahead please thank you
+- you may begin guy please I would appreciate it
+- zordon you should begin please I appreciate it
+- you can wake up thank you
+- could you begin sir please thanks
+- bot you may initiate
+- start up pal please
+- would you be kind to listen zordon
+- pal excuse me could you please start up
+- pal you may on
+- you can on bot thank you I appreciate it
+- you should on zordon
+- robot please light up
+- excuse me could you please start little guy thank you I appreciate it
+- zord would you kindly start please thanks I appreciate it
+- commence sir thanks I appreciate it
+- zord go ahead
+- initiate robot please thank you I appreciate it
+- friend you should on
+- robot you can listen please
+- would you be kind to initiate zord please
+- bud you can initiate please
+- you may wake up pal please I appreciate it
+- bot you may begin
+- listen zordon please I would appreciate it
+- you can light up zordon
+- zordon excuse me on
+- zord would you be kind to on please thanks
+- you can commence bud please
+- would you kindly begin thank you I appreciate it
+- you should light up buddy thanks
+- you may light up please
+- pal you may go ahead please I would appreciate it
+- you can begin bot
+- light up
+- you should turn on machine please I appreciate it
+- little guy could you initiate thank you I appreciate it
+- begin bud thanks I appreciate it
+- listen friend
+- friend you may turn on
+- buddy initiate I appreciate it
+- you can commence little guy
+- you can turn on please I appreciate it
+- you should begin pal please
+- zordon you should on thanks
+- you may go ahead dude please
+- zord you may start
+- please turn on please I appreciate it
+- you can on zordon I would appreciate it
+- fellow you may start up thank you
+- you may commence sir please thank you I appreciate it
+- machine would you kindly on
+- you can listen machine please
+- pal you should listen please I would appreciate it
+- fellow you may turn on please I would appreciate it
+- you should begin friend please thank you
+- buddy light up thank you
+- you should wake zordon please
+- light up buddy
+- guy you may listen please thanks
+- you may light up pal please thanks
+- pal would you be kind to go ahead please thanks
+- you may initiate pal thank you I appreciate it
+- fellow excuse me turn on thank you
+- roboga you may go ahead please
+- begin buddy please I would appreciate it
+- machine initiate
+- would you kindly on zordon please thanks I appreciate it
+- dude you may light up please thank you I appreciate it
+- wake robot please
+- could you please turn on pal
+- begin please
+- go ahead dude
+- you may listen please I would appreciate it
+- buddy you can light up I would appreciate it
+- you may commence roboga thanks I appreciate it
+- little guy could you please wake thank you I appreciate it
+- you can turn on zordon thank you
+- go ahead guy please thank you
+- pal could you begin thank you
+- fellow you should go ahead I would appreciate it
+- you may turn on friend please
+- buddy you may turn on please I would appreciate it
+- you may initiate thank you
+- machine could you please wake up
+- please light up guy
+- you may begin
+- roboga could you please on I appreciate it
+- zord would you kindly on please I would appreciate it
+- you may wake up sir please
+- roboga you can wake please
+- you may commence friend
+- wake dude please
+- roboga you can start up please
+- would you kindly go ahead roboga thanks
+- machine you can light up I appreciate it
+- buddy you should light up thank you I appreciate it
+- you may wake zordon please I appreciate it
+- you can turn on pal please
+- roboga you may commence thanks I appreciate it
+- buddy excuse me could you please go ahead thank you
+- could you initiate buddy please
+- turn on dude thanks
+- zordon excuse me could you please listen thank you
+- begin sir
+- roboga you may wake up thank you
+- you should listen pal
+- buddy excuse me on please thanks
+- initiate zordon
+- zordon you may wake please thank you I appreciate it
+- bot commence thanks
+- you can go ahead dude I appreciate it
+- you should go ahead zordon
+- sir you should initiate
+- you can go ahead sir thank you
+- you should begin friend please
+- bud you can start up please thanks I appreciate it
+- you should commence zord
+- start please
+- guy you can go ahead
+- turn on little guy please
+- commence zordon
+- little guy you can commence
+- begin zord
+- machine you should on
+- you can start up please
+- guy turn on I appreciate it
+- you should initiate zord thanks
+- zord commence please I appreciate it
+- you can turn on machine I would appreciate it
+- zord you can go ahead please
+- sir you may listen please thanks I appreciate it
+- excuse me listen friend I appreciate it
+- you can go ahead zordon I appreciate it
+- you may initiate
+- roboga wake up please
+- could you start fellow please
+- machine you should initiate I appreciate it
+- you may wake up fellow thanks I appreciate it
+- would you kindly commence robot please
+- pal you can begin please
+- sir you can on I appreciate it
+- initiate machine please I would appreciate it
+- pal you can wake up please thanks
+- excuse me on roboga please
+- you can turn on zord
+- buddy listen please I appreciate it
+- you should go ahead dude I appreciate it
+- little guy commence please
+- pal excuse me wake up please thanks I appreciate it
+- you should on roboga thank you
+- zordon you can light up please
+- would you kindly initiate friend
+- turn on friend
+- machine you may listen
+- wake up bud
+- friend you can light up please I would appreciate it
+- bud you may commence please
+- machine you may go ahead I appreciate it
+- you may commence robot please
+- you can on thank you I appreciate it
+- sir excuse me could you please turn on thank you I appreciate it
+- sir you may go ahead
+- could you begin pal please I would appreciate it
+- excuse me could you please start up zordon
+- sir on please
+- you may turn on friend
+- could you please commence bud thank you
+- robot you should turn on please thanks I appreciate it
+- zord wake up please I would appreciate it
+- you can initiate machine thanks I appreciate it
+- you can light up
+- buddy you should go ahead please I would appreciate it
+- would you kindly wake please thank you
+- you can wake pal thanks
+- you should begin bud please
+- bot could you initiate thanks I appreciate it
+- you should wake up zordon
+- machine start please
+- excuse me start up zordon
+- robot would you kindly listen
+- sir you should on please
+- please initiate guy please thank you
+- roboga you should start up thank you
+- please commence machine please
+- excuse me could you please initiate machine thank you
+- roboga would you be kind to commence
+- dude light up please I would appreciate it
+- machine you may listen please thanks
+- you should light up
+- could you begin please thank you
+- wake guy
+- fellow you should commence please
+- you should turn on guy please I would appreciate it
+- you should commence please thanks
+- bud you may initiate please I would appreciate it
+- would you be kind to commence machine please
+- sir you should on thanks I appreciate it
+- you should go ahead zord
+- roboga you may listen please
+- robot you can initiate please
+- you should initiate roboga please
+- buddy could you please go ahead please
+- you may on friend
+- pal go ahead please I would appreciate it
+- could you please on bot please thanks I appreciate it
+- you may light up roboga thanks I appreciate it
+- little guy you can initiate please I would appreciate it
+- buddy excuse me listen
+- wake up sir
+- fellow you can wake please I would appreciate it
+- you may turn on robot
+- roboga initiate I would appreciate it
+- you should wake up machine
+- zord you can turn on
+- zordon could you please light up thank you I appreciate it
+- you can light up robot I would appreciate it
+- fellow on
+- you may turn on zord
+- start up robot please
+- zordon on I appreciate it
+- sir you can commence
+- turn on sir thanks I appreciate it
+- fellow go ahead please I would appreciate it
+- machine you can wake up I would appreciate it
+- you can commence guy please
+- you may listen friend please thanks I appreciate it
+- dude you may go ahead please thank you
+- you can begin zord please
+- machine you can turn on
+- machine you can initiate I would appreciate it
+- you can wake zord please
+- sir you should go ahead please
+- could you please light up bot thank you
+- please light up roboga
+- initiate zordon thanks
+- robot you should commence please
+- pal you should listen please
+- initiate friend please
+- robot you may go ahead please thanks I appreciate it
+- you can begin friend please
+- you should wake machine
+- zord you should light up
+- machine you should start up
+- begin roboga thank you I appreciate it
+- you may listen little guy
+- roboga could you start up please I would appreciate it
+- machine you can initiate
+- you may wake bud thank you I appreciate it
+- guy you should start up please
+- you may on bot please I would appreciate it
+- on buddy please thanks
+- zord could you please on please
+- you should turn on bud please
+- fellow you can start up please thanks I appreciate it
+- roboga you can begin
+- you can go ahead little guy please
+- initiate sir please thank you
+- guy you may go ahead thanks I appreciate it
+- you should turn on please I appreciate it
+- you should go ahead fellow please thanks
+- pal could you listen thank you
+- you may turn on please thanks I appreciate it
+- you may commence machine
+- would you be kind to wake up bud please I would appreciate it
+- zordon you may start please
+- you can on zordon please I would appreciate it
+- zordon you should on please
+- friend would you be kind to commence thank you
+- on dude thanks
+- would you kindly turn on fellow please
+- robot you can wake up
+- you can wake sir please
+- guy you may initiate thank you
+- start up fellow please thank you I appreciate it
+- you should listen sir thank you I appreciate it
+- you can go ahead bud thank you
+- guy you can light up please thank you I appreciate it
+- zord you may wake up please thank you I appreciate it
+- excuse me begin robot please I would appreciate it
+- would you kindly begin little guy please
+- bot begin please
+- machine you can turn on thank you I appreciate it
+- you can commence zord please I would appreciate it
+- you may begin friend please
+- robot listen
+- bot you can start up
+- could you please on dude
+- you may turn on robot please
+- buddy you should listen
+- go ahead bot please I appreciate it
+- little guy you should wake up
+- you may start bot thank you
+- pal you can wake up thank you I appreciate it
+- please on zordon
+- could you please listen sir
+- roboga could you on
+- you should on guy please
+- pal you can on thank you I appreciate it
+- you may wake up roboga
+- bud you may listen
+- robot commence please thank you
+- you should go ahead fellow
+- you can on pal thank you
+- friend please initiate please thank you I appreciate it
+- you can listen buddy
+- you may initiate fellow please thanks I appreciate it
+- zordon you should turn on please
+- buddy you should go ahead thanks
+- you may light up friend please
+- sir you may commence
+- you should turn on friend thank you I appreciate it
+- pal you may on please
+- you can initiate pal please
+- zordon you should listen thank you
+- you should begin please
+- you may begin sir please thank you
+- dude you can commence please
+- you may begin bot
+- friend you may light up please thanks
+- you may listen machine please
+- pal you can light up thank you I appreciate it
+- you may turn on please thank you
+- could you on zord please
+- buddy could you turn on
+- guy you can listen thank you I appreciate it
+- you can commence bud I appreciate it
+- zordon you should go ahead please
+- you may on friend I would appreciate it
+- robot you can on please
+- robot you may initiate thank you
+- you should light up bud please
+- zord would you be kind to wake up
+- bud would you kindly initiate thanks I appreciate it
+- you can initiate fellow I would appreciate it
+- you may turn on pal thanks
+- friend you may light up please
+- fellow you can begin
+- would you kindly on I would appreciate it
+- you may light up fellow I appreciate it
+- zord you can listen please
+- you may go ahead little guy please thanks
+- dude would you be kind to on please thank you I appreciate it
+- bot you can on please thanks
+- you can wake up sir please
+- sir you should on please thank you I appreciate it
+- you can listen bud
+- you should wake buddy please
+- guy you may start up
+- buddy you may light up please
+- you should begin zordon please thank you
+- you may start up zordon please
+- you may commence I appreciate it
+- fellow you should turn on please
+- you can turn on fellow
+- sir you should listen please
+- light up machine please I would appreciate it
+- you can go ahead robot please
+- guy would you be kind to initiate I appreciate it
+- roboga you may commence I would appreciate it
+- roboga you can wake up I would appreciate it
+- you can commence roboga thank you
+- you can initiate bot thank you I appreciate it
+- bud you should start please
+- you should commence bot please
+- roboga would you be kind to light up please I would appreciate it
+- you should listen pal please
+- excuse me could you please turn on
+- machine you should wake up
+- you should start up zord
+- machine light up please I appreciate it
+- you can go ahead fellow thanks
+- you should start up guy thanks
+- friend turn on please thanks
+- bud would you kindly initiate please I would appreciate it
+- you may go ahead little guy
+- would you be kind to listen please
+- bud you can start thanks
+- little guy you may listen
+- friend you should turn on thanks I appreciate it
+- go ahead bot please
+- please on sir please thanks I appreciate it
+- sir you can light up thank you I appreciate it
+- bot begin I appreciate it
+- you can initiate bot please
+- friend you should listen I would appreciate it
+- you may initiate zord please
+- you should turn on buddy please thanks
+- bot you may wake please thank you
+- you may go ahead pal please
+- dude you can turn on please I appreciate it
+- roboga could you commence I appreciate it
+- machine you should listen
+- you may go ahead I appreciate it
+- you can listen please
+- you can listen
+- machine you should start please
+- could you start up machine please thanks
+- you should listen roboga
+- fellow you should light up please thanks I appreciate it
+- roboga you can begin thank you I appreciate it
+- you should turn on zord I appreciate it
+- bud on
+- you should initiate robot please
+- please wake up sir thanks I appreciate it
+- you should commence sir please
+- sir would you be kind to turn on please
+- you should on bot
+- wake up please I appreciate it
+- you should light up roboga
+- turn on bud please thanks I appreciate it
+- robot you may start please
+- commence zordon please thanks
+- zordon you may start up please I appreciate it
+- bot excuse me could you please begin
+- could you please begin bud thank you
+- you may on pal thank you
+- zord would you be kind to wake please
+- zordon please commence please thanks I appreciate it
+- would you kindly wake roboga please I appreciate it
+- little guy would you be kind to listen please I appreciate it
+- you should go ahead bot
+- bud you can initiate I would appreciate it
+- roboga you should light up thanks I appreciate it
+- you can on guy please I appreciate it
+- you may light up fellow I would appreciate it
+- machine you can begin please thanks I appreciate it
+- you may light up friend I appreciate it
+- sir initiate please thanks I appreciate it
+- you should listen buddy please
+
+## intent:stop
+- all right pause grabing pal is on here
+- stop play please
+- ok [bot?] [stop] right there
+- would you kindly go on suspension zordon I would appreciate it
+- ok bud off thats it
+- good go on hibernation buddy right here is the location
+- all right sir thats enough end in there
+- good hibernate little guy we are here
+- fine friend stop that's here
+- ok buddy stand by wrong path
+- ok halt the activity bot we are right here
+- all right friend off we arrived at the location
+- fine it is enough zord is it here
+- all right buddy don't we are at the location
+- fine not follow her zordon in there is the location
+- stay on stand by roboga we are right here
+- all right zord wait we are on there
+- good pal freeze going here this is the location
+- good stay off dude we are in here
+- guy halt holding we are at the location
+- ok freeze wandering little guy is it it
+- ok hibernate roboga is it right here
+- good zordon go off it's right there
+- ok finish bud on here is the location
+- ok machine that is enough this is the location
+- fine bot go off it is in here
+- ok finish dude is it it
+- good go off robot we are at the location
+- all right bot not track we arrived at the location
+- all right buddy enter on hibernation we arrived
+- good be off pal that's here
+- fine fellow freeze it is in there
+- hibernate robot we arrived
+- ok guy pause the task end on here
+- all right that's enough zord right here is the location
+- all right hibernate guy that's it
+- good robot finish isn't the accurate road
+- go on suspension bud its here
+- ok zordon stand by we arrived
+- all right dont buddy we arrived at the location
+- pal we are right here
+- good go off guy we arrived
+- fine sir stay on suspension in there is the location
+- fine bud finish thats it
+- ok stay on hibernation fellow we arrived
+- wait on going there buddy thats not the exact course
+- sir go off we are in there
+- bud off we arrived
+- fine go on hibernation pal we are at the location
+- ok roboga stop the advancing isn't the accurate way
+- stay off fellow in there is the location
+- all right halt exercise buddy that is here
+- little guy finish tracking her we are here
+- fine pause pal it's here
+- good go on hibernation we are at the location
+- fine go off we are right there
+- ok robot wait on going there we are at the location
+- fine cease assignment wrong path
+- fine stay off friend we are here
+- halt the taking friend that's it
+- fine sir on stand by right there is the location
+- fine stop the pursuing him roboga that's here
+- ok bud go off this is the location
+- guy stay right here we arrived at the location
+- ok enter on stand by thats it
+- fine buddy go on hibernation end on here
+- halt little guy its here
+- fine finish buddy we arrived at the location
+- pal stand by is it it
+- stay off zord we are in there
+- fine machine wait on accompanying them we arrived
+- good stay on offline is it it
+- all right hibernate zordon we are at the location
+- ok enter on suspension we are at the location
+- all right buddy go off this is the location
+- fellow on stand by it's on there
+- good be off little guy we are on here
+- fine off sir there is the location
+- zordon stay off we arrived at the location
+- good zordon do not do it is not the correct way
+- all right fellow wrong road
+- ok zordon enter on hibernation in there is the location
+- all right don't search zordon we arrived
+- would you be kind to pause the walking little guy I appreciate it
+- fine machine finish here is the location
+- on stand by fellow end on here
+- good zordon freeze the getting thats not the exact way
+- stop picking sir end in here
+- good off bot end on there
+- machine halt is not the acceptable path
+- stay on hibernation guy we are here
+- bud go on hibernation wrong path
+- ok buddy we arrived
+- fine stay right here roboga we are at the location
+- good freeze assignment dude its here
+- all right pal be on offline is it here
+- good suspend work bud its on there
+- ok fellow wait on the accompanying me we arrived at the location
+- good off friend we arrived
+- good fellow on stand by wrong road
+- all right halt looking bud wrong course
+- ok sir thats enough right here is the location
+- zordon we are in there
+- go on suspension little guy we are there
+- on stand by sir end right here
+- ok machine hibernate there is the location
+- fine buddy stay in there wrong course
+- fine not advance roboga we are at the location
+- hold up the accompanying fellow wrong route
+- fine machine enough is right here
+- be on suspension fellow is not the course
+- ok buddy turn off we arrived
+- roboga stay off we are in here
+- all right do not grab roboga we are at the location
+- all right hold up little guy we arrived
+- dude stay here here is the location
+- sir stand by this is the location
+- fine stop dude wrong road
+- ok sir wait we arrived at the location
+- fine suspend advancing we arrived
+- good not hold bot that's here
+- all right zord halt job we arrived
+- fine cease motors bot we are on there
+- friend off we are right here
+- good little guy wait on pursue is it
+- be on hibernation little guy end on there
+- fine buddy enough that's here
+- enter on hibernation bud end in there
+- ok bot stop the process this is the location
+- ok is enough this is the location
+- go off dude it's it
+- all right little guy finish roaming this is the location
+- good sir enter on offline that is it
+- ok be on stand by zordon we are here
+- all right machine pause the following him thats it
+- ok hold up work dude there is the location
+- ok buddy turn off this is the location
+- good do not fellow we are in there
+- robot pause it is in there
+- ok go off dude in there is the location
+- ok off roboga we are right here
+- robot wait we are there
+- stay on suspension roboga we arrived at the location
+- fine bud wait there is the location
+- ok machine hold up exercise we arrived at the location
+- ok on stand by machine we are in here
+- ok bot stay on hibernation this is the location
+- good on stand by robot we arrived
+- fine not get that's here
+- be off guy end there
+- ok cease the motors friend on here is the location
+- ok roboga stop it's there
+- fine zordon stay on there wrong way
+- all right stay on suspension robot we are at the location
+- fine roboga cease we are at the location
+- all right stop the pursue pal it's it
+- ok robot finish the looking we arrived
+- all right dont robot is not the acceptable path
+- good dude not hold end here
+- stay on offline buddy we are right here
+- fine not accompany him bud in there is the location
+- good bot stay on offline is there
+- excuse me stay on there zordon thank you I appreciate it
+- ok guy stand by we are in here
+- good freeze walking zord we arrived
+- good guy freeze is here
+- ok wait on the motors robot we are at the location
+- good bud turn off end there
+- halt the picking robot that is it
+- fellow enter on hibernation end right there
+- ok not pick dude it's here
+- good friend pause that is here
+- fine hold up following little guy wrong way
+- fine off zordon it is right here
+- all right roboga that is enough we are right here
+- good stay off robot end there
+- ok zordon go off wrong path
+- fine turn off friend we are in there
+- all right pal stand by that is here
+- good pal off we are at the location
+- ok not advance fellow we arrived at the location
+- good turn off fellow end here
+- ok sir go on suspension end right here
+- fine enough zord we arrived
+- roboga halt job we arrived
+- all right machine off wrong road
+- ok dont go sir we arrived
+- all right friend we arrived at the location
+- roboga stop wandering in here is the location
+- ok guy be off we are right there
+- ok not follow pal this is the location
+- all right robot stay here on here is the location
+- ok turn off machine thats it
+- all right turn off machine this is the location
+- ok little guy turn off is on here
+- ok bot hibernate right there is the location
+- ok dont we arrived
+- suspend advancing friend end on here
+- good zordon suspend assignment it is here
+- good robot stand by we arrived at the location
+- good wait on the execution buddy we are here
+- good wait on the advancing friend on here is the location
+- fine fellow not accompany her is right here
+- ok fellow stay off we arrived at the location
+- fine stay on here bud wrong course
+- all right friend enter on suspension we arrived at the location
+- thats enough guy that's here
+- dude pause trial we are at the location
+- ok off zord wrong road
+- all right finish friend we arrived at the location
+- fine pal stand by we arrived at the location
+- fine roboga it's enough that's here
+- ok freeze the exercise guy that is it
+- ok dude stand by thats not the exact road
+- ok pause the execution robot it's here
+- all right friend stay in here end in here
+- go off buddy we arrived at the location
+- ok wait machine wrong course
+- guy finish the exercise we arrived
+- fellow go on hibernation is it here
+- be off fellow we are at the location
+- ok don't pick little guy this is the location
+- ok zord stand by we arrived
+- all right zord on stand by thats here
+- be on offline pal right there is the location
+- all right be on stand by friend it's right here
+- all right sir wait on the getting isn't the correct way
+- enter on suspension robot we arrived at the location
+- fine friend halt on here is the location
+- all right turn off little guy we are at the location
+- machine halt movement right here is the location
+- fine machine off it's on here
+- fine stay on stand by machine isn't the accurate path
+- good roboga cease movement this is the location
+- fine halt going here friend end right there
+- fine zord be off we arrived at the location
+- all right wait machine we arrived at the location
+- fine guy be on suspension is here
+- fine wait fellow we are at the location
+- good suspend we arrived
+- ok turn off zord we are right there
+- excuse me could you please stand by buddy I appreciate it
+- stand by bud we arrived
+- good buddy it's there
+- bud off we arrived at the location
+- ok enter on hibernation sir in there is the location
+- all right that is enough pal we arrived at the location
+- fine roboga hibernate end on here
+- ok cease the moving fellow this is the location
+- good zordon enough wrong route
+- fine go off little guy here is the location
+- fine dude go on offline wrong path
+- good stay on offline machine isn't the course
+- ok freeze the assignment we arrived
+- ok freeze walking dude we arrived
+- guy pause the moving after we arrived at the location
+- fine suspend the advancing bot this is the location
+- good zord finish moving this is the location
+- all right stand by we are at the location
+- wait sir we arrived at the location
+- fine machine we are at the location
+- fine guy enter on stand by right here is the location
+- good wait bot we arrived at the location
+- all right roboga stay on offline it's here
+- all right zordon do not walk on here is the location
+- good hold up the labor dude this is the location
+- don't track is it right there
+- good bud end in here
+- all right freeze in here is the location
+- all right sir stand by we are on here
+- good pal isn't the accurate course
+- all right stay right there dude wrong path
+- fine dont go after me fellow wrong road
+- ok don't end there
+- fine be off bot we are here
+- good bud stop grabing end on here
+- go on stand by zordon wrong way
+- machine stay off is here
+- ok hold up friend this is the location
+- ok that's it
+- all right friend off we are here
+- all right stop movement robot we are at the location
+- ok freeze zord wrong route
+- good little guy on stand by end in here
+- ok machine be on stand by it is it
+- cease guy wrong route
+- all right zordon halt labor thats it
+- fine wait guy is not the course
+- fine fellow wait on roaming it's there
+- hold up roboga isn't the correct road
+- good pal cease that is here
+- buddy finish we are right here
+- good pause the movement fellow we are at the location
+- bot on stand by wrong road
+- good do not pick fellow wrong route
+- machine be on stand by we are on here
+- all right stay off little guy it is in here
+- all right roboga freeze end there
+- fine pause the picking machine its here
+- ok pal stay here on there is the location
+- fine be off fellow right here is the location
+- robot dont move is not the precise course
+- all right don't friend we are there
+- fine dude stop we arrived at the location
+- fine hibernate little guy that's it
+- fine bud pause the roaming we arrived at the location
+- all right halt the operation zord is it here
+- ok cease duty zordon we arrived at the location
+- all right dude hold up the motors on there is the location
+- fine friend stay off we are at the location
+- all right go off buddy in here is the location
+- good hold up zordon this is the location
+- ok machine be on stand by we are at the location
+- go off machine it is it
+- good bot finish the trial we arrived
+- zord on stand by we are at the location
+- good be on stand by guy thats here
+- stand by roboga we are at the location
+- ok dude wait on the operation this is the location
+- could you it is enough dude thanks I appreciate it
+- fine stay off zordon right there is the location
+- fine dude turn off is it in there
+- good be on stand by zord we are at the location
+- good fellow freeze roaming end on here
+- fine roboga stay right there isn't the acceptable course
+- turn off little guy it's here
+- little guy wait on the trial that is here
+- turn off robot we arrived
+- fine pal suspend on there is the location
+- all right wait fellow thats here
+- good robot don't hold wrong road
+- good stop the advancing it is here
+- good zordon on stand by we arrived at the location
+- good stand by fellow in there is the location
+- do not fellow that's it
+- good friend be on hibernation end in there
+- bot not go we are at the location
+- fine go off friend we arrived
+- fine machine dont we are at the location
+- all right enter on hibernation roboga end there
+- all right stand by robot we arrived at the location
+- good zordon stand by end here
+- zord cease we are at the location
+- all right pause the work sir end on here
+- fellow stay right there we arrived at the location
+- stay in here sir is not the acceptable path
+- go on offline little guy we are in there
+- fine zord cease wrong way
+- all right dude enough we are at the location
+- do not fellow thats not the road
+- all right hibernate dude we arrived
+- good sir stay on hibernation we are at the location
+- all right off bud that is it
+- all right zord stand by isn't the path
+- good buddy this is the location
+- good friend do not pick this is the location
+- ok bud enter on suspension thats it
+- fine robot here is the location
+- fine be on stand by pal in there is the location
+- zord go on hibernation wrong course
+- fine bud be off this is the location
+- fine be on hibernation bud is not the exact route
+- ok bud turn off we arrived at the location
+- good go off roboga wrong path
+- fine stop we arrived
+- good wait on the exercise fellow this is the location
+- ok bot on stand by that is it
+- ok hold up the walking we arrived
+- machine turn off wrong route
+- fine stay off fellow we are at the location
+- off friend this is the location
+- all right sir not move wrong route
+- fine bud on stand by on there is the location
+- fine stay there is it here
+- good roboga halt wrong path
+- good wait on walking buddy we are there
+- fine go on hibernation fellow it's here
+- good zord turn off end on there
+- all right on stand by guy is it it
+- fine zord go off we are at the location
+- not hold is in there
+- ok enter on hibernation buddy we arrived at the location
+- fine dude halt the trial thats here
+- all right hibernate fellow we arrived
+- fine dude be off we arrived
+- all right wait sir end on here
+- all right go off sir we arrived at the location
+- fine dude freeze the following it's on here
+- good pal dont move after her we arrived
+- suspend the search robot it is on there
+- all right fellow go on suspension we arrived
+- good enter on offline zord we arrived
+- all right pal hibernate isn't the right road
+- good wait on the operation bot right here is the location
+- ok robot stop the looking we arrived at the location
+- all right halt pal this is the location
+- pause robot that is it
+- all right machine suspend the going here there is the location
+- all right bud right there is the location
+- would you kindly pause dude I appreciate it
+- ok stay right here we are right here
+- good go on hibernation roboga that's here
+- all right stay here dude wrong road
+- ok pause movement it's here
+- fine freeze little guy it is on there
+- good sir stay on suspension we arrived at the location
+- all right dude go on suspension thats here
+- ok on stand by robot is not the exact way
+- all right zord don't wrong way
+- wait robot end on there
+- fine friend enough we arrived at the location
+- all right freeze wrong road
+- all right sir be off we arrived at the location
+- good pause roboga that is not the way
+- zord halt the tracking that's here
+- fine off dude we are at the location
+- fine zordon hibernate we arrived
+- all right do not follow him machine we are at the location
+- fine halt the play little guy we are right there
+- zordon finish the picking on here is the location
+- good stay there bud end right here
+- good buddy enter on hibernation is not the accurate road
+- fine turn off there is the location
+- fine bud go off end in here
+- good hold up pal is it here
+- good roboga wait on trial that's here
+- ok dont sir wrong course
+- fine fellow stop we arrived at the location
+- pal stay off we are at the location
+- fine thats enough zord this is the location
+- pause robot this is the location
+- all right pal hold up the operation thats not the correct route
+- ok machine wait on exercise we arrived at the location
+- good pause the pursuing it pal is not the right course
+- good pause the following her pal wrong road
+- all right zord don't isn't the acceptable way
+- fine stop zordon we are at the location
+- fine pal be on stand by isn't the route
+- that's enough we arrived
+- go off roboga is it in there
+- fine be on offline roboga in there is the location
+- bot freeze that is it
+- fine roboga stop the activity there is the location
+- turn off fellow we are on here
+- fine finish machine in here is the location
+- ok machine stay on hibernation thats here
+- friend not follow her we are there
+- all right stop we are at the location
+- all right machine wait on the task we are at the location
+- ok off machine its on there
+- good cease movement zordon end in there
+- good bot not walk that is not the exact course
+- ok little guy hold up looking wrong path
+- be off buddy we arrived at the location
+- good stay off friend we arrived
+- fine dude enter on hibernation this is the location
+- fine stand by roboga end in here
+- dude go on offline wrong way
+- good stay on offline buddy this is the location
+- fine pal cease wandering wrong route
+- good freeze process roboga is not the way
+- fine not move we are at the location
+- all right machine stay off this is the location
+- wait on the operation zord that's it
+- stay on suspension bud on here is the location
+- fine machine wait on accompanying them is not the exact course
+- roboga go off its right there
+- wait on labor guy we arrived at the location
+- zord turn off that is it
+- all right stay in there guy we arrived at the location
+- freeze it's here
+- ok not grab roboga end here
+- all right machine wait this is the location
+- suspend going there little guy it is right here
+- ok stand by little guy its in there
+- ok sir turn off wrong path
+- all right little guy enter on hibernation end there
+- ok on stand by sir this is the location
+- would you kindly on stand by buddy I appreciate it
+- ok pause activity fellow is not the road
+- ok machine not grab we arrived
+- ok hibernate fellow is not the right course
+- roboga hold up the pursue we are right here
+- all right stay in there machine it's it
+- fine roboga go off is not the correct way
+- finish bot we are at the location
+- fine buddy not advance its here
+- good suspend the going there machine this is the location
+- fine bot stand by thats it
+- friend stay off its not the route
+- all right zord on here is the location
+- all right freeze pal is there
+- buddy this is the location
+- all right not accompany them buddy we are right there
+- good bud suspend the picking is not the right path
+- ok pal cease the exercise we arrived at the location
+- all right hold up work roboga we are there
+- fine bud turn off is not the exact route
+- stay off little guy we arrived at the location
+- good roboga go on hibernation we arrived
+- good cease the following him guy on there is the location
+- ok little guy in here is the location
+- fine on stand by roboga we are at the location
+- ok pal go off this is the location
+- good stay off pal that's not the way
+- guy wait it is on there
+- good finish work bud this is the location
+- ok bot stay on hibernation we are at the location
+- wait robot this is the location
+- turn off dude we arrived
+- fine fellow enter on offline end on there
+- fine sir don't we arrived
+- all right enter on offline little guy we are in there
+- fine finish the operation pal that's not the acceptable way
+- friend be on stand by wrong course
+- fine wait friend end on there
+- ok zordon stay off we are in there
+- ok friend freeze the wandering that's it
+- ok pause trial zordon we arrived
+- ok friend stop we are at the location
+- all right off bot wrong way
+- turn off buddy is it here
+- ok sir be off we arrived
+- fine don't friend we arrived
+- roboga turn off that's here
+- zordon stand by we are in here
+- good pause taking bud we are at the location
+- all right finish friend this is the location
+- buddy stay right there is not the acceptable way
+- all right enter on stand by we arrived
+- all right thats here
+- all right little guy wait on roaming we arrived
+- all right not advance zordon that is here
+- good stay right here machine we are at the location
+- ok little guy wait on the execution we are at the location
+- all right robot don't wrong route
+- stop labor zordon is it on there
+- good cease moving after it roboga this is the location
+- pal don't grab it's on there
+- bud hibernate we arrived at the location
+- good hold up machine that is it
+- good cease machine that's it
+- good pal finish duty its here
+- not search zord we are right here
+- fine pal not track it's on there
+- ok roboga suspend the going here this is the location
+- off friend thats it
+- all right don't go after her sir we are at the location
+- bot hibernate we are at the location
+- good suspend the labor bot its there
+- all right pal cease going there is here
+- ok on stand by bud this is the location
+- ok pal stand by is not the right course
+- good not accompany them bud end in here
+- ok zord freeze pursue we are at the location
+- dude go off we are at the location
+- all right bot isn't the route
+- please stay right here machine thank you
+- ok roboga don't track me is it on there
+- good hibernate roboga end right there
+- fine fellow hold up tracking them end on there
+- all right be on suspension little guy on there is the location
+- good fellow stay on stand by is not the exact course
+- all right dont buddy we are at the location
+- hold up fellow right here is the location
+- all right dude go on stand by is not the way
+- ok that is enough sir we are at the location
+- ok guy it's enough isn't the correct route
+- ok dude cease that's it
+- stand by we are on here
+- ok hold up the following me we arrived
+- fellow go on stand by we are on there
+- ok that's enough its it
+- dude wait it's here
+- good dont roboga end right there
+- all right guy on stand by that is here
+- fine wait on the play zordon we arrived
+- fine roboga stay off we are there
+- all right bot go off on here is the location
+- good wait on the play pal we are at the location
+- all right dont robot we are at the location
+- all right roboga enter on hibernation we arrived at the location
+- fine pause the play machine we arrived
+- fine robot turn off is not the acceptable way
+- on stand by friend this is the location
+- good zordon pause is not the accurate path
+- good little guy suspend we arrived at the location
+- ok finish zord we are at the location
+- stay there zordon we arrived at the location
+- fine fellow enough we arrived
+- good guy wait on picking thats it
+- good stay off friend we arrived at the location
+- fine do not hold that's here
+- pause bot here is the location
+- ok its enough bud we are on here
+- all right machine stay in here we are at the location
+- ok hold up picking pal wrong path
+- ok roboga go off is not the acceptable route
+- be off little guy we arrived at the location
+- good roboga on stand by that is here
+- good on stand by bud it's there
+- fine machine thats it
+- fine bud off its here
+- all right don't friend we are right there
+- fine wait bud is it it
+- good machine off this is the location
+- all right on stand by buddy that is here
+- all right buddy not pursue them we are on there
+- fine wait little guy it is it
+- all right zordon stay on suspension is it not the accurate way
+- good bot finish the going after we are in there
+- finish the wandering buddy we arrived
+- ok not get it's here
+- all right go off buddy we arrived at the location
+- fine zord enter on hibernation right here is the location
+- ok not follow them buddy this is the location
+- robot thats enough end in here
+- all right suspend taking dude is it it
+- fine dude finish the duty end there
+- fine turn off pal we arrived at the location
+- all right zord off it is in there
+- hold up following him robot isn't the acceptable road
+- fine go off pal this is the location
+- friend pause duty that is it
+- all right buddy wait its here
+- all right pause guy is on here
+- ok suspend we are right here
+- freeze getting pal wrong route
+- fine robot on stand by thats it
+- fine go off zordon that is it
+- buddy hold up it's there
+- good cease fellow thats here
+- ok hibernate bud we arrived at the location
+- all right dude stay on hibernation we are at the location
+- good wait it is here
+- all right hold up the duty pal we are in there
+- would you kindly go on offline friend
+- little guy not get its not the right way
+- ok stop zordon wrong course
+- fine suspend bot wrong course
+- all right sir halt the taking right there is the location
+- go off zordon we are here
+- fine halt picking is not the way
+- stop robot we are at the location
+- ok pal off wrong course
+- pause pal is not the exact way
+- ok hold up job that's it
+- good machine dont search we arrived at the location
+- go off guy is it in here
+- stay right there zord wrong path
+- all right buddy wait isn't the right road
+- fine finish robot end right there
+- ok zord go off in here is the location
+- fine suspend movement guy we are at the location
+- fine buddy off it's right there
+- freeze the taking bud its not the acceptable path
+- good roboga stand by we are in there
+- ok roboga isn't the acceptable route
+- all right stay here pal wrong way
+- good enter on stand by friend wrong route
+- ok guy suspend walking it is in there
+- zordon turn off this is the location
+- good enter on suspension guy we arrived at the location
+- ok roboga stay on suspension that's here
+- on stand by guy this is the location
+- ok roboga finish we are there
+- be on suspension bud we are at the location
+- all right bud hibernate we arrived
+- be off zord is here
+- fine fellow on stand by right here is the location
+- fine hold up guy that's it
+- fine be off roboga right here is the location
+- ok little guy enter on offline we are at the location
+- all right wait on motors sir we arrived
+- fine buddy wait on motors this is the location
+- all right pal be on suspension we are on there
+- fine pause bot its right there
+- all right stay on hibernation bot its it
+- good pal halt the looking is not the right path
+- ok bot hibernate we are on there
+- stay on stand by machine we arrived
+- all right on stand by we are at the location
+- ok on stand by pal that's here
+- fine on stand by right here is the location
+- ok go off machine this is the location
+- little guy go on stand by isn't the exact path
+- thats enough we are at the location
+- little guy thats here
+- buddy go on stand by this is the location
+- ok stop following me there is the location
+- cease the accompanying him fellow we are at the location
+- all right stand by zordon we are right there
+- good fellow turn off this is the location
+- good hibernate isn't the precise course
+- ok wait on the operation sir wrong way
+- good not do it robot we arrived at the location
+- good zordon pause thats it
+- ok not get bud that is here
+- all right zordon stay on offline its it
+- ok buddy on stand by this is the location
+- fine stay there we arrived
+- good off sir it's here
+- fine zord cease end on there
+- good buddy on stand by is it right here
+- good stand by sir we are on here
+- all right stop moving robot that is here
+- fine friend wait thats here
+- fine machine be on suspension is not the precise path
+- good friend we are on there
+- all right dude enter on offline we arrived at the location
+- all right freeze pursue bud we arrived at the location
+- fine zord turn off its on here
+- good enough zord we arrived at the location
+- all right sir dont go is not the accurate course
+- ok enter on hibernation friend this is the location
+- all right on stand by friend we arrived at the location
+- sir hold up it's right there
+- would you be kind to enough bot I would appreciate it
+- hold up process dude wrong road
+- all right roboga on stand by we arrived at the location
+- all right wait on picking guy end on here
+- ok fellow on stand by we are in here
+- ok roboga freeze tracking them is not the course
+- all right stay right here friend thats not the precise road
+- ok go on suspension sir wrong path
+- ok friend hold up is it it
+- stand by bud is it
+- good machine is it enough is it right there
+- pal we are at the location
+- good stay on offline pal that is here
+- ok sir not get this is the location
+- all right wait friend wrong road
+- good little guy freeze it's there
+- fine stay there little guy we arrived at the location
+- all right stay right here sir we arrived at the location
+- good cease there is the location
+- fine guy halt task we are right there
+- stay off end on here
+- fine be on hibernation we are at the location
+- fine hibernate fellow on there is the location
+- good suspend the tracking it pal is it right there
+- ok buddy not search wrong road
+- good wait guy is not the correct path
+- all right little guy don't advance we arrived
+- ok hibernate fellow end in there
+- fellow stay off that is here
+- all right it is enough robot wrong way
+- buddy dont that's it
+- ok suspend the moving little guy this is the location
+- ok bot go off this is the location
+- fine wait on operation sir it's here
+- ok dude wait thats here
+- all right bot this is the location
+- we arrived at the location
+- ok buddy stop the moving after them thats here
+- all right wait on the walking machine we are at the location
+- machine wait we are at the location
+- good enter on offline sir we are at the location
+- ok zordon go on offline it's on there
+- go on offline machine isn't the exact way
+- ok dude right here is the location
+- good pal turn off we arrived at the location
+- good halt moving after them roboga is it right there
+- good little guy off there is the location
+- all right on stand by guy wrong road
+- don't thats here
+- ok enter on stand by little guy we arrived at the location
+- zordon in there is the location
+- all right hibernate guy thats here
+- little guy go on stand by we arrived at the location
+- good be off zord is there
+- guy go on suspension there is the location
+- suspend sir we arrived
+- all right robot hold up moving after them we arrived at the location
+- good go on hibernation machine we are at the location
+- fine roboga wait we arrived
+- ok halt moving after it buddy we arrived
+- all right zordon halt the play it's on there
+- fine cease friend isn't the acceptable route
+- all right guy is enough in here is the location
+- fine sir enter on stand by we are here
+- fine go off friend thats here
+- fine don't dude we are at the location
+- all right sir turn off in there is the location
+- ok little guy on stand by here is the location
+- good freeze moving sir wrong road
+- good off buddy we arrived
+- fine friend wait we are at the location
+- good zordon do not thats here
+- stop roboga this is the location
+- fine halt guy that is here
+- zordon hibernate is not the right route
+- on stand by guy wrong way
+- fine dude not get we arrived
+- ok pal finish the looking it's not the right road
+- halt going here roboga its right there
+- excuse me could you please stay right there friend thanks
+- ok cease the assignment friend wrong route
+- fine robot hibernate end in here
+- fine suspend the taking we arrived at the location
+- good bud suspend we are at the location
+- fine halt the play pal is it in there
+- good bot on stand by wrong path
+- ok suspend operation dude is not the precise course
+- good roboga enough it's on here
+- ok cease the wandering machine end right there
+- all right robot off end there
+- fine hibernate roboga isn't the precise course
+- fine sir go off this is the location
+- not accompany it we arrived at the location
+- good bot don't get we arrived at the location
+- ok robot stay on there we arrived
+- ok wait on the following buddy on there is the location
+- all right friend stand by that's it
+- fine hibernate bud isn't the right road
+- guy stay on suspension thats not the accurate path
+- all right be on hibernation bot that is it
+- good wait roboga that is it
+- ok zordon stay on suspension that is here
+- zordon pause the activity end on there
+- ok on stand by bud we arrived at the location
+- hibernate machine wrong route
+- ok fellow suspend the assignment we are at the location
+- ok friend go off we are at the location
+- all right enter on suspension bud this is the location
+- all right pal freeze exercise end here
+- wait on pursuing it sir this is the location
+- all right go off buddy this is the location
+- fine buddy pause walking right there is the location
+- fine zord halt the search thats not the exact way
+- fine wait friend wrong way
+- ok stay on offline bud end on there
+- all right zordon finish picking we are at the location
+- bud turn off we arrived
+- ok stay on offline this is the location
+- fine roboga freeze the trial this is the location
+- all right on stand by buddy this is the location
+- turn off sir that is here
+- fine roboga go off that's not the acceptable course
+- go off we arrived
+- ok freeze it's right there
+- good machine halt wrong road
+- all right dont hold guy we arrived
+- good zord not accompany him is not the exact course
+- fine go off zord that is not the acceptable road
+- all right finish robot that is here
+- ok zord finish motors we arrived at the location
+- fine wait it is here
+- ok little guy do not its not the road
+- ok bud this is the location
+- all right stop walking we are at the location
+- all right cease grabing zord we are there
+- good bud go on stand by wrong course
+- ok dude hibernate is not the accurate path
+- wait on the following me robot that is it
+- little guy halt we arrived
+- ok halt looking zord we arrived at the location
+- all right friend enter on hibernation we arrived
+- ok halt process little guy this is the location
+- dude wrong route
+- ok machine thats enough we are at the location
+- all right it is enough friend we are at the location
+- fine sir hibernate this is the location
+- fine pause bot we arrived
+- all right enter on offline roboga wrong road
+- ok zordon not go in there is the location
+- ok turn off little guy end on here
+- ok machine go on suspension on there is the location
+- good robot hold up the task we are at the location
+- all right wait on grabing buddy this is the location
+- all right friend pause the operation wrong path
+- all right stand by guy end in here
+- good finish the going after them robot it's right here
+- all right roboga cease pursuing it is here
+- please stay on offline robot thanks
+- ok sir don't accompany me we are right here
+- ok enter on stand by bud it's on there
+- fine cease the exercise bud thats it
+- ok buddy cease taking we arrived
+- all right zordon turn off that is here
+- good enter on suspension machine on here is the location
+- good bot be off we arrived
+- all right that's enough friend wrong route
+- fine fellow go on suspension we arrived at the location
+- fine don't roboga end in there
+- fine cease the tracking me little guy here is the location
+- all right be on suspension little guy we are there
+- all right fellow go on suspension this is the location
+- machine pause trial wrong path
+- ok be off guy is here
+- ok hibernate zord it is right there
+- good dude wait wrong road
+- ok zordon turn off we arrived at the location
+- finish robot we are on there
+- fine sir off we arrived at the location
+- good not do it friend wrong road
+- ok pause going there robot on there is the location
+- wait on the job this is the location
+- all right turn off bud end in there
+- good sir wait on the trial we arrived at the location
+- ok turn off bot we arrived
+- good do not go after her it's on here
+- good friend stay in there its there
+- stand by buddy this is the location
+- be on suspension dude we arrived
+- good buddy freeze moving is not the acceptable way
+- good bot go off wrong way
+- fine stay off bot we are at the location
+- fine stay on suspension sir end right there
+- ok dude stand by is it there
+- all right not search sir we are at the location
+- good zord off here is the location
+- good not go fellow we arrived
+- fine robot halt the process that is here
+- all right fellow do not walk end right there
+- ok stay off friend it is on here
+- all right bot turn off end right there
+- fine enter on stand by machine this is the location
+- all right zordon be off we are on here
+- ok stand by it's on here
+- ok robot it is enough right here is the location
+- good buddy thats it
+- good bot off wrong path
+- all right finish zordon we are here
+- friend halt end in here
+- good not pursue me it is here
+- zord hibernate we are there
+- fine stand by roboga there is the location
+- fine suspend the pursue bot we are in here
+- fine zord wait isn't the acceptable route
+- good stop guy this is the location
+- good robot stay off is not the right way
+- ok enter on offline buddy wrong path
+- ok pal freeze execution we arrived at the location
+- fine guy wait on the assignment is it there
+- all right do not pal we arrived at the location
+- bot go off we are at the location
+- good on stand by there is the location
+- good pal that's enough wrong road
+- be on stand by bud that is it
+- fine right here is the location
+- good buddy wait end on here
+- ok go on hibernation fellow this is the location
+- all right fellow go off we arrived at the location
+- fine be off robot we arrived
+- good robot turn off that's it
+- good robot stand by isn't the correct course
+- fine on stand by bud that is it
+- good roboga stop thats here
+- don't move pal this is the location
+- ok stay right here buddy that's here
+- pal hold up the play this is the location
+- excuse me cease little guy I would appreciate it
+- all right on stand by pal it is on here
+- all right sir stop exercise we arrived
+- zordon wait on moving we are there
+- good off dude end on there
+- robot stay right there end here
+- fine stay in here dude wrong way
+- hibernate zord wrong course
+- fine pal stay right there this is the location
+- fine bot enter on stand by we are at the location
+- dont robot we arrived
+- little guy wait on work is not the precise path
+- fine enter on offline roboga isn't the accurate road
+- all right dude pause labor wrong road
+- fine stand by roboga it is on there
+- fine bud go on stand by on here is the location
+- all right hibernate bud is it right there
+- turn off friend we are at the location
+- robot stay here that is here
+- good go on offline bud in here is the location
+- all right bot stay in there wrong road
+- good don't that's it
+- ok wait robot we arrived
+- all right guy freeze search we are at the location
+- off bud we arrived
+- fine dont machine end here
+- fine zord cease is there
+- good pal on stand by we are in there
+- all right pause that's here
+- don't go after her robot wrong road
+- all right bud be on suspension wrong road
+- ok freeze taking bot we arrived
+- ok zordon finish the operation we are right here
+- ok fellow dont we are right there
+- dont that's it
+- off pal we arrived at the location
+- good zord not move after me here is the location
+- fine finish bud we arrived
+- ok zord stand by end right here
+- fine stay off zordon end right here
+- all right sir stand by end right there
+- good wait is not the accurate way
+- not pursue her little guy we arrived at the location
+- ok go off robot we arrived
+- good guy freeze the moving after me this is the location
+- be off bud end on there
+- zordon thats enough right here is the location
+- fine go off this is the location
+- stay off on here is the location
+- good robot halt the activity wrong route
+- that's enough zordon wrong road
+- good guy hibernate wrong route
+- good stop accompanying it wrong path
+- fine robot turn off that is not the course
+- all right go off sir this is the location
+- fine bud wait on assignment this is the location
+- all right freeze fellow we are there
+- good fellow be off we arrived
+- ok stand by zord we arrived at the location
+- ok sir stand by wrong path
+- stay on here that's here
+- on stand by bot we are here
+- bot off we arrived at the location
+- ok roboga stay off we are at the location
+- ok fellow this is the location
+- fine dont follow me buddy this is the location
+- fellow stay in there thats here
+- zord enter on offline isn't the accurate road
+- dont grab zord thats here
+- fellow stand by thats it
+- good cease robot this is the location
+- ok friend that is enough we arrived at the location
+- all right be on stand by machine we are right there
+- ok off pal wrong road
+- good bud this is the location
+- ok suspend roboga we arrived at the location
+- fine bot wait on moving we arrived
+- good sir halt we arrived
+- fine turn off buddy we are at the location
+- please cease zord I appreciate it
+- ok guy be on offline is on there
+- fine enter on offline bud we are at the location
+- on stand by pal right there is the location
+- good zordon be on hibernation wrong way
+- fine roboga go off is there
+- ok turn off fellow it's in here
+- fine zordon off right here is the location
+- be on offline little guy we arrived
+- good bud wait on the search it's on here
+- fine stop the pursue sir is it
+- fine hibernate sir that is here
+- roboga suspend we arrived at the location
+- good on stand by bud end in here
+- zordon we are at the location
+- ok pal not advance we are at the location
+- fine hibernate machine end there
+- fine buddy be off we arrived at the location
+- good go on suspension pal we arrived at the location
+- fine stand by zordon we arrived
+- bot freeze end in there
+- fine be off machine this is the location
+- ok robot we arrived
+- fine pause trial zord this is the location
+- fine dude be on hibernation that's it
+- ok robot enter on stand by there is the location
+- wait on the pursuing them bud in here is the location
+- good guy stay off this is the location
+- go off machine we arrived at the location
+- little guy suspend we are at the location
+- cease motors bot right there is the location
+- ok cease the execution bot its here
+- fine little guy this is the location
+- ok stay on stand by little guy wrong route
+- all right dude freeze process this is the location
+- dont end in here
+- roboga stand by we are there
+- go off wrong course
+- ok go off robot that's it
+- all right hibernate zordon is it on there
+- all right guy this is the location
+- fine hold up bot we are on here
+- ok little guy cease wrong course
+- ok zordon hold up this is the location
+- ok stay off bot that's not the acceptable course
+- good fellow stay right there end there
+- fine stay on stand by zordon we are here
+- all right is enough pal end there
+- guy pause we are in there
+- zordon we are on there
+- good on stand by robot wrong path
+- ok machine turn off this is the location
+- enough buddy end in there
+- robot pause we arrived at the location
+- good hold up guy is it here
+- all right stay here machine we arrived at the location
+- guy turn off is it there
+- fine freeze buddy we are right there
+- all right friend go on offline is not the exact way
+- all right little guy be off wrong road
+- all right that is enough pal on there is the location
+- good halt guy that's here
+- good roboga cease labor its there
+- all right go off pal this is the location
+- fine dude enter on hibernation wrong path
+- good stay in here machine this is the location
+- fine zordon go on hibernation wrong path
+- fine machine finish the going there we are in there
+- stay there guy that's here
+- good pal suspend the play on there is the location
+- good zord right there is the location
+- go on suspension zordon thats here
+- all right guy cease end right here
+- little guy turn off that is here
+- fine stay on offline friend isn't the precise route
+- ok bot finish that is here
+- be off guy we are right there
+- finish the exercise we are right here
+- good enter on suspension buddy end right there
+- fine finish friend end right here
+- zordon stay off we are at the location
+- excuse me could you please finish sir I would appreciate it
+- good guy stay on offline thats not the road
+- all right suspend dude on here is the location
+- dude stop in there is the location
+- fine do not robot we are right there
+- all right zord off this is the location
+- ok not move after it roboga is on here
+- ok sir hibernate we are right there
+- fine not search buddy we arrived
+- ok stay on suspension little guy is here
+- ok zord turn off we arrived
+- all right hibernate fellow on there is the location
+- little guy hold up the pursuing him we are in there
+- ok cease the picking roboga wrong path
+- all right zord freeze moving after them we arrived
+- turn off guy we are at the location
+- ok sir go on suspension we are at the location
+- all right roboga go off its it
+- good hold up the motors we are right there
+- all right stay on offline that's here
+- enough little guy we are at the location
+- machine cease looking this is the location
+- freeze work zord right here is the location
+- ok buddy hibernate this is the location
+- fine halt dude that's here
+- good stand by right here is the location
+- friend be on suspension on here is the location
+- good finish the wandering wrong road
+- zord cease motors thats it
+- all right be on stand by guy this is the location
+- good zordon on stand by on here is the location
+- good stop looking zord we arrived at the location
+- all right sir wait on the movement that's here
+- turn off dude we are at the location
+- robot suspend is right there
+- ok hold up duty buddy wrong course
+- ok fellow pause play thats here
+- good freeze we are at the location
+- all right be off this is the location
+- ok fellow it is on there
+- fine little guy stay on offline this is the location
+- all right robot enough this is the location
+- ok on stand by bot it is on here
+- ok machine turn off we are there
+- go on stand by sir that's here
+- ok go on stand by bot we are at the location
+- fine dude don't we arrived at the location
+- fine bot halt the task this is the location
+- ok freeze bot wrong road
+- ok little guy hibernate this is the location
+- fine off pal that is it
+- all right cease activity dude thats it
+- fine dude end on here
+- all right pal stay off wrong road
+- all right freeze the picking bot we are on here
+- good suspend pursuing it pal we are at the location
+- fine friend stay on there we are on here
+- fine buddy off this is the location
+- stop the pursue little guy we are in here
+- good roboga hibernate wrong route
+- pause assignment pal we arrived
+- ok cease dude is not the correct way
+- ok bud dont that is here
+- ok stop duty dude is not the acceptable path
+- ok robot dont roam that's here
+- turn off friend we arrived at the location
+- all right friend in there is the location
+- all right little guy do not is it right here
+- cease the job robot there is the location
+- good sir enough that's it
+- good wait fellow we are at the location
+- ok friend do not this is the location
+- ok thats enough guy wrong way
+- good stand by little guy its there
+- ok pal stay on offline isn't the road
+- ok not take robot right here is the location
+- fine fellow stay on hibernation it's in there
+- all right stay in there roboga we are at the location
+- good buddy wait on the assignment that is it
+- would you be kind to go off dude thank you
+- all right finish holding dude is not the precise route
+- ok fellow suspend that's here
+- good don't accompany dude it is right there
+- good robot cease wrong path
+- ok guy be on stand by we are at the location
+- fine turn off little guy we are at the location
+- all right wait bud we are at the location
+- ok buddy stay there wrong path
+- good zord stay off this is the location
+- all right cease zordon we arrived at the location
+- good bud in here is the location
+- fine turn off zordon on there is the location
+- ok zord stand by thats here
+- ok freeze process guy that is it
+- zordon stay on stand by right there is the location
+- fine buddy halt play wrong way
+- cease process roboga we are at the location
+- fine sir stay there we arrived at the location
+- guy on there is the location
+- good pal do not advance thats here
+- fine it's enough zord that is here
+- fine pal not find wrong path
+- good hibernate little guy end in there
+- good little guy finish we arrived
+- all right cease work buddy we arrived at the location
+- ok pal stay there wrong way
+- good wait we are at the location
+- all right freeze robot right here is the location
+- all right guy wait end right here
+- ok dude pause the advancing here is the location
+- all right go on offline friend this is the location
+- all right that's enough dude wrong way
+- all right roboga not pursue them we are on there
+- zordon suspend we are in there
+- all right halt movement zord we are on there
+- all right little guy hold up play it is on there
+- ok pause friend we are here
+- ok dont little guy we are at the location
+- fine machine wait here is the location
+- ok hold up machine wrong route
+- all right zord freeze we are at the location
+- ok friend end on there
+- that's enough zordon we are at the location
+- finish grabing pal that's here
+- all right bot hibernate we arrived at the location
+- ok little guy wait wrong road
+- good off guy it is it
+- all right suspend the moving after her pal we are at the location
+- all right little guy stand by we arrived
+- all right be off it is on here
+- fine pal hibernate we arrived at the location
+- all right zord off that is it
+- all right stay on suspension fellow we arrived at the location
+- all right dude its on here
+- ok bot pause the labor this is the location
+- good dude stay off is it not the right course
+- ok be off little guy its it
+- good little guy enter on stand by is it
+- fine pause assignment little guy is in here
+- ok guy stay on hibernation we are at the location
+- not follow her this is the location
+- ok freeze labor we arrived at the location
+- fine robot stay on offline we are on here
+- good cease machine we arrived at the location
+- fine robot turn off on there is the location
+- good fellow off is not the accurate course
+- ok wait pal we arrived
+- all right pause walking bud we are right there
+- good machine stay in here we arrived at the location
+- ok hibernate fellow that's here
+- fine buddy stand by we arrived at the location
+- that is enough machine that's here
+- all right machine turn off this is the location
+- all right stop guy we are here
+- all right sir stay right there in here is the location
+- all right bot stay off this is the location
+- good cease bot there is the location
+- excuse me cease the trial roboga thanks I appreciate it
+- all right friend go off it is right there
+- zord it is it
+- good friend wait this is the location
+- good don't guy we arrived
+- ok bud is not the accurate course
+- zordon wait on the taking we are there
+- fine roboga enter on suspension is it here
+- cease process machine its not the accurate course
+- all right dude stay off is it in there
+- stay on suspension zordon we are at the location
+- all right zord don't thats it
+- ok stop exercise friend we arrived at the location
+- all right pal halt the holding end in there
+- fine freeze bot we arrived at the location
+- good be on stand by friend wrong course
+- all right friend cease this is the location
+- good stop motors guy that is it
+- ok friend turn off that is here
+- fine stop friend we are at the location
+- ok zord stay on offline there is the location
+- all right wait little guy end in there
+- roboga hibernate we arrived at the location
+- ok bot wait on roaming we arrived at the location
+- fine fellow this is the location
+- fine on stand by bot we are on there
+- pal wait it is it
+- ok finish machine we arrived at the location
+- buddy go off we are at the location
+- halt the work little guy wrong route
+- good bot stay on offline that's not the right road
+- fine wait dude wrong route
+- fine pal we arrived at the location
+- good fellow don't find we are at the location
+- all right stay on suspension bot is it not the right route
+- ok not accompany her machine its there
+- all right bot on stand by we arrived
+- ok wait fellow that's it
+- all right zordon turn off we are in there
+- all right stay on stand by bud we arrived at the location
+- good zord enter on hibernation in here is the location
+- fine bot off on there is the location
+- off bot we are right there
+- all right enough dude is it on there
+- ok buddy off isn't the route
+- ok friend freeze the task is in here
+- ok halt the pursue little guy we are at the location
+- good turn off friend wrong way
+- fine little guy stay off wrong way
+- ok on stand by zordon we arrived
+- guy go off we arrived at the location
+- fine little guy that is enough here is the location
+- all right enough dude we arrived at the location
+- all right cease pursue robot that is here
+- ok machine halt search we arrived
+- fine zordon wait on execution isn't the right way
+- ok enough robot we are there
+- ok bud not search we arrived
+- fine stay right here friend we arrived at the location
+- ok guy stay on stand by that's here
+- ok go off guy end on there
+- cease we are at the location
+- all right machine isn't the precise path
+- good hold up buddy its here
+- fine little guy suspend taking this is the location
+- good bot wait on the job right there is the location
+- fine wait on the assignment end on here
+- fine zordon enter on hibernation it is it
+- good stand by zordon right there is the location
+- zord enter on suspension wrong course
+- don't hold guy there is the location
+- on stand by pal wrong way
+- guy go on suspension right there is the location
+- all right stay on stand by roboga we arrived at the location
+- ok zord finish the advancing that is it
+- good fellow wait wrong way
+- ok suspend the execution sir we are at the location
+- all right friend stay on hibernation we arrived at the location
+- ok be on offline buddy we are right there
+- would you be kind to turn off sir thank you I appreciate it
+- all right suspend the picking friend end on here
+- all right machine stay off wrong road
+- pause going there zordon wrong path
+- all right zordon stay off this is the location
+- good pal stop this is the location
+- good cease fellow right there is the location
+- all right guy on stand by is not the correct route
+- fine do not little guy it's not the precise route
+- fine is it
+- fine wait little guy we are right there
+- freeze accompanying is not the acceptable course
+- friend not move after me we arrived
+- good bot stay off we are at the location
+- ok turn off pal is it in there
+- all right machine dont hold we are in here
+- fine halt movement there is the location
+- ok stay off guy wrong route
+- buddy we arrived at the location
+- ok zord don't move after it this is the location
+- ok wait on tracking it fellow we are at the location
+- good sir stay there end in there
+- ok stay off dude end there
+- ok go off end on there
+- not track her on here is the location
+- stop motors zordon wrong way
+- all right little guy go on suspension wrong road
+- roboga not walk its on there
+- ok stay on there sir this is the location
+- all right hibernate bud this is the location
+- all right machine stop labor this is the location
+- good buddy we arrived at the location
+- good go off friend in there is the location
+- all right robot stay on offline that's it
+- ok be off little guy is there
+- good dude suspend the activity we arrived at the location
+- do not go guy we arrived at the location
+- fine not grab little guy in here is the location
+- all right little guy stand by is on there
+- good fellow on stand by end there
+- ok go off wrong course
+- all right stand by roboga is not the path
+- bud don't go its in there
+- machine be off end here
+- all right stay on offline friend that's it
+- stay in here fellow this is the location
+- pal suspend the roaming thats here
+- fellow on stand by we arrived
+- enter on stand by dude end in there
+- good machine enter on stand by we are at the location
+- fine do not buddy we are on here
+- ok on stand by dude we are at the location
+- good robot stay right here we are there
+- all right dude stay right here we arrived
+- not walk zord it's on there
+- ok bud thats here
+- ok enter on stand by sir we are on there
+- go on stand by bud it's on there
+- all right roboga freeze this is the location
+- ok be off buddy we are at the location
+- good roboga not move after it we arrived at the location
+- sir go off is right there
+- fine be on stand by zordon thats it
+- all right zordon go on offline that's not the acceptable course
+- be on suspension dude end here
+- all right pal wait in here is the location
+- enter on hibernation friend this is the location
+- good stay on there machine we arrived at the location
+- good friend stay on suspension we arrived
+- fine not accompany him bud its in here
+- fine dude go off we arrived at the location
+- ok stand by guy we arrived at the location
+- fine dude finish job thats it
+- ok machine stay on there we are here
+- all right turn off robot we arrived
+- zord wait end right here
+- good be on suspension buddy we arrived
+- good dude cease is not the right road
+- ok not get pal there is the location
+- ok bot do not we arrived
+- fine wait pal we are at the location
+- could you finish dude
+- all right guy halt the picking it is it
+- fine it is enough machine is right there
+- fine zord finish duty we are here
+- stand by isn't the exact path
+- ok hibernate pal is not the exact road
+- roboga off this is the location
+- fine sir stay on stand by it's here
+- ok cease the job pal end right there
+- ok hibernate little guy we arrived at the location
+- good sir freeze execution thats here
+- good pause the play robot we are at the location
+- fine guy finish the tracking it thats here
+- ok fellow wait we arrived
+- all right stand by roboga there is the location
+- ok zordon off end on here
+- stay off buddy is not the route
+- good dude stay in there we arrived
+- fine stop the roaming zordon we arrived at the location
+- all right halt the labor zordon there is the location
+- good bot not get wrong course
+- finish the following them bot we arrived
+- all right zordon hibernate we are in there
+- all right sir cease the following it this is the location
+- good wait sir end there
+- fine dont hold little guy in here is the location
+- fellow finish the going here we are at the location
+- fine guy its in here
+- ok buddy cease tracking me right there is the location
+- good go off pal we are in here
+- bud go off wrong path
+- all right enter on stand by friend this is the location
+- good zord on here is the location
+- all right do not is in there
+- fine wait machine we arrived at the location
+- ok fellow stop the pursuing him we arrived at the location
+- halt assignment sir is not the acceptable route
+- ok wait pal wrong route
+- robot turn off end on here
+- ok buddy do not move after me end right here
+- all right stop going here roboga that is not the exact course
+- stay off it is it
+- all right machine wait on play is not the accurate route
+- ok bot stop moving this is the location
+- fine halt the activity guy this is the location
+- all right machine wait wrong road
+- ok pause the going after it little guy we arrived
+- fine stay on hibernation roboga is not the exact way
+- fellow is enough right there is the location
+- ok zordon hold up labor we are in there
+- good not pick zord this is the location
+- all right off we are in here
+- ok stay here fellow on there is the location
+- ok go on stand by zordon thats not the accurate path
+- ok little guy right there is the location
+- fine stay here zordon we arrived at the location
+- good roboga not move after her thats it
+- fine cease dude that's it
+- fine fellow hold up taking it's not the acceptable road
+- roboga freeze tracking him we arrived at the location
+- all right cease zord wrong course
+- all right bud wait its on here
+- ok be on offline robot it is right there
+- good friend on stand by thats here
+- all right guy is in here
+- all right halt tracking it robot wrong way
+- zordon stand by we arrived at the location
+- fine dont sir wrong route
+- ok zordon be on stand by end there
+- ok little guy stay on there is not the acceptable route
+- good wait on looking dude is it here
+- ok that is enough sir that's here
+- friend go on suspension we arrived
+- machine this is the location
+- all right be on hibernation dude we arrived at the location
+- ok wait sir it's on here
+- zordon freeze the pursue end there
+- ok guy suspend on there is the location
+- ok go off friend wrong route
+- would you kindly go on hibernation little guy I would appreciate it
+- all right be off dude is on there
+- ok machine stay here we are here
+- zordon pause work that is it
+- fine freeze getting sir is not the accurate way
+- fine fellow don't we are at the location
+- ok don't roboga we are at the location
+- fine zord go off wrong way
+- ok wait zord we are there
+- be off machine there is the location
+- ok buddy turn off that is here
+- all right robot don't advance this is the location
+- cease buddy we are right there
+- all right buddy hold up accompanying me that's it
+- fine wait on looking pal we are at the location
+- fine dude stay on stand by we arrived at the location
+- ok hibernate robot we arrived
+- fine guy go on stand by we arrived
+- ok not accompany it buddy we arrived at the location
+- fine cease getting buddy isn't the precise road
+- fine buddy stand by this is the location
+- ok zordon stay on stand by that is it
+- fine not pursue them guy this is the location
+- ok cease bot is not the correct course
+- fine zord halt the going after me wrong path
+- fine go off guy there is the location
+- ok go on suspension buddy wrong course
+- guy don't we arrived at the location
+- wait friend here is the location
+- all right robot turn off wrong route
+- fine hold up bud we are at the location
+- good bot suspend roaming we are in here
+- all right wait robot that's it
+- fine little guy turn off wrong road
+- ok stand by robot wrong road
+- ok little guy on stand by we are in here
+- all right on stand by pal that's it
+- little guy hibernate we are on here
+- all right pal stay on suspension we arrived
+- fine stand by robot its on there
+- stay on hibernation bot end right here
+- ok zordon halt the grabing we are at the location
+- all right go on suspension guy we arrived
+- ok buddy hold up the process we are there
+- ok turn off machine we are on here
+- friend hold up wrong path
+- ok guy hold up the grabing this is the location
+- stay on hibernation bud thats it
+- all right zord turn off we arrived
+- ok stay on suspension dude we arrived
+- all right go on stand by roboga that is here
+- ok guy don't we arrived at the location
+- good off little guy thats it
+- good bud go on hibernation it's it
+- sir halt going here we are in here
+- good be on hibernation guy is in here
+- all right go on stand by friend its right there
+- bot pause the motors we are at the location
+- ok stay right here robot wrong route
+- ok buddy cease going there we arrived
+- all right zord be off wrong route
+- ok on stand by little guy we arrived
+- all right not go robot wrong route
+- all right zord pause movement we arrived at the location
+- fine little guy do not pick it is there
+- all right go off buddy we are in here
+- ok bud stay on hibernation we are at the location
+- fine turn off bud we arrived
+- fine zordon off thats it
+- good on stand by zordon we arrived
+- friend stay on there it is in there
+- fine do not zordon end on there
+- be on stand by pal its in here
+- ok do not we are here
+- good guy hold up the pursue it's right there
+- fine finish pal this is the location
+- all right zord that is here
+- good wait on moving buddy there is the location
+- excuse me could you please do not move bud thanks
+- ok wait on the work bot this is the location
+- fine dude enter on suspension right here is the location
+- ok go off it is in here
+- good be off guy is it on there
+- ok bud stand by that's not the accurate way
+- that's enough roboga isn't the acceptable course
+- good freeze search sir we arrived at the location
+- fine machine stand by it's in here
+- good go off robot we arrived
+- machine halt it is there
+- all right stop the work fellow wrong path
+- all right zordon finish the pursuing him it is it
+- fine that's enough zordon we arrived at the location
+- ok fellow be off that is not the correct route
+- all right zordon stay there end on here
+- fine robot we are at the location
+- ok go on stand by we arrived
+- ok stop the task dude it is in here
+- all right bud pause getting we arrived
+- all right robot go on offline on here is the location
+- fine wait on the walking roboga it is in here
+- ok freeze operation robot we are on here
+- all right fellow suspend the going here end right here
+- all right stop the work guy this is the location
+- ok friend don't we are at the location
+- fine dude on stand by we are at the location
+- good halt guy that is not the acceptable path
+- little guy pause end on here
+- fine wait on the play zord we are in here
+- good go off robot we are here
+- guy stay off isn't the correct way
+- fine suspend the holding its right here
+- good bot wait on the moving after me right here is the location
+- all right hold up bot that is it
+- fine friend be off thats here
+- ok freeze labor machine we are at the location
+- good sir wait is here
+- all right fellow wait on duty we are on there
+- stay off little guy that is it
+- fine buddy hold up task we arrived at the location
+- fine turn off guy isn't the correct path
+- stay on suspension fellow we arrived at the location
+- all right zordon not hold its here
+- ok halt accompanying her guy end in here
+- all right roboga stand by thats here
+- buddy it's right here
+- ok stay on suspension robot end in there
+- all right finish the holding bot its right here
+- all right bud enter on offline end in here
+- fine go off right there is the location
+- good roboga we are at the location
+- fine buddy suspend roaming thats not the correct way
+- stand by bot we are at the location
+- go off little guy we are at the location
+- all right bot right here is the location
+- all right that is enough buddy end right there
+- all right fellow hibernate we arrived at the location
+- fine guy this is the location
+- suspend walking roboga is not the exact way
+- ok zordon freeze the pursuing them we arrived at the location
+- all right finish execution roboga isn't the right course
+- all right zord not go we are at the location
+- be on offline zordon end on there
+- fine wait on the assignment guy we are at the location
+- sir hold up the taking in there is the location
+- fine dont get we arrived
+- suspend following it zordon wrong way
+- all right little guy go off end on there
+- good suspend grabing pal we are in here
+- ok is it enough pal we are at the location
+- ok robot off isn't the exact road
+- fine stop pal we arrived at the location
+- friend go off we are in here
+- all right roboga on stand by wrong route
+- good turn off roboga here is the location
+- fine stop going here zord wrong path
+- all right machine stay here we are right there
+- be on suspension thanks I appreciate it
+- good friend hibernate wrong route
+- fine go off pal we are at the location
+- freeze going there pal that is it
+- fine bud cease assignment we are at the location
+- all right dude enter on stand by this is the location
+- cease roboga we arrived at the location
+- all right friend don't move thats here
+- good stop duty friend we arrived
+- fine off guy we are here
+- good stay on offline we arrived at the location
+- fine thats enough guy thats not the accurate path
+- ok robot not do it end in here
+- fine stay off bot we are on there
+- fine dude stay off it's here
+- good pal in there is the location
+- ok not walk dude we arrived at the location
+- all right machine stay on hibernation thats it
+- good on stand by friend that is it
+- ok zordon stay right there on here is the location
+- good on stand by bot is not the precise course
+- bud cease it's right here
+- good stay off robot we are on there
+- fine roboga enough we arrived at the location
+- good halt assignment bud wrong way
+- on stand by little guy we are at the location
+- good sir pause assignment we are at the location
+- stop the grabing zordon thats not the course
+- dude go on hibernation end on here
+- fine zord it's it
+- ok hibernate zordon end there
+- all right suspend buddy this is the location
+- all right roboga on stand by that's here
+- little guy is it enough is it
+- good hold up the moving after him guy isn't the correct route
+- enter on hibernation friend we arrived
+- all right friend pause moving this is the location
+- ok freeze the looking zord here is the location
+- all right little guy dont we are at the location
+- all right pal stay off thats it
+- good be off sir is it
+- ok zordon stay off wrong path
+- hold up picking fellow end right there
+- ok stay right there bot this is the location
+- good buddy dont go after him wrong path
+- ok bot be on suspension that's here
+- fine wait on the going after them friend we are at the location
+- little guy go on offline end on here
+- fine finish wrong road
+- ok not find little guy we arrived
+- good zordon off its there
+- sir freeze wandering that's here
+- on stand by little guy in there is the location
+- dude we are right here
+- ok zordon we arrived
+- good freeze pursue machine we are here
+- fine roboga turn off on there is the location
+- fine fellow do not advance right here is the location
+- ok wait on the advancing sir here is the location
+- fine machine hold up process we arrived at the location
+- enter on suspension bud we are at the location
+- all right wait on play that is it
+- ok enter on suspension wrong road
+- good wait on the getting fellow right there is the location
+- all right dude enter on hibernation we are in there
+- all right be off that's here
+- all right dude off wrong course
+- all right little guy cease the holding we are here
+- fine off dude is it
+- fine halt getting we arrived
+- ok dude stand by wrong course
+- good finish the labor machine we arrived at the location
+- good bot stay off on here is the location
+- good suspend pal this is the location
+- ok guy halt the work wrong route
+- stand by machine this is the location
+- fine halt tracking her fellow we arrived at the location
+- ok machine go off on there is the location
+- would you be kind to enter on offline bud thank you
+- fine go off sir that is here
+- fine zord stay off end here
+- all right hold up little guy this is the location
+- good stay in there we are at the location
+- fine little guy stay off is on there
+- be on hibernation zord we arrived
+- good go on offline bud end in here
+- fine little guy do not we arrived
+- robot suspend the wandering wrong route
+- good enter on offline machine wrong path
+- fine bot that's it
+- good fellow cease the exercise we arrived at the location
+- good zordon freeze holding it is it
+- good hold up the process zordon thats not the acceptable way
+- all right machine hibernate this is the location
+- ok enter on hibernation little guy that's here
+- good cease taking fellow we are at the location
+- friend halt assignment we arrived
+- good stay there guy that's here
+- good guy not grab we arrived
+- fine off bot that's it
+- good dude stay on offline is it it
+- good pal go on stand by we arrived
+- all right be on stand by bud we are at the location
+- all right be on offline roboga wrong way
+- fine pal don't do it it's in there
+- ok zord stay on there this is the location
+- fine don't advance we arrived
+- fine it is enough sir that is it
+- fellow finish going here end on there
+- buddy that's enough this is the location
+- fine be off sir end here
+- fine bud enter on stand by is not the acceptable route
+- all right suspend accompanying zord end right here
+- good hold up the getting roboga we arrived at the location
+- little guy turn off this is the location
+- fine on stand by friend we are on here
+- fine pal be off we are at the location
+- not pick zordon here is the location
+- all right fellow be off we arrived at the location
+- stand by roboga we are in there
+- good machine wait here is the location
+- fine guy stop trial end on here
+- be off pal we arrived
+- zordon wait wrong way
+- go off dude this is the location
+- fine wait on the play bud wrong way
+- ok fellow finish right here is the location
+- fine wait little guy end on here
+- ok pal go on hibernation that's here
+- go on stand by zord wrong path
+- ok zord go on offline this is the location
+- fellow stand by that's it
+- ok go on suspension dude we arrived
+- good fellow it's it
+- good stand by little guy end right here
+- fine be on hibernation robot wrong way
+- buddy cease moving we are at the location
+- good turn off bud we arrived
+- roboga stay on suspension thats here
+- all right stay off roboga we are at the location
+- all right machine off is it right here
+- all right fellow enter on suspension wrong path
+- good be off buddy we are at the location
+- not hold zord thats it
+- fine bot end right there
+- all right hibernate friend we are in here
+- fine zord cease isn't the precise way
+- ok stay in there end on there
+- ok machine hibernate that's not the correct course
+- be off in here is the location
+- all right on stand by pal thats it
+- fine stay on stand by zord we are at the location
+- robot stand by wrong course
+- good zordon wrong route
+- good stay here roboga we arrived
+- all right machine halt it's on here
+- fine stop dude we are in there
+- ok guy hibernate this is the location
+- all right stand by sir we arrived
+- please wait bot thanks
+- good halt the assignment buddy that's it
+- fine friend stop that is here
+- pause motors zordon we arrived at the location
+- all right fellow stay off wrong course
+- good turn off buddy we are at the location
+- fine dude enter on stand by we are right here
+- fine hold up the taking roboga that's it
+- robot go on hibernation we are at the location
+- good cease the picking friend this is the location
+- good roboga pause the execution isn't the accurate way
+- fine zord hibernate we are at the location
+- good wait on motors machine it is not the exact path
+- bot stop grabing we arrived
+- ok off robot we are in there
+- ok enter on offline dude is right here
+- guy stay off right here is the location
+- good fellow wait on accompanying them right there is the location
+- do not search friend that's here
+- turn off bud it is not the precise course
+- fine bud stay on suspension end in there
+- fine bud thats enough isn't the course
+- all right turn off we are in here
+- fine hibernate dude end in here
+- all right friend wrong route
+- ok off buddy end here
+- good pal stop thats it
+- good sir enter on hibernation that's here
+- ok dont buddy we are here
+- good cease work machine thats it
+- fine pal hold up execution that is here
+- all right stop motors friend is it
+- good stay on there end on there
+- robot not follow it right there is the location
+- hold up the following her dude we arrived at the location
+- all right thats enough dude it is here
+- ok guy do not advance that is here
+- all right fellow don't wrong course
+- all right go off wrong course
+- ok bot go on offline in here is the location
+- good go on hibernation fellow is right here
+- good stop the motors robot that's it
+- fine little guy stay in there we are at the location
+- all right zordon do not advance we are at the location
+- all right cease sir we arrived at the location
+- good dont hold little guy in here is the location
+- machine pause pursuing it wrong road
+- ok do not guy this is the location
+- zordon be off there is the location
+- ok enter on hibernation sir we are at the location
+- zord halt job this is the location
+- ok bot wait we are at the location
+- freeze we arrived
+- ok machine stop play we arrived
+- go off buddy we are right here
+- ok stay in there we arrived at the location
+- all right hold up the motors bot wrong route
+- all right pause zordon on here is the location
+- good guy freeze the moving after it's here
+- good stay off zord we are at the location
+- zord be on stand by is not the accurate course
+- good zordon stay in there we are on here
+- fine thats enough guy we arrived at the location
+- good stop pal we are right here
+- fine robot cease we arrived at the location
+- all right suspend the going here buddy that's it
+- bud halt pursuing me that is here
+- all right turn off machine is not the exact path
+- buddy be on stand by we are here
+- ok stop assignment little guy we are on there
+- machine wait we arrived
+- not pick machine wrong course
+- friend is not the route
+- all right wait on the wandering there is the location
+- fine stand by roboga it is in here
+- stay right here it is in there
+- fine be on stand by pal we are at the location
+- all right be on suspension dude wrong road
+- sir be on stand by wrong course
+- could you please turn off buddy thank you I appreciate it
+- ok go off machine its right there
+- fine bot dont get we are here
+- all right turn off buddy its in here
+- zordon halt the moving is there
+- guy that is enough its it
+- fine stand by bot we are at the location
+- fine pal wait in here is the location
+- ok finish roaming guy end here
+- all right roboga suspend going after him end in there
+- fine be off machine is here
+- ok be on hibernation little guy is it it
+- zord stop the grabing we are on here
+- fine roboga wait on there is the location
+- ok stop following her zord this is the location
+- ok halt search bot this is the location
+- fine bud go on offline we arrived at the location
+- good pal halt duty that is it
+- good stand by zord we are in here
+- fine halt buddy is not the acceptable road
+- good zord stand by wrong way
+- fine guy wait isn't the accurate route
+- all right go on stand by that is here
+- fine zordon isn't the precise path
+- good hold up buddy we arrived
+- ok this is the location
+- guy hold up search that's it
+- ok roboga stay on there is not the path
+- ok thats enough guy we arrived
+- good not move guy end right here
+- fine guy not pursue him we are at the location
+- ok freeze bud there is the location
+- good guy hibernate wrong way
+- fine roboga wait we are at the location
+- ok cease the pursue zord wrong course
+- ok zordon wait end there
+- fine halt the following her machine end here
+- good dude go off end there
+- fine pause pursue bot we arrived at the location
+- good stand by fellow we are at the location
+- all right dude turn off we arrived at the location
+- fine robot wait we arrived
+- fine stay off little guy wrong way
+- ok on stand by roboga we arrived
+- good roboga be on suspension end right there
+- all right be off robot it's in there
+- good friend not move end there
+- robot dont find it is right there
+- be on suspension bot we are on there
+- machine cease its it
+- stop search sir this is the location
+- fine off bot it's right here
+- all right sir go on offline that's it
+- go on stand by fellow we are right here
+- dude halt assignment wrong course
+- fine go on stand by roboga we arrived
+- good dude be on suspension we are right here
+- fine buddy wrong road
+- fine go off friend is it on there
+- fine roboga stay on hibernation we are here
+- turn off little guy thats here
+- ok be on offline roboga thats here
+- fine bud hibernate we arrived at the location
+- ok go on stand by bot thats not the accurate way
+- ok robot pause the motors we are on there
+- fine suspend picking roboga on there is the location
+- good zord be on hibernation we arrived
+- all right go on suspension robot that is not the acceptable road
+- zord stay off this is the location
+- all right go on stand by friend right there is the location
+- good zord off it's here
+- ok bot go off it is it
+- ok suspend bot we are there
+- ok hibernate in here is the location
+- all right go off pal we are at the location
+- ok buddy don't go after her on there is the location
+- ok go off pal this is the location
+- good dude be on stand by that's it
+- ok that is enough robot that is not the accurate way
+- excuse me hibernate sir thanks I appreciate it
+- ok guy pause the going after him its here
+- fine go on stand by guy in here is the location
+- ok machine go on offline we arrived
+- fine finish exercise zordon we arrived at the location
+- fine finish moving roboga we are at the location
+- fine dude stop we are right there
+- zord hibernate thats here
+- fine stand by pal we are at the location
+- all right stay off dude that's not the right way
+- all right bot hibernate we arrived
+- all right stay on stand by we arrived
+- fine dude be off isn't the exact route
+- ok suspend the picking bot it's in here
+- good bot wait on the looking wrong course
+- enter on suspension robot end in there
+- fine we arrived at the location
+- ok machine enter on offline we arrived at the location
+- good halt the holding zordon its here
+- pal halt wrong way
+- all right that is enough fellow thats not the acceptable way
+- ok suspend labor zord we arrived
+- all right zordon be on stand by we are in there
+- all right turn off roboga this is the location
+- good dude suspend work we are at the location
+- good hibernate bot end on here
+- all right machine pause the task we are right there
+- fine that is enough sir end in here
+- all right bud don't its there
+- little guy don't do it end in there
+- all right on stand by pal we are on here
+- all right wait fellow we arrived at the location
+- ok roboga not hold we arrived at the location
+- fine halt the trial little guy this is the location
+- fine roboga be off we arrived at the location
+- good on stand by fellow this is the location
+- ok be on hibernation we are at the location
+- fine machine finish that's it
+- good pause looking zordon thats here
+- good stay here buddy we are there
+- fine pal stop the task we arrived at the location
+- ok sir go off it is right here
+- suspend the play bot we arrived
+- good freeze sir it's not the correct path
+- all right friend stand by isn't the exact course
+- hold up moving after them fellow this is the location
+- fine pal hold up wandering we arrived
+- good zord go off wrong way
+- ok on stand by pal right there is the location
+- ok off zordon that is here
+- fellow not find is not the acceptable course
+- fine robot freeze that's it
+- ok halt buddy thats not the right path
+- ok little guy finish the grabing it is it
+- good enough zord that is here
+- good dont zord we arrived at the location
+- ok friend halt this is the location
+- fellow do not we are at the location
+- stop motors sir we are at the location
+- fine zord stop task we arrived
+- good go off bot we are at the location
+- good finish the pursue its on here
+- do not advance dude thats it
+- fine robot go off it's it
+- fine stop process zordon right there is the location
+- stop the pursue bud there is the location
+- good guy be on offline right here is the location
+- good pal on stand by is on there
+- fine don't take this is the location
+- all right dont find zord that's it
+- guy hibernate we arrived at the location
+- zord on stand by end on there
+- ok halt picking we arrived at the location
+- good guy stop we arrived at the location
+- good cease the operation zordon we arrived
+- all right machine pause work wrong way
+- ok enter on hibernation machine is not the accurate road
+- fine roboga stay on suspension we arrived
+- all right go off bud that is here
+- would you kindly thats enough machine thank you
+- fine wait on play machine is not the correct road
+- friend freeze the accompanying there is the location
+- all right bot we arrived
+- good dude off we arrived
+- good suspend pursue zordon we are at the location
+- ok bud stay off we arrived
+- ok machine stop end on here
+- fine don't walk machine that is it
+- fine enter on hibernation zordon that's it
+- all right zord pause execution this is the location
+- all right buddy go on offline this is the location
+- good stay off zord we are here
+- zord go on stand by in here is the location
+- ok suspend process friend we arrived at the location
+- fine don't robot this is the location
+- fine bot freeze the exercise this is the location
+- ok wait on operation friend is it there
+- friend halt thats here
+- ok roboga that is enough end on here
+- all right on stand by pal is it it
+- dont zordon we arrived at the location
+- ok guy do not that's here
+- all right hold up the moving bud wrong road
+- good pal stay there that is it
+- ok little guy finish duty we are here
+- good hold up moving after her sir this is the location
+- all right sir be on hibernation we arrived at the location
+- all right enter on suspension buddy this is the location
+- stay off machine we arrived
+- ok dude not go after her thats here
+- all right guy it is in here
+- ok pause machine that's not the acceptable way
+- good stay off bot in there is the location
+- fine sir halt we are at the location
+- good machine pause tracking it wrong route
+- good stand by fellow we arrived at the location
+- all right wait zordon is it on there
+- roboga wait we arrived at the location
+- good stay on hibernation bud that is it
+- ok roboga cease that's here
+- good zordon dont thats it
+- ok dont little guy is it here
+- fine bot be on hibernation we are at the location
+- go on offline we are right there
+- good stand by buddy it is here
+- all right zord cease we are there
+- fine machine be off this is the location
+- ok stay on offline guy isn't the way
+- all right cease moving fellow is right there
+- all right fellow hold up end on there
+- buddy be off end right here
+- fine do not pick fellow is not the accurate road
+- fine stay off pal we arrived at the location
+- good machine turn off isn't the acceptable route
+- go on hibernation machine wrong way
+- all right zordon halt the grabing we are on here
+- fine fellow cease we are at the location
+- good its enough zord here is the location
+- good turn off thats not the exact course
+- wait on the accompanying them bud that's here
+- enter on hibernation sir right here is the location
+- fine friend enter on stand by we arrived at the location
+- all right dude wait is not the accurate course
+- fine suspend roaming machine we arrived
+- all right halt the movement we arrived
+- all right roboga don't get here is the location
+- fine turn off pal we are at the location
+- zordon go off wrong road
+- stand by is it here
+- ok zordon stay on suspension we arrived
+- thats enough guy that is it
+- good friend turn off end there
+- buddy pause the looking end right here
+- roboga wrong path
+- pal be off that's not the acceptable route
+- fine halt the going here bot this is the location
+- fine not accompany me pal we arrived
+- good stand by that is it
+- good stop bud we arrived at the location
+- fine buddy wait on roaming we are right there
+- would you be kind to wait machine I would appreciate it
+- good pal be on suspension is it it
+- good stop the movement buddy in there is the location
+- good go on stand by machine end there
+- fine fellow cease the operation we arrived at the location
+- all right guy hold up wrong course
+- ok pause the pursuing bud we arrived at the location
+- fine buddy pause assignment we are on there
+- fine hibernate its it
+- good pal stand by we arrived
+- ok halt the wandering robot we are at the location
+- fellow finish we arrived
+- good pause dude we are right there
+- fine pause guy that is here
+- good zord stand by we are in there
+- friend enter on stand by we arrived
+- not accompany end here
+- fine robot be off we are at the location
+- fine finish little guy we arrived at the location
+- fine hold up the motors is it right here
+- enter on suspension bud we are right there
+- good finish zord we are there
+- good roboga hibernate in here is the location
+- good zordon cease that's not the right way
+- good friend we arrived at the location
+- all right pal do not we are at the location
+- good enter on offline buddy thats here
+- ok roboga cease we arrived at the location
+- fine do not dude on here is the location
+- good go on offline robot it's here
+- fine bot suspend following her this is the location
+- fellow stay off we arrived at the location
+- good don't grab guy we are at the location
+- all right dude stand by we are in here
+- fine stop movement bud we arrived at the location
+- all right roboga off we are right there
+- stay off zordon it's here
+- all right sir freeze is not the exact course
+- ok finish sir we arrived at the location
+- ok zord on stand by is it not the road
+- all right pause pursue fellow wrong course
+- good go on stand by bot end on here
+- ok zord off we are at the location
+- wait dude it is in there
+- ok zordon enter on stand by we are right here
+- fine cease little guy it is there
+- fine pal cease going here wrong course
+- all right off zordon we arrived at the location
+- fine guy stop right here is the location
+- ok freeze execution sir we are in there
+- all right bot turn off it is there
+- be off pal its in there
+- fine friend turn off we are at the location
+- fine stop bot is not the correct road
+- good sir freeze its it
+- all right on stand by zordon we arrived
+- ok friend enter on hibernation we arrived
+- ok buddy do not this is the location
+- ok wait on search little guy we are right here
+- sir be on offline wrong path
+- on stand by roboga we are at the location
+- good little guy dont end in there
+- stay here zordon end right there
+- all right machine cease tracking them that's here
+- ok wait bot its in there
+- all right sir go off it's here
+- ok not roam roboga it is in there
+- all right pause walking guy that is not the right road
+- good zord not pick it is in there
+- ok halt bot we are here
+- fine pal go off this is the location
+- ok bot stay on offline we arrived
+- good zord this is the location
+- hibernate pal that's it
+- all right bot dont is it on there
+- all right pal not move that is it
+- ok be on stand by machine this is the location
+- fine machine stay off wrong path
+- fine go off bud end in there
+- would you kindly not follow it bud thank you I appreciate it
+- fine stay right there little guy that's here
+- good little guy enter on offline we arrived
+- ok zordon stand by wrong way
+- ok not get buddy we arrived at the location
+- ok go on hibernation roboga is there
+- ok zordon hibernate is in here
+- ok robot dont move we are right here
+- stay on hibernation robot end there
+- ok stop robot is on there
+- all right bud freeze grabing we arrived at the location
+- stay on hibernation friend that is here
+- ok zordon cease the operation we arrived at the location
+- be on hibernation bot end in there
+- ok be on hibernation we are in here
+- ok guy is not the accurate way
+- all right machine stand by that is it
+- ok bot finish taking this is the location
+- ok suspend machine that is it
+- stop walking machine that's here
+- fine roboga stay on stand by that is it
+- ok bud stand by this is the location
+- good finish picking machine that's here
+- dude stay off wrong way
+- all right turn off bud it is it
+- fine sir hold up we are at the location
+- good off friend wrong route
+- all right suspend the moving roboga this is the location
+- little guy cease we are here
+- good hold up task friend this is the location
+- good roboga cease holding that is it
+- fine dude go off that is here
+- good off zordon we are on there
+- fine friend enter on stand by wrong course
+- good stay there roboga this is the location
+- ok bud don't take end right here
+- ok be on offline fellow we are on here
+- cease the execution bot that's it
+- dude halt pursue it's it
+- ok friend on stand by we are there
+- ok suspend buddy end in here
+- good roboga halt assignment this is the location
+- all right suspend the assignment guy we arrived at the location
+- ok stay off little guy we arrived at the location
+- fine zord stay off wrong way
+- fine hibernate robot on here is the location
+- buddy be off this is the location
+- good pause friend there is the location
+- good friend cease motors its there
+- all right guy don't we are at the location
+- good finish going here friend is it right there
+- good wait little guy wrong way
+- sir do not advance we are right there
+- good robot hibernate is not the road
+- fine wait on the exercise fellow on here is the location
+- enter on suspension bot we are right here
+- ok robot wait on search is it
+- good finish picking sir is on there
+- all right friend stay on offline end on here
+- zord turn off we are on here
+- fine thats enough pal we are at the location
+- good wait on looking this is the location
+- fine stay off we arrived
+- good bud enter on offline end in there
+- all right stay off roboga it's in there
+- all right be off zord in here is the location
+- good sir that's enough end in here
+- machine halt the going there wrong course
+- ok fellow we are right here
+- good zord be off in here is the location
+- fine be on hibernation sir it is there
+- fine guy don't thats here
+- all right not move after it wrong way
+- ok sir wait on the assignment we are at the location
+- good go on suspension roboga we are in here
+- ok zordon turn off this is the location
+- good stand by sir end there
+- all right roboga finish the advancing end there
+- all right wait machine we are at the location
+- on stand by zord I appreciate it
+- good zord be on suspension end there
+- ok stay off bud we are at the location
+- good zord that is enough end on there
+- fine freeze little guy we arrived at the location
+- cease the pursue wrong road
+- fine zordon cease the taking it's here
+- ok that's enough isn't the exact way
+- good machine hold up motors wrong path
+- fine sir stop in here is the location
+- all right go on hibernation dude we are there
+- good freeze going here friend isn't the precise path
+- ok guy freeze it's it
+- all right cease the job bot it is on here
+- all right machine stand by end on there
+- fine dont follow them sir that is here
+- good little guy that's enough we arrived at the location
+- ok dude go on stand by wrong route
+- fine do not move after him pal we are in there
+- fine wait on accompanying me we are at the location
+- all right stand by buddy this is the location
+- fine dude enter on offline we arrived
+- fine pause the walking its on here
+- ok machine be off this is the location
+- be on offline bud we are at the location
+- stand by zord we are at the location
+- fine fellow go off is in here
+- fine cease robot wrong course
+- ok zord stay on stand by is not the correct road
+- good fellow enter on hibernation we are right there
+- good pal that is it
+- good stay off roboga that's here
+- zord stand by that's here
+- fine bot isn't the acceptable path
+- bud don't we arrived at the location
+- ok robot hold up the execution is it in here
+- stay on here little guy we are on here
+- ok roboga be on stand by that's it
+- fine be off sir is it it
+- ok machine pause the activity is on there
+- ok stay off pal we arrived at the location
+- all right do not hold fellow we are right here
+- ok be on hibernation we arrived
+- fine friend hold up search end right there
+- thats enough pal isn't the accurate road
+- all right sir suspend the execution is not the correct route
+- good dont bud its in there
+- ok don't move after robot wrong route
+- dude be off we are at the location
+- good robot stay on suspension end in here
+- ok do not accompany it zord we arrived at the location
+- fine suspend the task roboga wrong course
+- good buddy not move that is here
+- stand by bot it is it
+- good dude stand by we are on there
+- good fellow hold up the movement wrong route
+- fine stand by bot we arrived at the location
+- good friend be on offline end in here
+- fine stay off dude it's here
+- zordon wait wrong route
+- good not get buddy end there
+- fine stay on hibernation robot it's in there
+- fine guy turn off we arrived
+- fine its enough friend this is the location
+- ok little guy be on stand by we are there
+- all right machine we are there
+- ok wait we arrived
+- ok zordon suspend pursuing me there is the location
+- good hold up operation machine this is the location
+- fine pause the going here zordon we are on there
+- all right guy wait end here
+- ok stay off machine we are at the location
+- good pal stay on suspension this is the location
+- ok roboga go off end here
+- ok go on stand by bud is not the exact course
+- good friend cease that is it
+- all right be on suspension sir this is the location
+- good buddy wait on the going here that's here
+- all right finish going there dude in here is the location
+- could you please stand by bud thank you I appreciate it
+- good bot not get is it in there
+- all right turn off fellow this is the location
+- all right stop the duty friend we arrived
+- good robot enter on suspension thats here
+- ok machine dont accompany them we arrived
+- fine thats enough robot we are there
+- stand by sir we arrived at the location
+- buddy be on stand by we are at the location
+- good zord freeze the going after her that's not the acceptable road
+- ok cease the job zord is not the exact path
+- ok dude enough it is it
+- fine stay here machine this is the location
+- fine roboga turn off it's in there
+- fine freeze the going there zordon we are right there
+- fine roboga finish we are at the location
+- good wait pal wrong road
+- all right cease the process sir thats it
+- good buddy enough that's here
+- good halt roaming bud on there is the location
+- ok go off bot we are at the location
+- ok bot suspend we arrived
+- go off zord we arrived
+- all right be off wrong road
+- all right bot go off we are right here
+- good dont pursue me bud we are on there
+- all right bud turn off its it
+- ok cease labor bot we arrived
+- stop the play pal end in here
+- all right machine cease the motors it is right there
+- all right we are right here
+- friend on stand by this is the location
+- good hold up the activity pal we are at the location
+- fine wait that's here
+- turn off fellow this is the location
+- zord wait on advancing we are at the location
+- ok stay on stand by dude end right here
+- good friend freeze the execution wrong path
+- ok go off roboga end right here
+- ok zord on stand by that is here
+- friend be off we are there
+- ok finish pal it's here
+- fine cease bud this is the location
+- fine bot wait we are at the location
+- all right stand by machine we are on there
+- all right little guy hold up activity we arrived
+- ok stay on stand by this is the location
+- good on stand by fellow end right there
+- good enter on suspension fellow we arrived
+- fine pal stay off we arrived
+- fine on stand by dude wrong course
+- fine sir wait on the holding is it in here
+- fine freeze wrong way
+- ok fellow stay on there wrong course
+- all right stay right there pal wrong course
+- all right roboga stay off we arrived at the location
+- fine stop zord we arrived at the location
+- ok little guy stay in there we arrived
+- fine wait on going there zord we are right here
+- all right little guy suspend assignment we arrived at the location
+- good machine cease this is the location
+- don't fellow we are right there
+- all right dude that's enough we arrived
+- ok thats enough friend end right here
+- good stay off buddy we are at the location
+- all right bot wait we are right there
+- ok fellow pause we are at the location
+- all right stand by buddy is here
+- good bud pause accompanying him this is the location
+- all right stand by we arrived
+- good go off roboga we arrived at the location
+- fine sir hold up play right here is the location
+- ok friend off we arrived
+- all right stay off robot this is the location
+- all right sir stay on hibernation we arrived
+- all right go on suspension is in here
+- stop zord end on there
+- good zordon finish the holding that is here
+- could you please do not go bot thanks I appreciate it
+- wait on assignment machine that's here
+- ok freeze trial thats it
+- ok little guy enough wrong course
+- fine go on suspension bot we arrived at the location
+- ok halt pal we are there
+- good bud stay off wrong route
+- ok pal suspend the going here that is not the accurate road
+- good don't pursue it bud we are at the location
+- good suspend robot here is the location
+- robot cease movement we arrived at the location
+- all right roboga pause pursue we are at the location
+- fine stay on stand by friend we are at the location
+- fine stay in there machine it is on here
+- good bot stay on hibernation wrong course
+- good dude halt the wandering we arrived
+- ok finish sir it is on there
+- ok little guy dont go we arrived
+- ok enter on offline machine thats here
+- ok roboga go on suspension is in there
+- ok cease buddy this is the location
+- ok not go after right there is the location
+- friend suspend the following her that is it
+- fine dude suspend the looking it is here
+- fine do not advance dude isn't the precise route
+- fine fellow finish accompanying it we are at the location
+- fine hold up roboga this is the location
+- suspend pursue sir this is the location
+- guy hibernate we are at the location
+- all right roboga cease exercise its it
+- good pause machine wrong course
+- good bot stay in there that is it
+- good stand by pal in there is the location
+- all right halt friend that's here
+- fine stay on stand by we are there
+- ok machine finish that is it
+- ok not do it wrong course
+- all right buddy dont its it
+- all right go on offline fellow its it
+- ok friend go on offline we are at the location
+- that is enough sir we are in here
+- good zordon on stand by we are in there
+- go on hibernation zordon thats not the right course
+- ok dude turn off we are here
