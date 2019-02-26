@@ -349,12 +349,7 @@
 
 ~[action]
     ~[move]
-    follow ~[pronoun?]
-    accompany ~[pronoun?]
-    track ~[pronoun?]
-    pursue ~[pronoun?]
-    go after ~[pronoun?]
-    move after ~[pronoun?]
+    ~[follow] ~[pronoun?]
     find ~[it?]
     grab ~[it?]
     take ~[it?]
@@ -364,25 +359,19 @@
     do it
 
 ~[actioning]
-    following ~[pronoun?]
-    tracking ~[pronoun?]
-    accompanying ~[pronoun?]
-    pursuing ~[pronoun?]
-    going after ~[pronoun?]
-    moving after ~[pronoun?]
-    moving
-    looking
-    walking
-    roaming
-    wandering
-    advancing
-    going there
-    going here
+    ~[moving] ~[there?]
+    ~[following] ~[pronoun?]
     grabing ~[pronoun?]
     taking ~[pronoun?]
     picking ~[pronoun?] 
     holding ~[pronoun?]
     getting ~[pronoun?]
+
+~[there]
+    there
+    here
+    to there
+    to here
 
 ~[work]
     movement
@@ -455,30 +444,50 @@
     migrates
     run
 
+~[moving]
+    moving
+    going
+    walking
+    traveling
+    advancing
+    roaming
+    searching
+    nagating
+    driving
+    migrating
+    running
+
+~[move_order]
+    ~[move]
+    start ~[moving]
+    begin ~[moving]
+    get ~[moving]
+
 ~[be]
     be
     stay
     stand
     wait
     wait for me
+    come
+    approach
 
-~[iwill/want]
-    I will be waiting for you
-    ~[im] waiting
-    I'll be waiting for you
-    I want you
-    I would like
-    I would like for you
-
+// **************************************************
+//  Intent
+//  move
+// **************************************************
 ~[command_move]
-    ~[move]
-    ~[move] to @[pronoun?] //TODO
-    ~[move] ~[on?] @[direction]
-    ~[move] ~[atthe] @[location]
+    ~[move_order]
+    ~[move_order] ~[on?] @[direction]
+    ~[move_order] ~[atthe] @[location]
+    ~[move_order] ~[nextto] ~[person]
+    ~[move_order] ~[nextto] ~[person] ~[atthe] @[location]
 
 ~[command_be]
     ~[be] ~[atthe] @[location]
     ~[atthe] @[location]
+    ~[be] ~[nextto] ~[person]
+    ~[be] ~[nextto] ~[person] ~[atthe] @[location]
 
 ~[command_be_move]
     ~[command_be]
@@ -488,7 +497,49 @@
     on
     in
     to the
+    towards the
+    toward the
 
+%[follow]('training': '4000', 'testing': '4000')
+    ~[please_?] ~[command_follow] ~[bot?]
+    ~[command_follow] ~[bot?] ~[_please:thanks?]
+    ~[iwill/want] ~[command_follow] ~[bot?]
+
+~[follow]
+    follow
+    accompany
+    track
+    pursue
+    go after
+    move after
+
+~[following]
+    following
+    tracking
+    accompanying
+    pursuing
+    going after
+    moving after
+
+~[follow_order]
+    ~[move]
+    start ~[following]
+    begin ~[following]
+    get ~[following]
+
+~[toperson]
+    to ~[person]
+
+~[command_follow]
+    ~[be] close ~[toperson?]
+    ~[be] my side 
+    ~[be] by my side
+    ~[be] with ~[person]
+    ~[be] behind ~[person]
+    ~[follow_order]
+    ~[follow_order] ~[atthe] @[location]
+    ~[follow_order] ~[nextto?] ~[person]
+    ~[follow_order] ~[nextto?] ~[person] ~[atthe] @[location]
 
 // **************************************************
 //  Utils
@@ -513,18 +564,21 @@
     friend
 
 ~[atthe]
-    ~[to/on/at] the
-    by the
-    nearby the
-    nearby to the
-    nearby at the
-    close to the
-    close at the
-    close by the
-    closely to the
-    near the
-    next to the
-    ~[to/on/at] the ~[relative_place] of the
+    ~[nextto] the
+
+~[nextto]
+    ~[to/on/at]
+    by
+    nearby
+    nearby to
+    nearby at
+    close to
+    close at
+    close by
+    closely to
+    near
+    next to
+    ~[to/on/at] the ~[relative_place] of
 
 ~[relative_place]
     front
@@ -640,9 +694,54 @@
     hello
     greetings
 
+~[iwill/want]
+    I will be waiting for you
+    ~[im] waiting
+    I'll be waiting for you
+    I want you
+    I would like
+    I would like for you
+
 // **************************************************
 //  Entities
 // **************************************************
+
+@[pronoun_person]
+    me
+    him
+    her
+    them
+
+@[gender]
+    ~[male_person]
+    ~[female_person]
+
+~[male_person]
+    male
+    man
+    dude
+    guy
+    boy
+    gentleman
+
+~[female_person]
+    female
+    woman
+    girl
+    lady
+
+~[person]
+    @[pronoun_person]
+    @[name]
+    the @[gender]
+    the @[gender] ~[that's?] @[gesture]
+    ~[someone] ~[that's?] @[gesture]
+
+~[someone]
+    someone
+    whoever
+    anyone
+    the person
 
 @[name]
     brian
