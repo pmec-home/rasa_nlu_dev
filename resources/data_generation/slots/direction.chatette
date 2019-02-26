@@ -1,0 +1,23 @@
+@[direction]
+    ~[up] = up
+    ~[backward] = down
+    left
+    right
+
+~[up]
+    up
+    front
+    forward
+    ahead
+    forth
+    onward
+    along
+
+~[backward]
+    down
+    rear
+    backward
+    backwards
+    rearward
+    back
+    reverse

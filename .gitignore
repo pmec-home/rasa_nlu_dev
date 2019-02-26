@@ -1,7 +1,7 @@
 #Data generation and tensorflow models
 resources/data_generation/output
 resources/rasa/data
-resources/rasa/model
+resources/rasa/models
 resources/rasa/tests
 
 # Created by https://www.gitignore.io/api/git,node,python,notepadpp,virtualenv,sublimetext,jetbrains+all,jupyternotebook,jupyternotebooks,visualstudiocode
