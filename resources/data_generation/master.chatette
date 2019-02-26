@@ -38,7 +38,7 @@
     fine
     good
 
-~[mean/want]
+~[mean-want]
     want
     desire
     mean
@@ -51,7 +51,7 @@
     prefer
 
 ~[wantThat]
-    i ~[mean/want] ~[that/it]
+    i ~[mean-want] ~[that-it]
     sounds good
     that sounds good
     very good
@@ -63,8 +63,8 @@
     that's it
     that is it
     you understood me
-    ~[that's?] what i ~[mean/want]
-    ~[mean/want] ~[that/it]
+    ~[that's?] what i ~[mean-want]
+    ~[mean-want] ~[that-it]
     ~[im] ~[allright] with that
     ~[im] ~[allright] with this
     sure
@@ -88,8 +88,8 @@
     if you are kind ~[thanks?]
     if you please ~[thanks?]
     if you could ~[thanks?]
-    ~[i/would] love it ~[thanks?]
-    ~[i/would] love that ~[thanks?]
+    ~[i-would] love it ~[thanks?]
+    ~[i-would] love that ~[thanks?]
 
 // **************************************************
 //  Intent
@@ -137,15 +137,15 @@
 
 ~[notWhatIWant]
     ~[that's] ~[untrue]
-    ~[dnot] ~[mean/want] ~[that/it]
+    ~[dnot] ~[mean-want] ~[that-it]
     ~[dnot] agree on that
-    not what i ~[mean/want]
+    not what i ~[mean-want]
     ~[im?] not ~[allright] with that
     definitely ~[no]
     ~[wrong] for me
     ~[isn't] ~[allright]
     ~[isn't] ~[right]
-    ~[your'e] ~[wrong]
+    ~[you're] ~[wrong]
     there is no need
     no need
     no way
@@ -226,10 +226,10 @@
 
 ~[leaving]
     ~[im?] leaving
-    ~[i will?] talk to you soon
-    ~[i?] have to go ~[now?]
-    ~[i?] got to go ~[now?]
-    ~[i?] talk to you later
+    [i will?] talk to you soon
+    [i?] have to go [now?]
+    [i?] got to go [now?]
+    [i?] talk to you later
     ~[im?] heading out
     ~[im?] leaving now
     ~[im?] going out
@@ -240,7 +240,7 @@
     see you
     see you later
     cu
-    ~[i?] got to go ~[now?]
+    [i?] got to go [now?]
 
 // **************************************************
 //  Intent
@@ -252,8 +252,8 @@
 
 ~[start]
     begin
-    wake ~[up?]
-    start ~[up?]
+    wake [up?]
+    start [up?]
     light up
     listen
     on
@@ -273,7 +273,7 @@
 //  stop
 // **************************************************
 %[stop]('training': '4000', 'testing': '4000')
-    ~[allright] ~[bot?] [stop] ~[here/there?]
+    ~[allright] ~[bot?] [stop] ~[here-there?]
     ~[please_?] ~[stop] ~[bot?] ~[thanks?]
     ~[stop] ~[_please?]
     ~[allright?] ~[bot?] ~[stop?] ~[arrived]
@@ -314,7 +314,7 @@
     be on
     stay on
 
-~[here/there]
+~[here-there]
     here
     there
     right here
@@ -327,16 +327,16 @@
 ~[arrived]
     ~[that's] it
     ~[that's] here
-    ~[it's] ~[here/there]
-    ~[we/you] are ~[here/there]
-    ~[we/you] are ~[atthe] @[location]
-    ~[we/you] arrived ~[here/there?]
-    ~[we/you] arrived ~[atthe] @[location]
+    ~[it's] ~[here-there]
+    ~[we-you] are ~[here-there]
+    ~[we-you] are ~[atthe] @[location]
+    ~[we-you] arrived ~[here-there?]
+    ~[we-you] arrived ~[atthe] @[location]
     this is the @[location]
-    ~[here/there] is the @[location]
+    ~[here-there] is the @[location]
     ~[that's] the @[location]
-    end ~[here/there]
-    end's ~[here/there]
+    end ~[here-there]
+    end's ~[here-there]
     wrong ~[way]
     ~[isn't] the ~[right?] ~[way] 
 
@@ -350,12 +350,12 @@
 ~[action]
     ~[move]
     ~[follow] ~[pronoun?]
-    find ~[it?]
-    grab ~[it?]
-    take ~[it?]
-    pick ~[it?]
-    hold ~[it?]
-    get ~[it?]
+    find [it?]
+    grab [it?]
+    take [it?]
+    pick [it?]
+    hold [it?]
+    get [it?]
     do it
 
 ~[actioning]
@@ -396,8 +396,8 @@
     what you are doing
 
 ~[job]
-    ~[the?] ~[actioning]
-    ~[the?] ~[work]
+    [the?] ~[actioning]
+    [the?] ~[work]
 
 // **************************************************
 //  Intent
@@ -410,12 +410,13 @@
     ~[iwill/want] to ~[command_move] ~[bot?]
 
 @[direction]
-    ~[forward]
-    ~[backward]
+    ~[up] = up
+    ~[backward] = down
     left
     right
 
-~[forward]
+~[up]
+    up
     front
     forward
     ahead
@@ -424,6 +425,7 @@
     along
 
 ~[backward]
+    down
     rear
     backward
     backwards
@@ -552,6 +554,8 @@
     roboga
     robot
     bot
+    chatbot
+    chatterbot
     machine
     buddy
     pal
@@ -567,7 +571,7 @@
     ~[nextto] the
 
 ~[nextto]
-    ~[to/on/at]
+    ~[to-on-at]
     by
     nearby
     nearby to
@@ -578,7 +582,7 @@
     closely to
     near
     next to
-    ~[to/on/at] the ~[relative_place] of
+    ~[to-on-at] the ~[relative_place] of
 
 ~[relative_place]
     front
@@ -587,7 +591,7 @@
     rear
     vincity
 
-~[to/on/at]
+~[to-on-at]
     to
     at
     on
@@ -645,16 +649,16 @@
     you are
     you're
 
-~[i/would]
+~[i-would]
     I
     would
     I would
 
-~[we/you]
+~[we-you]
     we
     you
 
-~[that/it]
+~[that-it]
     that
     it
 
@@ -713,8 +717,8 @@
     them
 
 @[gender]
-    ~[male_person]
-    ~[female_person]
+    ~[male_person] = male
+    ~[female_person] = female
 
 ~[male_person]
     male
@@ -1246,10 +1250,10 @@
 
 @[gesture]
     waving
-    ~[rising left arm]
-    ~[rising right arm]
-    ~[pointing left]
-    ~[pointing right]
+    ~[rising left arm] = rising left arm
+    ~[rising right arm] = rising right arm
+    ~[pointing left] = pointing left
+    ~[pointing right] = pointing right
 
 ~[rising left arm]
     rising left arm
