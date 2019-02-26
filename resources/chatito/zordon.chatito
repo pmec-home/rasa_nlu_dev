@@ -472,10 +472,6 @@
     come
     approach
 
-// **************************************************
-//  Intent
-//  move
-// **************************************************
 ~[command_move]
     ~[move_order]
     ~[move_order] ~[on?] @[direction]
@@ -500,6 +496,10 @@
     towards the
     toward the
 
+// **************************************************
+//  Intent
+//  follow
+// **************************************************
 %[follow]('training': '4000', 'testing': '4000')
     ~[please_?] ~[command_follow] ~[bot?]
     ~[command_follow] ~[bot?] ~[_please:thanks?]
