@@ -80,9 +80,9 @@
 // **************************************************
 %[move]('training': '4000')
     ~[command_be_move]
-    ~[bot?/20] ~[command_be_move] ~[_please:thanks?10]
+    ~[bot?/20] ~[command_be_move] ~[_please:thanks?/10]
     ~[please_?/20] ~[command_be_move] ~[bot?/20]
-    ~[command_be_move] ~[bot?] ~[_please:thanks?10]
+    ~[command_be_move] ~[bot?/30] ~[_please:thanks?/10]
     ~[iwill/want?/30] ~[command_be] ~[bot?/20]
     ~[iwill/want?to/30] [to?to/30] ~[command_move] ~[bot?/20]
 
@@ -92,13 +92,26 @@
 //  follow
 // **************************************************
 %[follow]('training': '4000')
-    ~[follow]
+    ~[follow_order]
+    ~[follow_order#normal]
     ~[command_follow]
     ~[please_?/10] ~[command_follow] ~[bot?/30]
     ~[command_follow] ~[bot?/30] ~[_please:thanks?/10]
     ~[iwill/want?/30] ~[command_follow] ~[bot?/30]
 
+// **************************************************
+//  Intent
+//  grab
+// **************************************************
+%[grab]('training': '4000')
+    ~[command_grab]
+    ~[bot?/20] ~[command_grab] ~[_please:thanks?/10]
+    ~[please_?/20] ~[command_grab] ~[bot?/20]
+    ~[command_grab] ~[bot?/20] ~[_please:thanks?/10]
+    ~[iwill/want?to/30] [to?to/30] ~[command_grab] ~[bot?/20]
 
+
+//todo: hey to the beginings
 // **************************************************
 //  Imports
 // **************************************************

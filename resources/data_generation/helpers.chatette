@@ -302,22 +302,16 @@
 ~[action]
     ~[move]
     ~[follow] ~[pronoun?]
-    find [it?]
-    grab [it?]
-    take [it?]
-    pick [it?]
-    hold [it?]
-    get [it?]
+    ~[grab] [it?]
+    find
     do it
 
 ~[actioning]
     ~[moving] ~[there?]
     ~[following] ~[pronoun?]
-    grabing ~[pronoun?]
-    taking ~[pronoun?]
-    picking ~[pronoun?] 
-    holding ~[pronoun?]
-    getting ~[pronoun?]
+    ~[grabing] ~[pronoun?]
+    finding [it?]
+    doing it
 
 ~[there]
     there
@@ -389,8 +383,6 @@
 
 ~[stand]
     stand
-    wait
-    wait for me
     come
     approach
 
@@ -408,17 +400,18 @@
 
 ~[is at the]
     ~[atthe]
-    {that's/that is} ~[atthe]
+    ~[that is] ~[atthe]
     @[pronoun#himher] is ~[atthe]
 
 ~[command_move]
     ~[move_order]
-    ~[move_order] ~[on?] @[direction]
+    ~[move_order] ~[on?] @[direction#updown]
+    ~[move_order] ~[on_pronoun] @[direction#rl]
     ~[move_order] ~[atthe] @[location]
     ~[move_order] ~[nextto?/30] ~[where] {~[person#other] is/~[person#other] are/@[pronoun#Iam]}
-    
+
 ~[command_be]
-    ~[stand] ~[atthe] @[location]
+    {~[stand]/wait/wait for ~[person]} ~[atthe] @[location]
     ~[atthe] @[location]
     ~[stand] ~[nextto?/30] ~[where] {~[person#other] is/~[person#other] are/@[pronoun#Iam]}
     ~[stand] ~[nextto] ~[person]
@@ -435,6 +428,12 @@
     to the
     towards the
     toward the
+    at
+
+~[on_pronoun]
+    ~[on]
+    ~[on] @[pronoun#my]
+    ~[on] @[pronoun#himher]
 
 // **************************************************
 //  Intent
@@ -445,8 +444,6 @@
     accompany
     track
     pursue
-    go ~[after]
-    move ~[after]
     stay ~[after]
 
 ~[follow-after]
@@ -454,8 +451,6 @@
     accompany ~[after?/20]
     track ~[after?/20]
     pursue ~[after?/20]
-    go ~[after]
-    move ~[after]
     stay ~[after]
 
 ~[following]
@@ -463,8 +458,6 @@
     tracking
     accompanying
     pursuing
-    going ~[after]
-    moving ~[after]
     staying ~[after]
 
 ~[following-after]
@@ -472,20 +465,26 @@
     tracking ~[after?/20]
     accompanying ~[after?/20]
     pursuing ~[after?/20]
-    going ~[after]
-    moving ~[after]
     staying ~[after]
 
-~[follow_order]
+~[follow_order#normal]
+    ~[follow]
+    start ~[following]
+    begin ~[following]
+    get ~[following]
+
+~[follow_order#after]
     ~[follow-after]
     start ~[following-after]
     begin ~[following-after]
     get ~[following-after]
+    ~[move_order] ~[after]
+    ~[be] ~[after?/20]
 
 ~[after]
     after
     behind
-    ~[nextto]
+    ~[nextto#close]
     with
 
 ~[be]
@@ -494,10 +493,51 @@
 
 ~[command_follow]
     ~[follow_order]
-    ~[follow_order] ~[atthe] @[location]
-    {~[follow_order]/~[move_order]/~[be]} ~[after] the ~[person]
-    {~[follow_order]/~[move_order]/~[be]} ~[after] the ~[person#other] ~[is at the] @[location]
-    {~[follow_order]/~[move_order]/~[be]} ~[after] ~[person#me] @[pronoun#Iam] ~[atthe] @[location]
-    {~[follow_order]/~[move_order]/~[be]} at my side 
-    {~[follow_order]/~[move_order]/~[be]} by my side
-    
+    ~[follow_order] {@[pronoun#me]/@[pronoun#himher]}
+    ~[follow_order#normal] ~[after?/20] {to the/ to} @[location]
+    ~[follow_order#after] the ~[person#other]
+    ~[follow_order#after] the ~[person#other] ~[is at the] @[location]
+    ~[follow_order#after] ~[person#me] @[pronoun#Iam] ~[atthe] @[location]
+    {~[follow]/~[move_order]/~[be]} at my side 
+    {~[follow]/~[move_order]/~[be]} by my side
+
+// **************************************************
+//  Intent
+//  grab
+// **************************************************
+~[grab]
+    grab
+    take
+    pick
+    hold
+    get
+
+~[grabing]
+    grabing
+    taking
+    picking
+    holding
+    getting
+
+~[grab_order]
+    ~[grab]
+    start ~[grabing]
+    begin ~[grabing]
+    get ~[grabing]
+
+@[anything]
+    anything
+    any object = anything
+    a object = anything
+    something = anything
+    the object = anything
+
+~[something]
+    @[anything]
+    the @[object]
+
+~[command_grab]
+    ~[grab_order] @[pronoun#it] [up?/10]
+    ~[grab_order] ~[something] [up?/10]
+    ~[grab_order] ~[something] ~[that's?/20] ~[atthe] @[location]
+    ~[grab_order] ~[something] ~[nextto?/30] ~[where] {~[person#other] is/~[person#other] are/@[pronoun#Iam]}

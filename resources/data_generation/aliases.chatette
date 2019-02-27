@@ -23,9 +23,12 @@
 ~[atthe]
     ~[nextto] the
 
-~[nextto]
+~[nextto#on]
     ~[to-on-at]
     by
+    ~[to-on-at] the ~[relative_place] of
+    
+~[nextto#close]
     nearby
     nearby to
     nearby at
@@ -35,7 +38,6 @@
     closely to
     near
     next to
-    ~[to-on-at] the ~[relative_place] of
 
 ~[relative_place]
     front
@@ -82,6 +84,9 @@
 
 ~[that's]
     ~[it's]
+    ~[that is]
+
+~[that is]
     that's
     thats
     that is

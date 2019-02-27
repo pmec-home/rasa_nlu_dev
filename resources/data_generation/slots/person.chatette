@@ -9,6 +9,9 @@
     [&im] = me
     [&i am] = me
 
+@[pronoun#my]
+    my = me
+
 @[pronoun#himher]
     him
     her 
@@ -16,6 +19,10 @@
 @[pronoun#them]
     them
     they
+
+@[pronoun#it]
+    it
+    that = it
 
 @[gender]
     ~[male_person] = male

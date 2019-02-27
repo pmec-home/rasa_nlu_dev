@@ -1,6 +1,8 @@
-@[direction]
+@[direction#updown]
     ~[up] = up
     ~[backward] = down
+
+@[direction#rl]
     left
     right
 
