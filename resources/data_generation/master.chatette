@@ -2,527 +2,108 @@
 //  Intent
 //  Affirmative
 // **************************************************
-%[affirmative]('training': '2000', 'testing': '2000')
-    ~[bot?] ~[yes]
-    ~[bot?] ~[wantThat]
-    ~[yes:polite] ~[bot?]
-    ~[yes] ~[wantThat]
-    ~[yes] ~[bot?] ~[_please:thanks?]
-    ~[wantThat] ~[bot?] ~[_please:thanks?]
-
-~[yes]
-    yes
-    ~[right]
-    ~[allright]
-    affirmative
-    yes to that
-    yep
-    si
-    correcto
-    ok
-    nice
-    yeah
-    yea
-
-~[right]
-    right
-    correct
-    accurate
-    acceptable
-    exact
-    precise
-
-~[allright]
-    ok
-    all right
-    fine
-    good
-
-~[mean-want]
-    want
-    desire
-    mean
-    meant
-    agree on
-    like
-    need
-    wish
-    crave
-    prefer
-
-~[wantThat]
-    i ~[mean-want] ~[that-it]
-    sounds good
-    that sounds good
-    very good
-    very nice
-    ~[that's?] ~[allright]
-    ~[that's?] ~[right]
-    ~[that's] what i want
-    ~[that's?] perfect
-    that's it
-    that is it
-    you understood me
-    ~[that's?] what i ~[mean-want]
-    ~[mean-want] ~[that-it]
-    ~[im] ~[allright] with that
-    ~[im] ~[allright] with this
-    sure
-    indeed
-    definitely
-    of course
-    exactly
-    gladly
-    true
-    valid
-    ~[you're] ~[right]
-    you got that ~[right]
-    ~[you're] goddamn ~[right]
-    do it
-    let's do it
-    go
-    let's go
-
-~[yes:polite]
-    ~[_please:thanks]
-    if you are kind ~[thanks?]
-    if you please ~[thanks?]
-    if you could ~[thanks?]
-    ~[i-would] love it ~[thanks?]
-    ~[i-would] love that ~[thanks?]
+%[affirmative]('training': '2000')
+    ~[yes]
+    ~[wantThat]
+    ~[bot?/10] ~[yes]
+    ~[bot?/10] ~[wantThat]
+    ~[yes:polite] ~[bot?/10]
+    ~[yes?/30] ~[wantThat]
+    ~[yes] ~[bot?/10] ~[_please:thanks?/10]
+    ~[wantThat] ~[bot?/10] ~[_please:thanks?/10]
 
 // **************************************************
 //  Intent
 //  Negative
 // **************************************************
-%[negative]('training': '2000', 'testing': '2000')
+%[negative]('training': '2000')
+    ~[no]
+    ~[notWhatIWant]
     ~[bot?] ~[no]
     ~[bot?] ~[notWhatIWant]
-    ~[no] ~[bot?] ~[_please:thanks?]
-    ~[notWhatIWant] ~[bot?]
-    ~[no] ~[notWhatIWant] ~[bot?]
+    ~[no] ~[bot?] ~[_please:thanks?/10]
+    ~[notWhatIWant] ~[bot?/30]
+    ~[no] ~[notWhatIWant] ~[bot?/30]
     ~[yes] ~[notWhatIWant]
     ~[thanks] but ~[no]
     ~[thanks] but ~[notWhatIWant]
-
-~[no]
-    no
-    nope
-    negative
-    no to that
-    ~[don't]
-    ~[untrue]
-
-~[wrong]
-    bad
-    incorrect
-    wrong
-    mistaken
-    incorrect
-    inaccurate
-    imprecise
-    incomplete
-    not ~[allright]
-    not ~[right]
-
-~[untrue]
-    ~[wrong]
-    untrue
-    false
-    faulty
-    defective
-    falty
-    erroneous
-    missing
-
-~[notWhatIWant]
-    ~[that's] ~[untrue]
-    ~[dnot] ~[mean-want] ~[that-it]
-    ~[dnot] agree on that
-    not what i ~[mean-want]
-    ~[im?] not ~[allright] with that
-    definitely ~[no]
-    ~[wrong] for me
-    ~[isn't] ~[allright]
-    ~[isn't] ~[right]
-    ~[you're] ~[wrong]
-    there is no need
-    no need
-    no way
-    not quite
-    not at all
-    almost
 
 // **************************************************
 //  Intent
 //  Greet
 // **************************************************
-%[greet]('training': '1000', 'testing': '1000')
+%[greet]('training': '2000')
+    ~[hi]
+    ~[greetings]
     ~[bot?] ~[hi]
     ~[hi] ~[bot?] ~[greetings?]
     ~[greetings] ~[bot?]
     ~[bot?] ~[greetings]
 
-~[hi]
-    hi
-    hello
-    hey
-    howdy
-    hola
-    ola
-    hello there
-    hey there
-
-~[greetings]
-    ~[hi] again
-    greetings
-    salutations
-    greetings and salutations
-    how are you
-    whats up
-    how are you doing
-    how ~[it's] going
-    good morning
-    good afternoon
-    good day
-    good night
-    goodmorning
-    goodafternoon
-    goodday
-    goodnight
-    are you there
-    morning
-    how are things going
-    are you around
-    whatsup
-    sup
-    hallo
-    what's up
-    what is up
-
 // **************************************************
 //  Intent
 //  Bye
 // **************************************************
-%[bye]('training': '1000', 'testing': '1000')
+%[bye]('training': '2000')
+    ~[bye]
+    ~[leaving]
     ~[bye] ~[bot?] ~[leaving?]
     ~[bot?] ~[bye] ~[leaving?]
     ~[bye?] ~[leaving] ~[bot?]
     ~[bot?] ~[bye?] ~[leaving]
 
-~[bye]
-    bye
-    bye bye
-    goodbye
-    good bye
-    adios
-    farewell
-    adieu
-    chao
-    chau
-    tchau
-    bye now
-    later
-
-~[leaving]
-    ~[im?] leaving
-    [i will?] talk to you soon
-    [i?] have to go [now?]
-    [i?] got to go [now?]
-    [i?] talk to you later
-    ~[im?] heading out
-    ~[im?] leaving now
-    ~[im?] going out
-    see you around
-    have a nice day
-    have a nice afternoon
-    have a nice night
-    see you
-    see you later
-    cu
-    [i?] got to go [now?]
-
 // **************************************************
 //  Intent
 //  start
 // **************************************************
-%[start]('training': '1500', 'testing': '1500')
-    ~[you may?] ~[start] ~[bot?] ~[_please:thanks?]
-    ~[bot?] ~[you may?] ~[start] ~[_please:thanks?]
-
-~[start]
-    begin
-    wake [up?]
-    start [up?]
-    light up
-    listen
-    on
-    turn on
-    commence
-    go ahead
-    initiate
-
-~[you may]
-    ~[please_]
-    you may
-    you can
-    you should
+%[start]('training': '1000')
+    ~[start]
+    ~[you may?/20] ~[start] ~[bot?] ~[_please:thanks?/10]
+    ~[bot?/30] ~[you may?/20] ~[start] ~[_please:thanks?/10]
 
 // **************************************************
 //  Intent
 //  stop
 // **************************************************
-%[stop]('training': '4000', 'testing': '4000')
-    ~[allright] ~[bot?] [stop] ~[here-there?]
-    ~[please_?] ~[stop] ~[bot?] ~[thanks?]
-    ~[stop] ~[_please?]
-    ~[allright?] ~[bot?] ~[stop?] ~[arrived]
-    ~[allright?] ~[stop?] ~[bot?] ~[arrived]
-
-~[stop]
-    stop ~[job?]
-    wait on ~[job]
-    finish ~[job?]
-    cease ~[job?]
-    freeze ~[job?]
-    hold up ~[job?]
-    suspend ~[job?]
-    wait
-    pause ~[job?]
-    halt ~[job?]
-    off
-    go off
-    turn off
-    stay off
-    stay
-    be off
-    stand by
-    on stand by
-    ~[goon] suspension
-    ~[goon] hibernation
-    ~[goon] stand by
-    ~[goon] offline
-    hibernate
-    ~[don't]
-    ~[that's?] enough
-    ~[don't] ~[action]
-    not ~[action]
-
-~[goon]
-    go on
-    enter on
-    be on
-    stay on
-
-~[here-there]
-    here
-    there
-    right here
-    right there
-    in here
-    in there
-    on here
-    on there
-
-~[arrived]
-    ~[that's] it
-    ~[that's] here
-    ~[it's] ~[here-there]
-    ~[we-you] are ~[here-there]
-    ~[we-you] are ~[atthe] @[location]
-    ~[we-you] arrived ~[here-there?]
-    ~[we-you] arrived ~[atthe] @[location]
-    this is the @[location]
-    ~[here-there] is the @[location]
-    ~[that's] the @[location]
-    end ~[here-there]
-    end's ~[here-there]
-    wrong ~[way]
-    ~[isn't] the ~[right?] ~[way] 
-
-~[way]
-    way
-    path
-    route
-    road
-    course
-
-~[action]
-    ~[move]
-    ~[follow] ~[pronoun?]
-    find [it?]
-    grab [it?]
-    take [it?]
-    pick [it?]
-    hold [it?]
-    get [it?]
-    do it
-
-~[actioning]
-    ~[moving] ~[there?]
-    ~[following] ~[pronoun?]
-    grabing ~[pronoun?]
-    taking ~[pronoun?]
-    picking ~[pronoun?] 
-    holding ~[pronoun?]
-    getting ~[pronoun?]
-
-~[there]
-    there
-    here
-    to there
-    to here
-
-~[work]
-    movement
-    motors
-    execution
-    task
-    job
-    activity
-    duty
-    exercise
-    work
-    operation
-    process
-    search
-    assignment
-    labor
-    trial
-    play
-    pursue
-    everything
-    what you doing
-    what you are doing
-
-~[job]
-    [the?] ~[actioning]
-    [the?] ~[work]
+%[stop]('training': '4000')
+    ~[stop]
+    ~[arrived]
+    ~[allright?/20] ~[bot?/30] ~[stop] ~[here-there?]
+    ~[please_?/10] ~[stop] ~[bot?/30] ~[thanks?/10]
+    ~[stop] ~[_please?/20]
+    ~[allright?/20] ~[bot?/20] ~[stop?/20] ~[arrived]
+    ~[allright?/20] ~[stop?/20] ~[bot?/20] ~[arrived]
 
 // **************************************************
 //  Intent
 //  move
 // **************************************************
-%[move]('training': '4000', 'testing': '4000')
-    ~[please_?] ~[command_be_move] ~[bot?]
-    ~[command_be_move] ~[bot?] ~[_please:thanks?]
-    ~[iwill/want] ~[command_be] ~[bot?]
-    ~[iwill/want] to ~[command_move] ~[bot?]
+%[move]('training': '4000')
+    ~[command_be_move]
+    ~[bot?/20] ~[command_be_move] ~[_please:thanks?10]
+    ~[please_?/20] ~[command_be_move] ~[bot?/20]
+    ~[command_be_move] ~[bot?] ~[_please:thanks?10]
+    ~[iwill/want?/30] ~[command_be] ~[bot?/20]
+    ~[iwill/want?to/30] [to?to/30] ~[command_move] ~[bot?/20]
 
-~[move]
-    move
-    go
-    walk
-    travel
-    advance
-    roam
-    search
-    navigate
-    drive
-    migrates
-    run
-
-~[moving]
-    moving
-    going
-    walking
-    traveling
-    advancing
-    roaming
-    searching
-    nagating
-    driving
-    migrating
-    running
-
-~[move_order]
-    ~[move]
-    start ~[moving]
-    begin ~[moving]
-    get ~[moving]
-
-~[be]
-    be
-    stay
-    stand
-    wait
-    wait for me
-    come
-    approach
-
-~[command_move]
-    ~[move_order]
-    ~[move_order] ~[on?] @[direction]
-    ~[move_order] ~[atthe] @[location]
-    ~[move_order] ~[nextto] ~[person]
-    ~[move_order] ~[nextto] ~[person] ~[atthe] @[location]
-
-~[command_be]
-    ~[be] ~[atthe] @[location]
-    ~[atthe] @[location]
-    ~[be] ~[nextto] ~[person]
-    ~[be] ~[nextto] ~[person] ~[atthe] @[location]
-
-~[command_be_move]
-    ~[command_be]
-    ~[command_move]    
-
-~[on]
-    on
-    in
-    to the
-    towards the
-    toward the
 
 // **************************************************
 //  Intent
 //  follow
 // **************************************************
-%[follow]('training': '4000', 'testing': '4000')
-    ~[please_?] ~[command_follow] ~[bot?]
-    ~[command_follow] ~[bot?] ~[_please:thanks?]
-    ~[iwill/want] ~[command_follow] ~[bot?]
+%[follow]('training': '4000')
+    ~[follow]
+    ~[command_follow]
+    ~[please_?/10] ~[command_follow] ~[bot?/30]
+    ~[command_follow] ~[bot?/30] ~[_please:thanks?/10]
+    ~[iwill/want?/30] ~[command_follow] ~[bot?/30]
 
-~[follow]
-    follow
-    accompany
-    track
-    pursue
-    go after
-    move after
-
-~[following]
-    following
-    tracking
-    accompanying
-    pursuing
-    going after
-    moving after
-
-~[follow_order]
-    ~[move]
-    start ~[following]
-    begin ~[following]
-    get ~[following]
-
-~[toperson]
-    to ~[person]
-
-~[command_follow]
-    ~[be] close ~[toperson?]
-    ~[be] my side 
-    ~[be] by my side
-    ~[be] with ~[person]
-    ~[be] behind ~[person]
-    ~[follow_order]
-    ~[follow_order] ~[atthe] @[location]
-    ~[follow_order] ~[nextto?] ~[person]
-    ~[follow_order] ~[nextto?] ~[person] ~[atthe] @[location]
 
 // **************************************************
 //  Imports
 // **************************************************
 
+|helpers.chatette
 |definitions.chatette
 |aliases.chatette
 |slots/gesture.chatette

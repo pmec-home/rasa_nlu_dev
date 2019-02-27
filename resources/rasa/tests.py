@@ -1,6 +1,8 @@
 import unittest
 import pandas
 from rasa_nlu.model import Interpreter
+from rasa_nlu.training_data import load_data
+from .trainer import train
 import os
 import json
 
@@ -15,24 +17,34 @@ def hasSlot(slot, nlu_result):
 
 class NLUTestCase(unittest.TestCase):
 	def setUp(self):
-		self.interpreter = Interpreter.load(directory+"/models/current/nlu/")
-		self.tests = pandas.read_csv(directory+"/tests/test_data.csv")
-		self.tests.fillna("")
+		self.interpreter = Interpreter.load(directory+"/models/current/default/nlu/")
+		self.tests = load_data(directory+"/data/base_test.md")
+		self.verificationErrors = []
 
 	def test_nlu(self):
-		print(self.tests)
-		for index,test in self.tests.iterrows():
-			result = self.interpreter.parse(test['text'])
-			message = "\nText: {}\n    Intent found: {} / Intent target: {}".format(test['text'], result['intent']['name'], test['intent'])
-			self.assertEqual(result['intent']['name'], test['intent'], message)
-			if(test['slots']):
-				slots = test['slots'].split(',')
-				for slot in slots:
-					message = "\nText: {}\n    Slot target: {}\n    Slots found:\n         {}".format(test['text'], slot, json.dumps(result['entities'], indent=2))
-					self.assertTrue(hasSlot(slot, result), message)
+		for test in self.tests.intent_examples:
+			result = self.interpreter.parse(test.text)
+			message = "\nText: {}\n    Intent found: {} / Intent target: {}".format(test.text, result['intent']['name'], test.get('intent'))
+			try: self.assertEqual(result['intent']['name'], test.get('intent'), message)
+			except AssertionError as e: self.verificationErrors.append(str(e))
+			if(test.get('entities')):
+				for slot in test.get('entities'):
+					message = "\nText: {}\n    Slot target: {}\n    Slots found:\n         {}".format(test.text, slot['value'], json.dumps(result['entities'], indent=2))
+					try: self.assertTrue(hasSlot(slot['value'], result), message)
+					except AssertionError as e: self.verificationErrors.append(str(e))
+		for error in self.verificationErrors:
+			print(error)
+		print("Numero de erros: ", len(self.verificationErrors))
 					
-			
-
-if __name__ == '__main__':
+def main(train_arg=False):
+	if(train_arg):
+		train()
 	suite = unittest.TestLoader().loadTestsFromTestCase(NLUTestCase)
 	unittest.TextTestRunner(verbosity=2).run(suite)
+
+if __name__ == '__main__':
+	import argparse
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--train", help="train the nlu", action="store_true")
+	args = parser.parse_args()
+	main(train_args=args.train)

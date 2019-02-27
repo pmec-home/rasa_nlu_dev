@@ -1,8 +1,21 @@
-@[pronoun_person]
+@[pronoun#me]
     me
+
+@[pronoun#I]
+    [&I] = me
+
+@[pronoun#Iam]
+    [&i'm] = me
+    [&im] = me
+    [&i am] = me
+
+@[pronoun#himher]
     him
-    her
+    her 
+
+@[pronoun#them]
     them
+    they
 
 @[gender]
     ~[male_person] = male
@@ -25,13 +38,19 @@
     girl
     lady
 
-~[person]
-    @[pronoun_person]
+~[person#other]
+    @[pronoun#himher]
     @[name]
     the @[gender]
     the @[gender] ~[that's?] @[gesture]
     ~[someone] ~[that's?] @[gesture]
 
+~[person#them]
+    @[pronoun#them]
+
+~[person#me]
+    @[pronoun#me]
+    
 ~[someone]
     someone
     whoever
