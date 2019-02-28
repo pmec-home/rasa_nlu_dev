@@ -1,1 +1,43 @@
-# Pequi-Home-Chatbot
+## Pequi Mecânico @Home ~ Chatbot
+
+**Project**
+
+The RoboCup@Home league is a competition aims to develop service and assistive robot technology with high relevance for future personal domestic applications.
+
+This project is developed for the tem Pequi Mecânico from the Ferderal University of Goiás (Brazil), this is submodule of the project responsible for the voice recognition and natural language processing of the robot.
+
+**Requirements**
+
+* **Python 3.6**
+* **[Rasa Core](https://rasa.com/docs/core/)**
+* **[Rasa NLU](https://rasa.com/docs/nlu/)**
+* **[Chatette](https://github.com/SimGus/Chatette)**
+
+To facilitate the requirements instalation just run:
+```shell
+pip install -r requirements.txt
+```
+
+**Usage**
+
+First we need to generate that we will to the Rasa NLU model, to that this project uses an data generation tool called (chatette)[https://github.com/SimGus/Chatette], the .chatette files are localized in rasa/data_generation.  
+To generate the traning data to the default folder (/rasa/data) just run  
+```shell
+make generate-chatette
+```
+
+To the train the Rasa NLU model run
+```shell
+make train-nlu
+```
+The model will be saved on /rasa/models/nlu  
+
+To the train the Rasa Core model run
+```shell
+make train-core
+```
+
+Finally to run the Rasa Stack(the chatbot and the action server):
+ ```shell
+make run
+```

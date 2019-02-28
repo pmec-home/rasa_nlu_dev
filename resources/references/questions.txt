@@ -1,0 +1,750 @@
+//Reference Document
+//List of objects, questions and commands taken from the 2018 @Home RuleBook
+//and from the referee tool https://github.com/RoboCupAtHome/ref_tools
+
+'''
+(category)  An object category.
+(gesture)   A gesture name.
+(location)  Any location.Types may be [room|placement|beacon]
+(name)      A person name.Types may be [male|female]
+(object)    An object name.Types may be [known|alike]
+(question)  The "question" literal string.
+
+(beacon)    Alias for (location beacon)
+(aobject)   Alias for (object alike)
+(female)    Alias for (name female)
+(kobject)   Alias for (object known)
+(male)      Alias for (name male)
+(placement) Alias for (location placement)
+(room)      Alias for (location room)
+(sobject)   Alias for (object special)
+
+*	(pron)		Reference with pronoun, objective case.
+*	(pron obj)	Reference with pronoun, objective case (explicit).
+*	(pron sub)	Reference with pronoun, subjective case.
+'''
+
+class @Room: #Of @Locations
+    def __init__(self, name, locations=[]):
+        self.name = name
+        self.locations = locations
+
+class @Location:
+    def __init__(self, name, isPlacement=False, isBeacon=False):
+        self.name = name
+        self.isPlacement = isPlacement #where it a object can be
+        self.isBeacon = isBeacon #where a person can be
+
+class @Category: #of @Objects
+    def __init__(self, name, room=None, default_location=None, objects=[]):
+        self.name = name
+        self.objects = objects
+        self.default_location = default_location
+        self.room = room  #kinda redudant by the default_location you know the room
+        
+class @Object:
+    def __init__(self, name, difficulty=None, type=None, carateristics=[]):
+        self.name = name
+        self.difficulty = difficulty
+        self.type = type #alike, Known
+        self.carateristics = carateristics #fruit, canPour, alcoholic
+
+class @Gesture:
+    def __init__(self, name, difficulty=None):
+        self.name = name
+        self.difficulty = difficulty
+
+class @Name:
+    def __init__(self, name, gender=None):
+        self.name = name
+        self.gender = gender #Male or Female
+
+class @Questions:
+    def __init__(self, question, answer):
+        self.question = question
+        self.answer = answer
+
+class Itention:
+    def __init__(self, name, examples = []):
+        self.name = name
+        self.examples = []
+
+    def add(example):
+        self.examples.push(example)
+
+##############################################################################
+#
+# Polite
+#
+##############################################################################
+$polite   = {void} | Please
+$polite   = Could you
+$polite   = Robot please
+$polite   = Could you please
+name = Zordon
+
+## intent:greet
+GREET = [
+    "hey",
+    "hello",
+    "hi",
+    "hello there",
+    "goodmorning",
+    "goodevening",
+    "goodafternoon",
+    "good morning",
+    "good evening",
+    "good afternoon",
+    "morning",
+    "moin",
+    "hey there",
+    "let's go",
+    "hey dude",
+    "hey (robot)",
+    "hi (robot)",
+    "hello (robot)",
+    "hi again",
+    "hi pall",
+    "hi there",
+    "what's up",
+    "what's up (robot)",
+    "greetings",
+    "greetings (robot)",
+    "hallo",
+    "hi",
+    "hello friend"
+]
+
+
+## intent:goodbye
+BYE = [
+    "cu",
+    "good by",
+    "later",
+    "cee you later",
+    "good night",
+    "good afternoon",
+    "bye",
+    "goodbye",
+    "have a nice day",
+    "see you around",
+    "bye bye",
+    "see you later",
+    "goodbye (robot)",
+    "bye (robot)",
+    "byebye (robot)",
+    "see you later (robot)",
+    "later (robot)"]
+
+
+#affirm
+AFIRM = [
+    "yes",
+    "sure",
+    "indeed",
+    "of course",
+    "that's right",
+    "that sounds good",
+    "right",
+    "right on",
+    "correct",
+    "that's correct",
+    "ok",
+    "that's it",
+    "you are right",
+    "your'e correct",
+    "nice",
+    "very nice",
+    "perfect",
+    "good",
+    "very good",
+    "let's do it" ,
+    "great",
+    "amazing",
+    "um yes",
+    "yes right",
+    "yes correct",
+    "yes please",
+    "please",
+    "please do it",
+    "if you are kind",
+    "if you please",
+    "if you could",
+    "yes, if you are kind",
+    "right, if you please",
+    "yes, I appreciate it",
+    "appreciate it",
+    "yes (robot)",
+    "right (robot)",
+    "(robot) you are right",
+    "thats correct (robot)",
+    "please (robot)",
+    "do it",
+    "uh yes",
+    "um yes",
+    "um right",
+    "I love it",
+    "I love that",
+    "love it",
+    "love that",
+    "I would love it",
+    "I would love that",
+    "thanks",
+    "thank you",
+    "yes thanks",
+    "yes, thank you",
+    "right, thank you"
+]
+
+#deny
+DENY = [
+    "no",
+    "no no",
+    "nope",
+    "wrong",
+    "incorrect",
+    "not correct",
+    "not right",
+    "I did not",
+    "I didn't",
+    "you are wrong",
+    "not what I meant",
+    "you didn't understand",
+    "not good",
+    "it's wrong",
+    "incomplete",
+    "missing",
+    "never",
+    "I don't think so",
+    "don't like that",
+    "no way",
+    "you are wrong (robot)",
+    "no (robot)",
+    "wrong (robot)",
+    "not what I meant (robot)",
+    "almost",
+    "almost (robot)",
+    "not quite",
+    "not quite (robot)",
+    "(robot) no"
+    ]
+
+action = follow, follow me, following me, move, moving, grab, grabbing, going there
+#stop
+STOP = [
+    "stop",
+    "stop there",
+    "stop here",
+    "don't move",
+    "do not move",
+    "wait",
+    "wait there",
+    "wait here",
+    "stop, stop, stop",
+    "turn off",
+    "careful",
+    "don't go there",
+    "wrong way",
+    "stop (action)",
+    "don't (action)",
+    "do not (action)",
+    "don't do this",
+    "don't follow me",
+    "we are here",
+    "we arrived",
+    "we arrived at the (placement)",
+    "here is the (placement)",
+    "this is the (placement)",
+    "we are at the (placement)",
+    "we are at the destination",
+    "end`s here",
+    "that's enough",
+    "enough",
+    "don't do it robot",
+    "could you stop",
+    "please stop",
+    "stop please",
+    "please wait",
+    "plesa don't",
+    "could you stop",
+    "could you stop please",
+    "could you please stop",
+    "could you wait here",
+    "please stop (action)",
+    "please don't (action)",
+    "Could you please stop (action)",
+    "stop (action) please",
+    "(robot) stop",
+    "(robot) stop everything",
+    "stop (robot)",
+    "(robot) wait",
+    "wait (robot)",
+    "(robot) please stop",
+    "wait (robot) please",
+    "(robot) could you wait",
+    "(robot) turn off",
+]
+
+#move to place
+"go to the (placement)"
+"move to the (placement)"
+"navigate to (placement)"
+"wait for me at the (placement)"
+"wait in the (placement)"
+"I'll be waiting for you at the (placement)"
+"be at the (placement)"
+
+#follow operator
+"follow"
+"follow me"
+"stay behind me"
+"stay by my side"
+"don't let me go"
+"don't go away"
+
+#pick from operator
+"get this"
+"pick this"
+"hold this"
+"take this"
+"grasp this"
+"grab this"
+"take this for me"
+"grab this for me"
+"hold this for me"
+"help me with this"
+"pick this up"
+"here, pick this up"
+"here, hold this up for me"
+"pick the (object), at my hand"
+"pick what I am holding"
+"help me with this thing"
+"pick the (object), that I'm holding"
+"grab the (object), that it is in my hands"
+"get the (object) in my hands"
+"pick the (object) from my hands"
+"get the (object) I am holding for me"
+
+#pick from operator and move it away
+"get this to the (placement)"
+"pick this and bring the (placement)"
+"hold this and put in on the (placement)"
+"take this and put on the (placement)"
+"grasp this and move it to the (placement)"
+"grab this and put at the (placement)"
+"help me bring this to the (placement)"
+"pick this up e take it to the (placement)"
+"here, pick this up and move it to the (placement)"
+"pick the (object), at my hand and leave at the (placement)"
+"pick what I am holding and put it on the (placement)"
+"help me with move this thing to the (placement)"
+"pick the (object), that I'm holding and put it at the (placement)"
+"grab the (object), that it is in my hands and put it on the (placement)"
+"get the (object) in my hands and put it on the (placement)"
+"pick the (object) from my hands and take it to the (placement)"
+"here, hold the (object) and put it at the (placement)"
+#TODO: another references of places, like where joao is, where the cleaning stuff is,
+#where other object is...
+
+#look for object and pick
+"here, hold the (object)"
+"take the (object)"
+"get the (object)"
+"hold the (object)"
+"pick up the (object)"
+"grab that (object)"
+"grasp the (object)"
+"take that (object)"
+"pick the (object) for me"
+"hold the (object) for me"
+"take that (object) for me"
+"grab the (object) for me"
+
+#look for object- pick - and bring to operator
+"give me the (object)"
+"bring me that (obejct)"
+"get to me the (object)"
+"take the (object) and bring here"
+"take that (object) and bring it to me"
+"get the (object), and give it to me"
+"pick up the (object) and go to me"
+"grab that (object) and give it"
+"take that (object) and bring it here"
+"get the (object), and take it where I am"
+"pick up the (object) and move to where I am"
+
+#start grocerie chanllenge
+"start"
+"begin"
+"you may start"
+"you may begin"
+"help me store"
+"help me with the groceries"
+"help me organize the groceries"
+"organize the groceries"
+"store the groceries"
+
+#open the door
+"open it"
+"open the door"
+"open"
+
+##############################################################################
+#
+# SPR
+#
+##############################################################################
+##############################################################################
+#
+# Crowd Question
+#
+##############################################################################
+$crowdq = How many (children | adults | elders) are in the crowd?
+$crowdq = How many (males | females | men | women | boys | girls) are in the crowd?
+$crowdq = How many people in the crowd are (standing | sitting | lying down)?
+$crowdq = How many people in the crowd are (gesture)?
+$crowdq = Tell me the number of (children | adults | elders) in the crowd
+$crowdq = Tell me the number of (males | females | men | women | boys | girls) in the crowd
+$crowdq = Was the person (standing | sitting | lying down) a (male or female | man or woman | boy or girl)?
+$crowdq = Tell me if the person (standing | sitting | lying down) was a (male | female | man | woman | boy | girl)?
+$crowdq = Tell me if the person (gesture) was a (male | female | man | woman | boy | girl)?
+$crowdq = Tell me how many people were wearing (red | blue | white | black | green | yellow)
+
+"How old do you thin I am?"
+"The (standing | sitting | lying down) person was a (male or female | man or woman | boy or girl)?"
+"Am I a (male or female | man or woman | boy or girl)?"
+
+##############################################################################
+#
+# Arena Question
+#
+##############################################################################
+$arenaq = Where is the (placement) located?
+$arenaq = Where is the (beacon) located?
+$arenaq = In which room is the (placement)?
+$arenaq = In which room is the (beacon)?
+$arenaq = How many doors does the (room) have?
+$arenaq = How many ((placement) | (beacon)) are in the (room)?
+
+"Where is the (placement)?"
+
+##############################################################################
+#
+# Object Question
+#
+##############################################################################
+$objq = Where can I find the (object)?
+$objq = How many (category) are there?
+$objq = What's the color of the (kobject)?
+$objq = How many ((category) | objects) are in the (placement)?
+$objq = What objects are stored in the (placement)?
+$objq = Where can I find the ((object) | (category))?
+$objq = What is the category of the (object)?
+$objq = Do the (object 1) and (object 2) belong to the same category?
+$objq = Which is the (heaviest | smallest | biggest | lightest) (category)
+$objq = Which is the (heaviest | smallest | biggest | lightest) object
+$objq = Between the (object 1) and (object 2), which one is (heavier | smaller | bigger | lighter)?
+$adja = heaviest | smallest | biggest | lightest
+$adjr = heavier | smaller | bigger | lighter
+
+
+"What’s the (heaviest | smallest | biggest | lightest) (category)?"
+"What objects are in the (placement)? → The shampoo, soap, the sponge and a cloth."
+"Do the objects in the cupboard belong to the same category?"
+
+*Please note that some questions may refer to a previous question or answer.
+???? HOW?
+
+##############################################################################
+#
+# Predifined Questions
+#
+##############################################################################
+#rules
+"What day is today?"
+"What is your name?"
+"What is your team’s name?"
+"What time is it?"
+"In which year was RoboCup@Home founded?"
+"What was the last question?"
+#base
+"Who invented the C programming language?"
+"When was the C programming language invented?"
+"When was the B programming language invented?"
+"Where does the term computer bug come from?"
+"Who invented the first compiler"
+"Which robot is used in the Open Platform League"
+"Which robot is used in the Domestic Standard Platform League"
+"Which robot is used in the Social Standard Platform League"
+"What's the name of your team?"
+"What time is it?"
+"What day is today?"
+"Do you have dreams?"
+"In which city will next year's RoboCup be hosted?"
+"What is the origin of the name Canada?"
+"What is the capital of Canada?"
+"What is the national anthem of Canada?"
+#Montreal 2018
+"Who's the most handsome person in Canada?"
+"How many time zones are there in Canada?"
+"What's the longest street in the world?"
+"How long is Yonge Street in Ontario?"
+"What's the name of the bear cub exported from Canada to the London Zoo in 1915?"
+"Where was the Blackberry Smartphone developed?"
+"What is the world's largest coin?"
+"In what year was Canada invaded by the USA for the first time?"
+"What year was Canada invaded by the USA for the second time?"
+"What country holds the record for the most gold medals at the Winter Olympics?"
+"Who coined the term Beatlemania?"
+"Why is Canada named Canada?"
+"When was The Mounted Police formed?"
+"When was The Royal Canadian Mounted Police formed?"
+"How big is the RCMP?"
+"What else is Montreal called?"
+"Where is The Hotel de Glace located?"
+"How many tons of ice are required to build The Hotel de Glace?"
+"How many tons of snow are required to build The Hotel de Glace?"
+"Can I visit the Hotel de Glace in summer?"
+"Where is Canada's only desert?"
+"How big is Canada's only desert?"
+"Name 3 famous male Canadians."
+"Name 3 famous female Canadians."
+"What's the origin of the Comic Sans font?"
+"What is a nanobot?"
+"How small can a nanobot be?"
+"Why wasn't Tron nominated for an award by The Motion Picture Academy?"
+"Which was the first computer with a hard disk drive?"
+"When was the first computer with a hard disk drive launched?"
+"How big was the first hard disk drive?"
+"What does CAPTCHA stands for?"
+"What was the first computer bug?"
+"Name all of the robots on Mars."
+"Who is the world's first android?"
+"What is a Mechanical Knight?"
+"What was the first computer to pass the Turing test?"
+"What does Moravec's paradox state?"
+"What is the AI knowledge engineering bottleneck?"
+"Why is Elon Musk worried about AI's impact on humanity?"
+"Do you think robots are a threat to humanity?"
+"What is a chatbot?"
+"Are self-driving cars safe?"
+"Who invented the compiler?"
+"Who created the C Programming Language?"
+"Who created the Python Programming Language?"
+"Is Mark Zuckerberg a robot?"
+"Who is the inventor of the Apple I microcomputer?"
+"Who is considered to be the first computer programmer?"
+"Which program do Jedi use to open PDF files?"
+#German 2018
+"What is Robotics?"
+"Who is considered as the father of industrial robot?"
+"Give one example for a computer programming language that can be used for robot programming."
+"What is the major disadvantage of using a robot?"
+"Name the language used in Expert system?"
+"Name one of the most important parts in Expert system."
+"Which system was designed for diagnosis and therapy recommendation for infectious disease?"
+"What is the importance of AI?"
+"'Weaving The Web' was written by..."
+"What is Beta Test?"
+"What is the extension of PDF?"
+"Expand RDBMS?"
+"Difference engine was developed by..."
+"Orkut.com is now owned by..."
+"World's first microprocessor is..."
+"What is SQL?"
+"What is the expansion of SMS?"
+"Which IT company's nickname is ' The Big Blue ' ?"
+"What is the full form of  IEEE?"
+"Email was developed by..."
+"Who is Netizen?"
+"What is Scareware?"
+
+
+
+##############################################################################
+#
+# GSPR
+#
+##############################################################################
+#Category1
+$findp    = find ( (name) | a person | someone )
+$findp    = look for ( (name) | a person | someone )
+$whowhere = (name) at the (beacon)
+#Category 2 and 3
+$findp    = find a (man | woman | boy | girl)
+$findp    = locate a person (gesture) 
+$findp    = look for a person (sitting | standing | lying down)
+$whowhere = the person (gesture) in the (room)
+#Category3 (Only)
+$whowhere = (name)
+
+##############################################################################
+#
+# Manipulation of object
+#
+##############################################################################
+$deliver  = get the (object) and put it on the (placement)
+$deliver  = take the (object) and place it on the (placement)
+$deliver  = put the (object) on the (placement)
+$deliver  = place the (object) on the (placement)
+$deliver  = bring me the (object)
+$deliver  = give me the (object)
+$deliver  = bring the (object) to me
+$deliver  = take the (object) to $whowhere
+$deliver  = deliver the (object) to $whowhere
+$deliver  = bring the (object) from the (placement) and place it on the (placement)
+$deliver  = take the (object) from the (placement) and put it on the (placement)
+$deliver  = navigate to the (placement), find the (object), and bring it to me
+$deliver  = go to the (placement), locate the (object), and give it to me
+$deliver  = go to the (placement), look for the (object), and deliver it to (name) at the (beacon)
+$deliver  = go to the (placement), find the (object), and give it to (name) at the (beacon)
+$deliver  = go to the (placement), locate the (object), and put it on the (placement)
+$deliver  = navite to the (placement), look for the (object), and place it on the (placement)
+#Category 1
+$deliver  = give me the (kobject) from the (placement)
+$deliver  = bring to $whowhere the (kobject) from the (placement)
+$deliver  = take the (object) from the (placement) and bring it to me
+$deliver  = pick up the (object) from the (placement) and deliver it to (name) at the (beacon)
+$deliver  = get the $object from the (placement) and put it on the (placement)
+$deliver  = grasp the $object from the (placement) and place it on the (placement)
+#Category 2
+$deliver  = take the (aobject) from the (room) to the (placement)
+"Bring me the milk from the microwave"
+
+##############################################################################
+#
+# Find people
+#
+##############################################################################
+$fndppl   = tell something about yourself to $whowhere
+$fndppl   = say the time to $whowhere
+$fndppl   = tell a joke to $whowhere
+$fndppl   = answer a (question) to $whowhere
+$fndppl   = $findp in the (room) and tell the time
+$fndppl   = $findp in the (room) and say your team's affiliation
+$fndppl   = $findp in the (room) and answer a (question)
+$fndppl   = go to the (room), $findp, and say what day is tomorrow
+$fndppl   = go to the (room), $findp, and tell your team's name
+$fndppl   = navigate to the (room), $findp, and answer a (question)
+#Category 1
+$fndppl   = Tell me the name of the person at the (beacon)
+$fndppl   = Tell me the name of the person in the (room)
+#Category 2
+$fndppl   = Tell me the (name | gender | pose) of the person at the (beacon)
+$fndppl   = Tell me the (name | gender | pose) of the person in the (room)
+$fndppl   = tell me how many people in the (room) are (men | women | boys | girls | male | female)
+$fndppl   = tell me how many people in the (room) are (sitting | standing | lying down) 
+"Count the waiving people in the livingroom."
+"Tell me the name of the woman in the kitchen."
+"Find Ana at the bedroom and tell her the time"
+#category 3
+"Tell me how many girls there are in the livingroom."
+
+##############################################################################
+#
+# Find objects
+#
+##############################################################################
+$fndobj   = Tell me how many (object) there are on the (placement)
+$fndobj   = locate the (object) in the (room)
+$fndobj   = look for the (object) in the (room)
+#Category 1
+$fndobj   = find the (kobject?) in the (room)
+$fndobj   = look for the (aobject?) in the (room)
+#Category 2
+$fndobj   = Tell me how many (category) there are on the (placement)
+$fndobj   = Tell me what's the (biggest | largest | smallest | heaviest | lightest | thinnest) object on the (placement)
+$fndobj   = Tell me what's the (biggest | largest | smallest | heaviest | lightest | thinnest) (category) on the (placement)
+$fndobj   = find the (category) in the (room)
+"Tell me how many beverages in the shelf are red."
+
+##############################################################################
+#
+# Follow people
+#
+##############################################################################
+$follow   = follow (name) from the (beacon) to the (room 2)
+$follow   = meet (name) at the (beacon) and follow (pron) to the (room 2)
+$follow   = meet (name) at the (beacon) and follow (pron)
+$follow   = go to the (beacon), meet (name), and follow (pron)
+$follow   = navigate to the (beacon), meet (name), and follow (pron) to the (room 2)
+#category2 rules
+"Follow Ana at the entrance."
+
+##############################################################################
+#
+# Guide people
+#
+##############################################################################
+$guide    = $gdcmd $gdmeta 
+
+$gdcmd    = guide (name) from the (beacon) to the (beacon)
+$gdcmd    = take (name) from the (beacon) to the (beacon)
+$gdcmd    = meet (name) at the (beacon) and escort (pron) to the (beacon)
+$gdcmd    = go to the (beacon), meet (name), and lead (pron) to the (beacon)
+$gdcmd    = go to the (beacon), meet (name), and guide (pron) to the (beacon)
+$gdcmd    = escort (name) to the (beacon), you can find (pron) at the (beacon)
+$gdcmd    = accompany (name) to the (beacon), you may find (pron) at the (beacon)
+$gdcmd    = guide (name) to the (beacon), you will find (pron) at the (beacon)
+$gdcmd    = escort (name) to the (beacon), take (pron) to the (beacon)
+
+##############################################################################
+#
+# Category 3
+#
+##############################################################################
+##############################################################################
+#
+# Complex manipulation
+#
+##############################################################################
+$cmancmd     = Pour some cereals into the bowl
+$cmancmd     = go to the (room 1) (void meta: All access doors to (room 1) bust be closed.)
+$cmancmd     = take the (kobject) to the (placement) (void meta: Block access to (placement) with a movable object or furniture)
+$cmancmd     = bring me the (left | right) most object from the (placement)
+$cmancmd     = give me the object (at the (left | right) of) the (object) from the (placement)
+$cmancmd     = bring me the object (on top of) the (object) from the (placement)
+$cmancmd     = give me the object (above | behind | under ) the (object) from the (placement)
+$cmancmd     = bring me the (biggest | largest | smallest | heaviest | lightest | thinnest) (object | (category)) from the (placement)
+"Give me the left most object from the shelf."
+
+##############################################################################
+#
+# Incomplete commands
+#
+##############################################################################
+$incomplete  = Foolow (name)
+$incomplete  = bring me the (object?)
+$incomplete  = bring the (object?) to me
+$incomplete  = deleliver the (object?) to (name)
+$incomplete  = (guide | escort | take | lead | accompany) (name) to the (beacon)
+$incomplete  = meet (name) and (guide | escort | take | lead | accompany)
+$incomplete  = go to the (beacon), meet (name), and (guide | escort | take | lead | accompany) (pron)
+"Bring me a drink"
+"Bring some snacks to Mary"
+"Bring me a drink from the fridge"
+
+##############################################################################
+#
+# Follow [& guide]
+#
+##############################################################################
+$followout   = meet (name) at the (beacon), follow (pron), and go to the (room 1)
+$followout   = meet (name) at the (beacon), follow (pron), and (guide | escort | take | lead | accompany) (pron) back
+"Follow me and then go to the kitchen"
+
+##############################################################################
+#
+# Find objects
+#
+##############################################################################
+$fndobj   = tell me which are the three (biggest | largest | smallest | heaviest | lightest | thinnest) (objects | (category)) on the (placement)
+$fndobj   = (find | locate | look for) three (category) in the (room)
+"Count the drinks on the table."
+
+
+##############################################################################
+#
+# EEGSPR
+#
+##############################################################################

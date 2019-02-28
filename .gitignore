@@ -1,8 +1,8 @@
 #Data generation and tensorflow models
-resources/data_generation/output
-resources/rasa/data
-resources/rasa/models
-resources/rasa/tests
+rasa/data_generation/output
+rasa/data/train.md
+rasa/data/base_test.md
+rasa/models
 
 # Created by https://www.gitignore.io/api/git,node,python,notepadpp,virtualenv,sublimetext,jetbrains+all,jupyternotebook,jupyternotebooks,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=git,node,python,notepadpp,virtualenv,sublimetext,jetbrains+all,jupyternotebook,jupyternotebooks,visualstudiocode
