@@ -20,22 +20,24 @@ pip install -r requirements.txt
 
 **Usage**
 
-First we need to generate that we will to the Rasa NLU model, to that this project uses an data generation tool called (chatette)[https://github.com/SimGus/Chatette], the .chatette files are localized in rasa/data_generation.  
-To generate the traning data to the default folder (/rasa/data) just run  
+First we need to generate the traning data that we will feed to the Rasa NLU model, to that this project uses an data generation tool called **[Chatette](https://github.com/SimGus/Chatette)**, the .chatette files are localized in *rasa/data_generation*.  
+To generate the traning data to the default folder (*/rasa/data*) just run:  
 ```shell
 make generate-chatette
 ```
 
-To the train the Rasa NLU model run
+
+To the train the Rasa NLU model run the command below, the model will be saved on */rasa/models/nlu*  
 ```shell
 make train-nlu
 ```
-The model will be saved on /rasa/models/nlu  
 
-To the train the Rasa Core model run
+
+To the train the Rasa Core model run the command below, the model will be saved on */rasa/models/core*
 ```shell
 make train-core
 ```
+
 
 Finally to run the Rasa Stack(the chatbot and the action server):
  ```shell
