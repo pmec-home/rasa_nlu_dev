@@ -4,11 +4,11 @@
 
 The RoboCup@Home league is a competition aims to develop service and assistive robot technology with high relevance for future personal domestic applications.
 
-This project is developed for the tem Pequi Mecânico from the Ferderal University of Goiás (Brazil), this is submodule of the project responsible for the voice recognition and natural language processing of the robot.
+This project is developed for the team Pequi Mecânico from the Ferderal University of Goiás (Brazil), this is submodule of the project responsible for the voice recognition and natural language processing of the robot.
 
 **Requirements**
 
-* **Python 3.6**
+* **Python 3.6** (Rasa NLU Tensorflow dependence do not support 3.7 [01/03/19])
 * **[Rasa Core](https://rasa.com/docs/core/)**
 * **[Rasa NLU](https://rasa.com/docs/nlu/)**
 * **[Chatette](https://github.com/SimGus/Chatette)**

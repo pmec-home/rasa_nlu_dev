@@ -18,6 +18,7 @@ intents:
   - move
   - follow
   - pick
+  - question
 
 slots:
   direction:
@@ -46,3 +47,4 @@ actions:
   - utter_greet
   - action_planner
   - action_execute_plan
+  - action_answer_question

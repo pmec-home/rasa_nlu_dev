@@ -33,3 +33,13 @@
 	- action_planner
 * affirm
 	- action_execute_plan
+	
+## story6
+* quetion
+	- action_answer_question
+	
+## story7
+* greet
+	- utter_greet
+* quetion
+	- action_answer_question

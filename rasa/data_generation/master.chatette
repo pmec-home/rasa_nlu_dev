@@ -110,6 +110,13 @@
     ~[command_grab] ~[bot?/20] ~[_please:thanks?/10]
     ~[iwill/want?to/30] [to?to/30] ~[command_grab] ~[bot?/20]
 
+// **************************************************
+//  Intent
+//  question
+// **************************************************
+%[question]
+    ~[trivia_questions]
+
 
 //todo: hey to the beginings
 // **************************************************
@@ -124,3 +131,4 @@
 |slots/object.chatette
 |slots/person.chatette
 |slots/direction.chatette
+|slots/question.chatette

@@ -5,6 +5,7 @@ import rasa_core.run
 
 logger = logging.getLogger(__name__)
 directory = os.path.dirname(os.path.realpath(__file__))
+ 
 
 def run_core():
     print("Starting rasa core...")
