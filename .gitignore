@@ -4,6 +4,8 @@ rasa/data/train.md
 rasa/data/base_test.md
 rasa/models
 
+.vscode/
+
 # Created by https://www.gitignore.io/api/git,node,python,notepadpp,virtualenv,sublimetext,jetbrains+all,jupyternotebook,jupyternotebooks,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=git,node,python,notepadpp,virtualenv,sublimetext,jetbrains+all,jupyternotebook,jupyternotebooks,visualstudiocode
 

@@ -43,3 +43,11 @@
 	- utter_greet
 * quetion
 	- action_answer_question
+
+## story8
+* greet
+	- utter_greet
+* 
+	- action_planner
+* deny
+	- action_execute_plan

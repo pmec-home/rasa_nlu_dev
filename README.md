@@ -15,6 +15,9 @@ This project is developed for the team Pequi Mecânico from the Ferderal Univers
 
 To facilitate the requirements instalation just run:
 ```shell
+sudo apt-get install libasound-dev
+sudo apt-get install python-pyaudio python3-pyaudio
+conda install tensorflow=1.12 pyaudio
 pip install -r requirements.txt
 ```
 

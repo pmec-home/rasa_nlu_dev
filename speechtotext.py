@@ -174,9 +174,63 @@ class GoogleSpeechToText():
                 else:
                     print(transcript + overwrite_chars)
                     return transcript + overwrite_chars
-                
+
+import paho.mqtt.client as mqtt
+import json
+import requests
+from threading import Thread
+import paho.mqtt.publish as publish
+
+class SnipsASR(Thread):
+	def __init__(self, MQTT_IP_ADDR = "localhost", MQTT_PORT=1883):
+		super().__init__()
+		self.client = mqtt.Client()
+		self.client.on_connect = self.on_connect
+		self.client.on_message = self.on_message
+		self.MQTT_IP_ADDR = MQTT_IP_ADDR
+		self.MQTT_PORT = MQTT_PORT
+	
+	def run(self):
+		self.client.connect(self.MQTT_IP_ADDR, self.MQTT_PORT, 60)
+
+		# Blocking call that processes network traffic, dispatches callbacks and
+		# handles reconnecting.
+		# Other loop*() functions are available that give a threaded interface and a
+		# manual interface
+		self.client.loop_forever()
+		
+	def on_connect(self, client, userdata, flags, rc):
+		print("Connected with result code "+str(rc))
+
+		# Subscribing in on_connect() means that if we lose the connection and
+		# reconnect then subscriptions will be renewed.
+		self.client.subscribe("hermes/asr/textCaptured")
+		
+
+	# The callback for when a PUBLISH message is received from the server.
+	def on_message(self, client, userdata, msg):
+		payload = json.loads(msg.payload.decode('utf8'))
+		requests.post('http://localhos:5004/webhooks/rest/webhook', json={"sender": "zordon", "message": payload['text']})
+
+	def activate(self):
+		publish.single("hermes/asr/startListening", '{"siteId": "default"}', hostname="localhost", port=1883)
+
 
 if __name__ == "__main__":
-    client = GoogleSpeechToText()
-    while True:
-        client.recognize_from_mic()
+    #client = GoogleSpeechToText()
+    #while True:
+    #    client.recognize_from_mic()
+	client = SnipsASR()
+	client.setDaemon(True)
+	client.start()
+	#client.run()
+	#import threading
+	#t1 = threading.Thread(target=client.run)
+	#t1.setDaemon(True)
+	#t1.start()
+
+	import paho.mqtt.publish as publish
+	import time
+	while True:
+		publish.single("hermes/asr/startListening", '{"siteId": "default"}', hostname="localhost", port=1883)
+		time.sleep(10)
